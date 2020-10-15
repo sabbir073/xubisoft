@@ -75,8 +75,8 @@ const Hero = ({ subtitleStyle, titleStyle }) => {
                         <Col lg={5} md={6} className="mx-auto">
                             <AppointmentWrap>
                                 <AppointmentTitleWrap>
-                                    <Heading as="h5" mb="10px">Book appointment</Heading>
-                                    <Text>It's out pleasure to have a chance to cooperate.</Text>
+                                    <Heading as="h5" mb="10px">GET A QUOTE</Heading>
+                                    <Text>We are here to know about your queries</Text>
                                 </AppointmentTitleWrap>
                                 <AppointmentFormWrap>
                                     <AppointmentForm />

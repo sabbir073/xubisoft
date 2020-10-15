@@ -63,7 +63,7 @@ const Services = ({
                   title={feature.node.title}
                   desc={feature.node.excerpt}
                   icon={feature.node.icon}
-                  path={`/it-service/${feature.node.fields.slug}`}
+                  path={`/service/${feature.node.fields.slug}`}
                 />
               </Col>
             )

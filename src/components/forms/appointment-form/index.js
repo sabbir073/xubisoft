@@ -77,10 +77,13 @@ const AppointmentForm = () => {
                     ref={register({ required: "Please select a inquiry" })}
                 >
                     <option value="">Your inquiry about</option>
-                    <option value="General Information Request">General Information Request</option>
-                    <option value="Partner Relations">Partner Relations</option>
-                    <option value="Careers">Careers</option>
-                    <option value="Software Licencing">Software Licencing</option>
+                    <option value="General Information Request">General Information</option>
+                    <option value="Website Development">Website Development</option>
+                    <option value="Software Solutions">Software Solutions</option>
+                    <option value="Mobile APP Development">Mobile APP Development</option>
+                    <option value="Call Center Servies">Call Center Servies</option>
+                    <option value="Skill Development Training">Skill Development Training</option>
+                    <option value="Career">Career</option>
                 </Select>
                 <Error>{errors.appointment_inquiry && errors.appointment_inquiry.message}</Error>
             </FormGroup>

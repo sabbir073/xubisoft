@@ -1,9 +1,9 @@
 [
     {
         "id": "appointment-hero-content",
-        "bgImage": "./images/hero/home-appointment-hero-bg-image.jpg", 
-        "subtitle": "Secure & IT Services",
-        "title": "Excellent IT services for your success",
+        "bgImage": "./images/hero/homeslider.jpg", 
+        "subtitle": "Total IT Solutions",
+        "title": "We Provide Solutions That Brings JOY!",
         "video": "https://www.youtube.com/watch?v=9No-FiEInLA",
         "buttonText": "How we work"
     },
