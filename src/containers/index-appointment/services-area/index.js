@@ -41,9 +41,8 @@ const Services = ({
 
   const secdata = serviceQueryData.indexAppointmentJson;
   const serviceData = serviceQueryData.allItServicesJson.edges;
-
   return (
-    <ServicesWrapper>
+    <ServicesWrapper >
       <Container>
         <Row>
           <Col lg={12}>
