@@ -2,55 +2,55 @@
     {
         "id": "super-demo-partner",
         "image": "../images/partners/mitech-client-logo-01.png",
-        "hover_image": "../images/partners/mitech-client-logo-01-hover.png",
+        "hover_image": "../images/partners/mitech-client-logo-01.png",
         "path": "/"
     },
     {
         "id": "demo-logo-partner",
         "image": "../images/partners/mitech-client-logo-02.png",
-        "hover_image": "../images/partners/mitech-client-logo-02-hover.png",
+        "hover_image": "../images/partners/mitech-client-logo-02.png",
         "path": "/"
     },
     {
         "id": "demo-brand-logo-partner",
         "image": "../images/partners/mitech-client-logo-03.png",
-        "hover_image": "../images/partners/mitech-client-logo-03-hover.png",
+        "hover_image": "../images/partners/mitech-client-logo-03.png",
         "path": "/"
     },
     {
         "id": "demo-brand-logo-2-partner",
         "image": "../images/partners/mitech-client-logo-04.png",
-        "hover_image": "../images/partners/mitech-client-logo-04-hover.png",
+        "hover_image": "../images/partners/mitech-client-logo-04.png",
         "path": "/"
     },
     {
         "id": "brand-logo-partner",
         "image": "../images/partners/mitech-client-logo-05.png",
-        "hover_image": "../images/partners/mitech-client-logo-05-hover.png",
+        "hover_image": "../images/partners/mitech-client-logo-05.png",
         "path": "/"
     },
     {
         "id": "b-logo-partner",
         "image": "../images/partners/mitech-client-logo-06.png",
-        "hover_image": "../images/partners/mitech-client-logo-06-hover.png",
+        "hover_image": "../images/partners/mitech-client-logo-06.png",
         "path": "/"
     },
     {
         "id": "brand-logo-2-partner",
         "image": "../images/partners/mitech-client-logo-07.png",
-        "hover_image": "../images/partners/mitech-client-logo-07-hover.png",
+        "hover_image": "../images/partners/mitech-client-logo-07.png",
         "path": "/"
     },
     {
         "id": "another-logo-partner",
         "image": "../images/partners/mitech-client-logo-08.png",
-        "hover_image": "../images/partners/mitech-client-logo-08-hover.png",
+        "hover_image": "../images/partners/mitech-client-logo-08.png",
         "path": "/"
     },
     {
         "id": "slogan-logo-partner",
         "image": "../images/partners/mitech-client-logo-09.png",
-        "hover_image": "../images/partners/mitech-client-logo-09-hover.png",
+        "hover_image": "../images/partners/mitech-client-logo-09.png",
         "path": "/"
     }
 ]

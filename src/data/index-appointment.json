@@ -2,7 +2,7 @@
     {
         "id": "appointment-hero-content",
         "bgImage": "./images/hero/homeslider.jpg", 
-        "subtitle": "Total IT Solutions",
+        "subtitle": "Xubioft Ltd.",
         "title": "We Provide Solutions That Brings JOY!",
         "video": "https://www.youtube.com/watch?v=9No-FiEInLA",
         "buttonText": "How we work"
@@ -24,7 +24,7 @@
             }, 
             {
                 "id": "our-services-tab",
-                "title": "Our services"
+                "title": "Other services"
             }, 
             {
                 "id": "teachonology-partners-tab",
@@ -36,12 +36,11 @@
             }
         ],
         "about_content": {
-            "text": "We’re available for 8 hours a day! <br/> Contact to require a detailed analysis and assessment of your plan.",
+            "text": "To bring up the prospect in our economy and to ensure the proper utilization of our enormous manpower, Xubisoft Ltd is devoted to create the field for the outsourcing of information and services. With the promise to give a shoulder to the progress, Xubisoft Ltd is continuously working with technological solutions to build up expertise in outsourcing fields and training the newbie.",
             "list": [
-                "IT Consultancy",
-                "IT Design",
-                "Desktop Computing",
-                "Software Engineering"
+                "Improving IT Sector by Outsourcing",
+                "100% Clients Satisfactory",
+                "Skill Development Training"
             ],
             "link": "/about-us",
             "video_link": "https://www.youtube.com/watch?v=9No-FiEInLA",

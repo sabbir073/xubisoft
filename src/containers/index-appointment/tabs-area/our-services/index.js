@@ -45,7 +45,7 @@ const OurServices = ({serviceBoxStyle}) => {
                                 title={service.node.title}
                                 desc={service.node.excerpt}
                                 imageSrc={service.node.image.childImageSharp}
-                                path={`/it-service/${service.node.fields.slug}`}
+                                path={`/service/${service.node.fields.slug}`}
                             />
                         </Col>
                     )

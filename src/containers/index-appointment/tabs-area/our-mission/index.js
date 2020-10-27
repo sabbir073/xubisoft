@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import PropTypes from 'prop-types'
 import parse from 'html-react-parser';
 import { MdDone, MdChevronRight } from "react-icons/md";
-import { useStaticQuery, graphql } from "gatsby"
+import { useStaticQuery, graphql, Link } from "gatsby"
 import { Row, Col } from '../../../../components/ui/wrapper'
 import VideoButton from '../../../../components/ui/video-button'
 import ModalVideo from '../../../../components/ui/modal-video'
@@ -72,10 +72,10 @@ const OurMission = ({ textStyle, buttonStyle }) => {
                                     </ListItem>
                                 ))}
                             </List>
-                        )}
+                                )}
                         {about_content.link && (
                             <ButtonWrap>
-                                <Button {...buttonStyle} icon={<MdChevronRight />}>Let's get started </Button>
+                                <Button as={Link} to={about_content.link} {...buttonStyle} icon={<MdChevronRight />}>More About Us </Button>
                             </ButtonWrap>
                         )}
                     </MissionContentWrap>
@@ -98,8 +98,9 @@ OurMission.propTypes = {
 
 OurMission.defaultProps = {
     textStyle: {
-        fontSize: '18px',
-        mb: '30px'
+        fontSize: '15px',
+        mb: '30px',
+        align: 'justify'
     },
     buttonStyle: {
         varient: 'texted',
