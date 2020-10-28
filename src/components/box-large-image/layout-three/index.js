@@ -49,7 +49,7 @@ const BoxLargeImage = ({imageSrc, title, desc, path, ...restProps}) => {
                                 iconposition="right"
                                 icondistance="4px"
                                 fontWeight={400}
-                                varient="texted">Discover Now</Button>
+                                varient="texted">View More</Button>
                         </BoxLargeImgBtnWrap>
                     )}
                 </BoxLargeImgContent>
