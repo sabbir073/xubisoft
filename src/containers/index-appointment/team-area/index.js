@@ -39,7 +39,7 @@ const TeamsSection = (props) => {
                 }
                 socials {
                   facebook
-                  instagram
+                  linkedin
                   twitter
                 }
               }

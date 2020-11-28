@@ -1,20 +1,20 @@
 [
     {
         "id": "super-demo-partner",
-        "image": "../images/partners/mitech-client-logo-01.png",
-        "hover_image": "../images/partners/mitech-client-logo-01.png",
+        "image": "../images/partners/ictgrey.png",
+        "hover_image": "../images/partners/ict.png",
         "path": "/"
     },
     {
         "id": "demo-logo-partner",
-        "image": "../images/partners/mitech-client-logo-02.png",
-        "hover_image": "../images/partners/mitech-client-logo-02.png",
+        "image": "../images/partners/hitechgrey.png",
+        "hover_image": "../images/partners/hitech.png",
         "path": "/"
     },
     {
         "id": "demo-brand-logo-partner",
-        "image": "../images/partners/mitech-client-logo-03.png",
-        "hover_image": "../images/partners/mitech-client-logo-03.png",
+        "image": "../images/partners/a2igrey.png",
+        "hover_image": "../images/partners/a2i.png",
         "path": "/"
     },
     {
@@ -25,32 +25,50 @@
     },
     {
         "id": "brand-logo-partner",
-        "image": "../images/partners/mitech-client-logo-05.png",
-        "hover_image": "../images/partners/mitech-client-logo-05.png",
+        "image": "../images/partners/seipgrey.png",
+        "hover_image": "../images/partners/seip.png",
         "path": "/"
     },
     {
         "id": "b-logo-partner",
-        "image": "../images/partners/mitech-client-logo-06.png",
-        "hover_image": "../images/partners/mitech-client-logo-06.png",
+        "image": "../images/partners/bitmgrey.png",
+        "hover_image": "../images/partners/bitm.png",
         "path": "/"
     },
     {
         "id": "brand-logo-2-partner",
-        "image": "../images/partners/mitech-client-logo-07.png",
-        "hover_image": "../images/partners/mitech-client-logo-07.png",
+        "image": "../images/partners/baccogrey.png",
+        "hover_image": "../images/partners/bacco.png",
         "path": "/"
     },
     {
         "id": "another-logo-partner",
-        "image": "../images/partners/mitech-client-logo-08.png",
-        "hover_image": "../images/partners/mitech-client-logo-08.png",
+        "image": "../images/partners/btebgrey.png",
+        "hover_image": "../images/partners/bteb.png",
         "path": "/"
     },
     {
         "id": "slogan-logo-partner",
-        "image": "../images/partners/mitech-client-logo-09.png",
-        "hover_image": "../images/partners/mitech-client-logo-09.png",
+        "image": "../images/partners/bccgrey.png",
+        "hover_image": "../images/partners/bcc.png",
+        "path": "/"
+    },
+    {
+        "id": "basis-logo-partner",
+        "image": "../images/partners/basisgrey.png",
+        "hover_image": "../images/partners/basis.png",
+        "path": "/"
+    },
+    {
+        "id": "ecab-logo-partner",
+        "image": "../images/partners/ecabgrey.png",
+        "hover_image": "../images/partners/ecab.png",
+        "path": "/"
+    },
+    {
+        "id": "adb-logo-partner",
+        "image": "../images/partners/adbgrey.png",
+        "hover_image": "../images/partners/adb.png",
         "path": "/"
     }
 ]

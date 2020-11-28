@@ -1,9 +1,9 @@
 {
     "id": "it-design-service",
     "title": "MOBILE APPLICATIONS",
-    "excerpt": "We provide the most responsive and functional IT design for companies and businesses worldwide.",
+    "excerpt": "Now a days mobile app is recommended to businesses. We make custom mobile applications.",
     "icon": {
-        "svg": "../../images/icons/linea-basic-heart.svg",
+        "svg": "../../images/icons/mobileapp.svg",
         "img": "../../images/icons/icon-01-100x108.png",
         "img_two": "../../images/icons/icon-01-100x98.png",
         "img_hover": "../../images/icons/icon-01-hover-100x98.png"

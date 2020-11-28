@@ -1,67 +1,67 @@
 [
     {
-        "id": "dllie-horton",
-        "name": "Dollie Horton",
-        "designation": "Chief People Officer",
+        "id": "fahad-hasan",
+        "name": "Fahad Hasan",
+        "designation": "Managing Director & CEO",
         "position": "head",
         "images": {
-            "large": "../images/team/team-member-07-370x455.jpg",
-            "medium": "../images/team/team-member-07-370x250.jpg"
+            "large": "../images/team/fahad.png",
+            "medium": "../images/team/fahad.png"
         },
         "socials": {
-            "facebook": "https://www.facebook.com",
-            "twitter": "https://www.twitter.com",
-            "instagram": "https://www.instagram.com"
+            "facebook": "https://www.facebook.com/getfahad",
+            "linkedin": "https://www.linkedin.com/in/get-fahad/",
+            "twitter": "https://twitter.com/Fahad_Hasan1"
         },
         "is_featured": true
     },
     {
-        "id": "robert-amplilian",
-        "name": "Robert Amplilian",
-        "designation": "Chief People Officer",
+        "id": "ma-tanvir",
+        "name": "M.A Tanvir",
+        "designation": "Chief Technology Officer",
         "position": "head",
         "images": {
             "large": "../images/team/team-member-01-370x455.jpg",
             "medium": "../images/team/team-member-01-370x250.jpg"
         },
         "socials": {
-            "facebook": "https://www.facebook.com",
-            "twitter": "https://www.twitter.com",
-            "instagram": "https://www.instagram.com"
+            "facebook": "https://www.facebook.com/Xubisoft",
+            "linkedin": "https://www.linkedin.com/company/xubisoft/",
+            "twitter": "https://twitter.com/xubisoft"
         },
-        "is_featured": false
+        "is_featured": true
     },
     {
-        "id": "stephen-mearsley",
-        "name": "Stephen Mearsley",
-        "designation": "President & CEO",
+        "id": "rb-rokhsana",
+        "name": "R. Roksana",
+        "designation": "Chief Financial Officer",
         "position": "head",
         "images": {
             "large": "../images/team/team-member-06-370x455.jpg",
             "medium": "../images/team/team-member-06-370x250.jpg"
         },
         "socials": {
-            "facebook": "https://www.facebook.com",
-            "twitter": "https://www.twitter.com",
-            "instagram": "https://www.instagram.com"
+            "facebook": "https://www.facebook.com/Xubisoft",
+            "linkedin": "https://www.linkedin.com/company/xubisoft/",
+            "twitter": "https://twitter.com/xubisoft"
         },
         "is_featured": true
     },
     {
-        "id": "daisy-hortron",
-        "name": "Daisy Hortron",
-        "designation": "Financial Services",
+        "id": "hossain-sabbir",
+        "name": "Hossain M Sabbir",
+        "designation": "Chief Operation Officer",
         "position": "executive",
         "images": {
             "large": "../images/team/team-member-04-370x452.jpg",
             "medium": "../images/team/team-member-04-370x250.jpg"
         },
         "socials": {
-            "facebook": "https://www.facebook.com",
-            "twitter": "https://www.twitter.com",
-            "instagram": "https://www.instagram.com"
+            "facebook": "https://www.facebook.com/Xubisoft",
+            "linkedin": "https://www.linkedin.com/company/xubisoft/",
+            "twitter": "https://twitter.com/xubisoft"
         },
-        "is_featured": false
+        "is_featured": true
     },
     {
         "id": "maggie-strickland",
@@ -74,10 +74,10 @@
         },
         "socials": {
             "facebook": "https://www.facebook.com",
-            "twitter": "https://www.twitter.com",
-            "instagram": "https://www.instagram.com"
+            "linkedin": "https://www.linkedin.com",
+            "twitter": "https://www.twitter.com"
         },
-        "is_featured": true
+        "is_featured": false
     },
     {
         "id": "monica-blews",
@@ -90,10 +90,10 @@
         },
         "socials": {
             "facebook": "https://www.facebook.com",
-            "twitter": "https://www.twitter.com",
-            "instagram": "https://www.instagram.com"
+            "linkedin": "https://www.linkedin.com",
+            "twitter": "https://www.twitter.com"
         },
-        "is_featured": true
+        "is_featured": false
     },
     {
         "id": "issac-blews",
@@ -106,8 +106,8 @@
         },
         "socials": {
             "facebook": "https://www.facebook.com",
-            "twitter": "https://www.twitter.com",
-            "instagram": "https://www.instagram.com"
+            "linkedin": "https://www.linkedin.com",
+            "twitter": "https://www.twitter.com"
         },
         "is_featured": false
     },

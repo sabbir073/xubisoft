@@ -17,7 +17,7 @@ const TeamArea = ({ sectionStyle, headingStyle, headTeamStyle, headTeamRowStyle,
                         designation
                         socials {
                             facebook
-                            instagram
+                            linkedin
                             twitter
                         }
                         images {
@@ -42,7 +42,7 @@ const TeamArea = ({ sectionStyle, headingStyle, headTeamStyle, headTeamRowStyle,
                         designation
                         socials {
                             facebook
-                            instagram
+                            linkedin
                             twitter
                         }
                         images {
