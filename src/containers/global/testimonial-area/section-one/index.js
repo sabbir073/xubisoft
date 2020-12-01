@@ -39,7 +39,7 @@ const TestimonialSection = ({sectionTitleStyle, slider, sliderStyle}) => {
                     <Col lg={12}>
                         <SectionTitle
                             {...sectionTitleStyle}
-                            title="What do people praise about <span>Mitech?</span>"
+                            title="What do people praise about <span>Xubisoft?</span>"
                             subtitle="TESTIMONIALS"
                         />
                     </Col>

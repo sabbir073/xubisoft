@@ -1,7 +1,6 @@
-[
-    {
+[{
         "id": "appointment-hero-content",
-        "bgImage": "./images/hero/homeslider.jpg", 
+        "bgImage": "./images/hero/homeslider.jpg",
         "subtitle": "Xubioft Ltd.",
         "title": "We Provide Solutions That Brings JOY!",
         "video": "https://www.youtube.com/watch?v=9No-FiEInLA",
@@ -12,20 +11,19 @@
         "title": "Services We Deliver <br/> we provide <span>truly prominent IT solutions.</span>",
         "subtitle": "INDUSTRIES WE SERVE",
         "path": "/contact-us"
-    }, 
+    },
     {
         "id": "appointment-about-us",
         "title": "We’ve been serving <span>our best!</span>",
         "subtitle": "DISCOVER US AT A GLANCE",
-        "tab_header": [
-            {
+        "tab_header": [{
                 "id": "our-mission-tab",
                 "title": "Our Mission"
-            }, 
+            },
             {
                 "id": "our-services-tab",
                 "title": "Other services"
-            }, 
+            },
             {
                 "id": "teachonology-partners-tab",
                 "title": "Technology Partners"
@@ -56,21 +54,21 @@
     },
     {
         "id": "appointment-case-section",
-        "title": "Proud projects <span>make us excel</span>",
-        "subtitle": "CASE STUDIES",
-        "bottom_text": "Challenges are just opportunities in disguise.",
-        "bottom_link_text": "Take the challenge!",
+        "title": "Some of our <span>Great projects</span>",
+        "subtitle": "OUR PORTFOLIO",
+        "bottom_text": "TO VIEW OUR ALL WORKS, PLEASE ",
+        "bottom_link_text": "CLICK HERE!",
         "bottom_link": "/case-studies",
         "bgImage": "./images/bg/case-study-section-bg.png"
     },
     {
         "id": "appointment-contact-section",
-        "title": "Need a hand?",
-        "subtitle": "Reach out to the world’s most reliable IT services.",
+        "title": "Need to Talk?",
+        "subtitle": "We are here 24/7 active to talk with you.",
         "bgImage": "./images/bg/contact-section-bg.png",
         "contact_info": {
-            "title": "REACH OUT NOW!",
-            "phone": "(+00) 123 567990",
+            "title": "CALL US NOW!",
+            "phone": "(+880) 1714028710",
             "text": "Start the collaboration with us while figuring out the best solution based on your needs."
         }
     }

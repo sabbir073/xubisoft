@@ -35,7 +35,7 @@ const CaseStudySection = ({
             }
           }
         } 
-        allCaseStudiesJson(filter: {is_featured: {eq: true}}, limit: 4) {
+        allCaseStudiesJson(filter: {is_featured: {eq: true}}, limit: 10) {
             edges {
               node {
                 fields{
@@ -45,6 +45,7 @@ const CaseStudySection = ({
                 title
                 category
                 excerpt
+                link
                 image{
                   childImageSharp {
                     fluid(maxWidth: 480, maxHeight: 298, quality: 100){
@@ -86,8 +87,8 @@ const CaseStudySection = ({
                                         title={caseStudy.node.title}
                                         category={caseStudy.node.category}
                                         desc={caseStudy.node.excerpt}
-                                        path={`/case-study/${caseStudy.node.fields.slug}`}
-                                        btnText="View case study"
+                                        path={caseStudy.node.link}
+                                        btnText="Live Preview"
                                     />
                                 </div>
                             ))}

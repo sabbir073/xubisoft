@@ -57,7 +57,7 @@ const ContactSection = ({ sectionTitleStyle, conactInfoStyles }) => {
                             <Heading {...titleStyle}>{conactInfo.title}</Heading>
                             <Heading {...phoneStyle}><Anchor path="/" {...phoneAnchorStyle}>{conactInfo.phone}</Anchor></Heading>
                             <Text>{conactInfo.text}</Text>
-                            <LocationButton {...btnStyle} />
+                            <Anchor path="/elements/google-map"><LocationButton {...btnStyle} /></Anchor>
                         </ContactInfoBox>
                     </Col>
                 </Row>

@@ -10,7 +10,7 @@ module.exports = {
     twitterUsername: `@xubisoft`,
     image: 'landing.png',
     siteUrl: 'http://localhost:9000',
-    getform: "https://getform.io/f/58c49e90-e767-4e18-959e-4fcd84bf8659",
+    getform: "https://getform.io/f/2e0d9d07-d062-48a4-b64d-2418d0792119",
     copyright: "Xubisoft Ltd. <a href='https://xubisoft.com/' target='_blank' rel='noopener noreferrer'>All Rights Reserved.</a>",
     social: {
       facebook: "https://www.facebook.com/Xubisoft",
@@ -19,10 +19,10 @@ module.exports = {
       linkedin: "https://www.linkedin.com/company/xubisoft/"
     },
     contact: {
-      phone: '190068668',
-      address: "58 Howard Street #2 San Francisco, CA 941",
-      email: 'hello@mitech.com',
-      website: "https://hasthemes.com/",
+      phone: '+880 241090373 | +8801611609372',
+      address: "House-19, Road-4, Sector-4, Uttara, Dhaka 1230.",
+      email: 'info@xubisoft.com',
+      website: "https://xubisoft.com/",
       rating: "4.9",
       customers: "700",
       clients: "3200",

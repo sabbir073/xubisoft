@@ -82,10 +82,13 @@ const ConsultForm = ({ btnStyle }) => {
                             ref={register({ required: "Please select a inquiry" })}
                         >
                             <option value="">Your inquiry about</option>
-                            <option value="General Information Request">General Information Request</option>
-                            <option value="Partner Relations">Partner Relations</option>
-                            <option value="Careers">Careers</option>
-                            <option value="Software Licencing">Software Licencing</option>
+                            <option value="General Information Request">General Information</option>
+                            <option value="Website Development">Website Development</option>
+                            <option value="Software Solutions">Software Solutions</option>
+                            <option value="Mobile APP Development">Mobile APP Development</option>
+                            <option value="Call Center Servies">Call Center Servies</option>
+                            <option value="Skill Development Training">Skill Development Training</option>
+                            <option value="Career">Career</option>
                         </Select>
                         <Error>{errors.consult_inquiry && errors.consult_inquiry.message}</Error>
                     </FormGroup>
@@ -116,7 +119,7 @@ const ConsultForm = ({ btnStyle }) => {
             </Row>
             <Row>
                 <Col lg={12}>
-                    <Button type="submit" disabled={serverState.submitting} {...btnStyle}>Get a free consultation</Button>
+                    <Button type="submit" disabled={serverState.submitting} {...btnStyle}>SUBMIT</Button>
                     {serverState.status && (
                         <p className={`form-output ${!serverState.status.ok ? "errorMsg" : "success"}`}>
                             {serverState.status.msg}

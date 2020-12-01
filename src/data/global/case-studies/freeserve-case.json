@@ -1,13 +1,14 @@
 {
     "id": "a-freeserve-case-study",
-    "title": "A Freeserve case study",
-    "category": "Cyber Security",
+    "title": "Ecommerce Shop",
+    "category": "Website",
     "excerpt": "The prospects for a company operating in this new market are varied and exciting. The potential",
     "tagline": "A Freeserve case study on expanding market",
     "logo": "../../images/icons/case-study-04-logo-83x108.png",
     "image": "../../images/box-image/case-study-03-featured.jpg",
     "slide_image": "../../images/box-image/case-study-slide-image-01.png",
     "is_featured": true,
+    "link": "https://saleman.com.bd/",
     "banner_image": "../../images/banner/banner-04.jpg",
     "overview": {
         "heading": "Inventions, literary works, music & design are all intangible assets. The legal right to these ‘creations of the mind’ is Intellectual Property (IP).",
@@ -19,8 +20,7 @@
             "company": "Aqua Group"
         }
     },
-    "problem_solution": [
-        {
+    "problem_solution": [{
             "id": "problem-1",
             "problem": "The communication between machines of different kinds sometimes cause troubles and inaccurate signal decoding results.",
             "solution": "Advancements in technology – including machine-to-machine communications between smart sensors, referred to as ‘The Internet of Things’. For example, appliances in the home that can be monitored and controlled wirelessly by the homeowner wherever they are."
@@ -37,8 +37,7 @@
         }
     ],
     "results": "ARM has an innovative business model. ARM does not manufacture the products in which its technology is used.",
-    "faq": [
-        {
+    "faq": [{
             "id": "highly-service-faq-1",
             "title": "New multiple site connectivity",
             "desc": "We use a newly developed technology to connect sites that are based on different types of servers and networks, SiteConnect, which helps to reduce the misinterpretation of signals as well as the loss of data during transfering."

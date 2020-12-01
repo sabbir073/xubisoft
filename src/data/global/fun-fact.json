@@ -1,26 +1,25 @@
-[
-    {
+[{
         "id": "happy-clients",
-        "count": 1056,
+        "count": 127,
         "title": "Happy Clients",
         "heading": "Successfully work with"
     },
     {
         "id": "finished-projects",
-        "count": 491,
+        "count": 154,
         "title": "FINISHED PROJECTS",
         "heading": "Successfully completed"
     },
     {
         "id": "skilled-experts",
-        "count": 491,
+        "count": 23,
         "title": "SKILLED EXPERTS",
-        "heading": "Recruit more than"
+        "heading": "Recruited more than"
     },
     {
         "id": "media-posts",
-        "count": 491,
-        "title": "MEDIA POSTS",
-        "heading": "Blog Update"
+        "count": 1096,
+        "title": "HOURS WORKED",
+        "heading": "We have worked"
     }
 ]
