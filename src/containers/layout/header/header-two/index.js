@@ -220,7 +220,8 @@ const Header = (props) => {
                 <HeaderBottom ref={fixedRef} isSticky={sticky}>
                     <Container>
                         <Row>
-                            <Col lg={12}>
+                        {sticky == true && <Col lg={2}><Logo darkLogo /></Col>}
+                            <Col lg={10}>
                                 <HeaderMain>
                                     <HeaderBottomLeft>
                                         <HeaderNavigation>

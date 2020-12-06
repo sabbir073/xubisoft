@@ -1,97 +1,74 @@
-[
-    {
-        "text": "Home",
+[{
+        "text": "HOME",
         "link": "/",
-        "isSubmenu": true,
-        "submenu": [
-            {
-                "text": "Infotechno",
-                "link": "/index-infotechno"
-            },
-            {
-                "text": "Appointment",
-                "link": "/index-appointment"
-            },
-            {
-                "text": "Processing",
-                "link": "/index-processing"
-            },
-            {
-                "text": "Services",
-                "link": "/index-services"
-            },
-            {
-                "text": "Resolutions",
-                "link": "/index-resolutions"
-            },
-            {
-                "text": "Cybersecurity",
-                "link": "/index-cybersecurity"
-            }
-        ]
+        "isSubmenu": false
     },
     {
-        "text": "Company",
-        "link": "/about-us",
+        "text": "OVERVIEW",
+        "link": "/",
         "isSubmenu": true,
-        "submenu": [
-            {
-                "text": "About Us",
+        "submenu": [{
+                "text": "ABOUT US",
                 "link": "/about-us"
             },
             {
-                "text": "Contact Us",
-                "link": "/contact-us"
-            },
-            {
-                "text": "Leadership",
+                "text": "OUR TEAM",
                 "link": "/leadership"
             },
             {
-                "text": "Why Choose Us",
+                "text": "WHY CHOOSE US",
                 "link": "/why-choose-us"
             },
             {
-                "text": "Our History",
+                "text": "OUR HISTORY",
                 "link": "/our-history"
             },
             {
-                "text": "FAQs",
+                "text": "FAQ",
                 "link": "/faq"
             },
             {
-                "text": "Careers",
-                "link": "/careers"
-            },
-            {
-                "text": "Pricing Plans",
-                "link": "/pricing-plan"
+                "text": "CONTACT US",
+                "link": "/contact-us"
             }
         ]
     },
     {
-        "text": "Services",
+        "text": "SERVICES",
         "link": "/it-services",
         "isSubmenu": true,
-        "submenu": [
-            {
-                "text": "IT Services",
-                "link": "/it-services"
+        "submenu": [{
+                "text": "SOFTWARE DEVELOPMENT",
+                "link": "/service/software-development"
             },
             {
-                "text": "IT Solutions",
-                "link": "/it-solutions"
+                "text": "APP DEVELOPMENT",
+                "link": "/service/mobile-applications"
+            },
+            {
+                "text": "WEBSITE DEVELOPMENT",
+                "link": "/service/website-development"
+            },
+            {
+                "text": "CALL CENTER SERVICES",
+                "link": "/service/call-center-services"
+            },
+            {
+                "text": "TRAINING",
+                "link": "/service/skill-development-training"
+            },
+            {
+                "text": "NEED ASSESMENT & ANALYSIS",
+                "link": "/service/need-assesment-analysis"
             }
         ]
     },
     {
         "text": "Elements",
         "link": "/",
-        "megamenu": [
-            {
+        "megamenu": [{
                 "title": "Element Group 01",
-                "submenu": [
-                    {
+                "submenu": [{
                         "text": "Accordion",
                         "link": "/elements/accordion"
                     },
@@ -123,8 +100,7 @@
             },
             {
                 "title": "Element Group 02",
-                "submenu": [
-                    {
+                "submenu": [{
                         "text": "Counters",
                         "link": "/elements/counters"
                     },
@@ -157,7 +133,7 @@
             {
                 "title": "Element Group 03",
                 "submenu": [
-                    
+
                     {
                         "text": "Popup Video",
                         "link": "/elements/popup-video"
@@ -187,11 +163,10 @@
                         "link": "/elements/team-member"
                     }
                 ]
-            }, 
+            },
             {
                 "title": "Element Group 04",
-                "submenu": [
-                    {
+                "submenu": [{
                         "text": "Testimonials",
                         "link": "/elements/testimonials"
                     },
@@ -215,11 +190,9 @@
         "text": "Blog",
         "link": "/blog",
         "isSubmenu": true,
-        "submenu": [
-            {
-                "text": "Single Blog",
-                "link": "/5-ways-technology-has-improved-business-today"
-            }
-        ]
+        "submenu": [{
+            "text": "Single Blog",
+            "link": "/5-ways-technology-has-improved-business-today"
+        }]
     }
 ]

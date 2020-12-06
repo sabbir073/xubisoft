@@ -4,7 +4,7 @@ import { graphql } from 'gatsby'
 import parse from 'html-react-parser'
 import SEO from "../../components/seo"
 import Layout from '../../containers/layout/layout'
-import Header from '../../containers/layout/header/header-one'
+import Header from '../../containers/layout/header/header-two'
 import Footer from '../../containers/layout/footer/footer-one'
 import { Container, Box, Row, Col } from '../../components/ui/wrapper'
 import Heading from '../../components/ui/heading'
@@ -74,7 +74,7 @@ const ServiceTemplate = ({ data, location, ...restProps }) => {
                         <Container>
                             <Row>
                                 <Col lg={4}>
-                                    <Heading {...leftHeading}>Learn More About Our <span> Success <br /> Stories</span></Heading>
+                                   <Heading {...leftHeading}>{pageData.introTitle}<span> {pageData.coloredTitle}</span></Heading>
                                 </Col>
                                 {pageData.introText && (
                                     <Col lg={{ span: 7, offset: 1 }}>
@@ -184,6 +184,8 @@ export const query = graphql`
                   }
                 }
             }
+            introTitle
+            coloredTitle
             introText{
                 heading
                 text

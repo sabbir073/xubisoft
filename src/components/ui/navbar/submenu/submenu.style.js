@@ -13,7 +13,7 @@ export const SubmenuWrap = styled.ul `
     transition-duration: 0.4s;
     visibility: hidden;
     opacity: 0;
-    min-width: 240px;
+    min-width: 260px;
     padding: 20px 0;
     z-index: 9;
     pointer-events: none;

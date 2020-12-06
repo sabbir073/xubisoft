@@ -10,12 +10,12 @@
     },
     "is_featured": true,
     "banner_image": "../../images/banner/banner-01.jpg",
+    "introTitle": "Learn More About Our <span> Success <br /> Stories</span>",
     "introText": {
         "heading": "Mitech specializes in <span>technological and IT-related services</span> such as product engineering, warranty management, building cloud, infrastructure, network, etc.",
         "text": "We’re available for 8 hours a day! <br/>Contact to require a detailed analysis and assessment of your plan."
     },
-    "faq": [
-        {
+    "faq": [{
             "id": "highly-service-faq-1",
             "title": "New multiple site connectivity",
             "desc": "We use a newly developed technology to connect sites that are based on different types of servers and networks, SiteConnect, which helps to reduce the misinterpretation of signals as well as the loss of data during transfering."
@@ -42,8 +42,7 @@
     },
     "features": {
         "title": "Prominent IT Security Services",
-        "items": [
-            {
+        "items": [{
                 "id": "highly-professional-features-1",
                 "icon": "../../images/icons/icon-07-60x60.png",
                 "title": "Mitech Management Systems",
