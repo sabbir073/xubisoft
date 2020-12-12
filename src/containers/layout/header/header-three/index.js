@@ -40,13 +40,6 @@ const Header = ({ props, ...styles }) => {
                             link
                             text
                         }
-                        megamenu {
-                            title
-                            submenu {
-                                link
-                                text
-                            }
-                        }
                     }
                 }
             }

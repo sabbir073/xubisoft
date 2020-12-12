@@ -6,7 +6,7 @@ export const NavLinkStyled = css`
     display: inline-block;
     position: relative;
     color: ${props => props.theme.colors.black};
-    font-size: 16px;
+    font-size: 15px;
     font-weight: 500;
     line-height: 1.18;
     padding-right: 21px;
@@ -36,8 +36,9 @@ export const NavLinkStyled = css`
             bottom: 0;
             position: absolute;
             left: 0;
-            background-color: ${props => props.theme.colors.themeColor};
+            background-color: ${props => props.theme.colors.black};
             transition: ${props => props.theme.transition};
+            
         }
     }
     & > .icon{

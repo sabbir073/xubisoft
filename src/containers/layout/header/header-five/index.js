@@ -44,13 +44,6 @@ const Header = (props) => {
                             link
                             text
                         }
-                        megamenu {
-                            title
-                            submenu {
-                                link
-                                text
-                            }
-                        }
                     }
                 }
             }

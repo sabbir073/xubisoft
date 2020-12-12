@@ -5,7 +5,6 @@ export const SubmenuWrap = styled.ul `
     top: 100%;
     left: 0;
     box-shadow: 0 2px 29px rgba(0,0,0,0.05);
-    border-bottom: 3px solid #086AD8;
     background-color: #ffffff;
     transform: translateY(50px);
     transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
@@ -14,7 +13,11 @@ export const SubmenuWrap = styled.ul `
     visibility: hidden;
     opacity: 0;
     min-width: 260px;
-    padding: 20px 0;
+    padding: 0 0;
     z-index: 9;
     pointer-events: none;
+
+    li.active{
+        background-color:#000;
+    }
 `;

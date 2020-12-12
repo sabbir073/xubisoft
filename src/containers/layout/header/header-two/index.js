@@ -44,13 +44,6 @@ const Header = (props) => {
                             link
                             text
                         }
-                        megamenu {
-                            title
-                            submenu {
-                                link
-                                text
-                            }
-                        }
                     }
                 }
             }
@@ -102,6 +95,10 @@ const Header = (props) => {
     const { facebook, twitter, instagram, linkedin } = headerData.site.siteMetadata.social;
     const { slider, headerTopStyles, menuStyle } = props;
     const { infoHeading, infoText, burgerBtnElStyle, clickAbleElStyle, clickAble, innerElementStyle } = headerTopStyles;
+    var columnCount = 10;
+    if(sticky === false){
+        columnCount = 12;
+    }
 
     return (
         <Fragment>
@@ -220,8 +217,8 @@ const Header = (props) => {
                 <HeaderBottom ref={fixedRef} isSticky={sticky}>
                     <Container>
                         <Row>
-                        {sticky == true && <Col lg={2}><Logo darkLogo /></Col>}
-                            <Col lg={10}>
+                        {sticky === true && <Col lg={2}><Logo darkLogo /></Col>}
+                            <Col lg={columnCount}>
                                 <HeaderMain>
                                     <HeaderBottomLeft>
                                         <HeaderNavigation>
@@ -232,9 +229,9 @@ const Header = (props) => {
                                             />
                                         </HeaderNavigation>
                                     </HeaderBottomLeft>
-                                    <HeaderBottomRight>
+                                    {sticky === false && <HeaderBottomRight>
                                         <HeaderForm layout={sticky && 'white'} inputId="header-search-2" />
-                                    </HeaderBottomRight>
+                                    </HeaderBottomRight>}
                                 </HeaderMain>
                             </Col>
                         </Row>

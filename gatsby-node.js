@@ -96,7 +96,7 @@ exports.createPages = async ({ graphql, actions }) => {
                         }
                     }
                 }
-            }  
+            }
             allCaseStudiesJson{
                 edges {
                     node {

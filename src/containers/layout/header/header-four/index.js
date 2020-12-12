@@ -69,13 +69,6 @@ const Header = (props) => {
                         text
                         link
                         id
-                        megamenu {
-                            title
-                            submenu {
-                                link
-                                text
-                            }
-                        }
                     }
                 }
             }
