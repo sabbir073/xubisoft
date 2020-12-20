@@ -37,14 +37,6 @@ const ServicesArea = (props) => {
         <SectionWrap>
             <Container>
                 <Row>
-                    <Col lg={12}>
-                        <SectionTitle
-                            subtitle="Our Services"
-                            title="For your very specific industry, <br/> we have <span>highly-tailored IT solutions.</span>"
-                        />
-                    </Col>
-                </Row>
-                <Row>
                     {services.map(service => (
                         <Col lg={4} md={6} className="box-item" key={service.node.id}>
                             <ServiceBox
@@ -56,13 +48,6 @@ const ServicesArea = (props) => {
                             />
                         </Col>
                     ))}
-                </Row>
-                <Row>
-                    <Col lg={12}>
-                        <SectionBottom>
-                            <Heading {...headingStyle}>Challenges are just opportunities in disguise. <Anchor {...linkStyle} path="/">Take the challenge!</Anchor></Heading>
-                        </SectionBottom>
-                    </Col>
                 </Row>
             </Container>
         </SectionWrap>
@@ -78,7 +63,7 @@ ServicesArea.propTypes = {
 ServicesArea.defaultProps = {
     headingStyle: {
         as: 'h3',
-        fontSize: '18px',
+        fontSize: '16px',
         fontweight: 500,
         lineHeight: 1.40,
         color: '#333333'

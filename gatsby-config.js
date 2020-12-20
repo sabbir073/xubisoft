@@ -202,6 +202,7 @@ module.exports = {
           `/it-solutions/`,
           `/leadership/`,
           `/it-service/*`,
+          `/training/*`,
           `/case-study/*`,
           `/case-study/*`,
           `/blogs/*`

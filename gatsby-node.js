@@ -45,6 +45,13 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
             value: slugify(node.title)
         })
     }
+    if (node.internal.type === 'TrainingJson') {
+        createNodeField({
+            node,
+            name: "slug",
+            value: slugify(node.title)
+        })
+    }
     if (node.internal.type === 'ItSolutionsJson') {
         createNodeField({
             node,
@@ -66,6 +73,7 @@ exports.createPages = async ({ graphql, actions }) => {
     const { createPage } = actions;
 
     const servicePage = path.resolve("./src/templates/service-template/service-template.js")
+    const trainingPage = path.resolve("./src/templates/training-template/training-template.js")
     const solutionPage = path.resolve("./src/templates/it-solution-template/it-solution-template.js")
     const caseStudyPage = path.resolve("./src/templates/case-study-template/case-study-template.js")
     const singleBlogPage = path.resolve("./src/templates/blog-template/blog-template.js")
@@ -80,6 +88,15 @@ exports.createPages = async ({ graphql, actions }) => {
     const result = await graphql(`
         {
             allItServicesJson {
+                edges {
+                    node {
+                        fields {
+                            slug
+                        }
+                    }
+                }
+            }
+            allTrainingJson {
                 edges {
                     node {
                         fields {
@@ -198,6 +215,19 @@ exports.createPages = async ({ graphql, actions }) => {
         createPage({
             path: `service/${node.fields.slug}`,
             component: servicePage,
+            context: {
+                slug: node.fields.slug
+            }
+        })
+    });
+
+    // Create Single training page
+
+    const training = result.data.allTrainingJson.edges;
+    training.forEach(({ node }) => {
+        createPage({
+            path: `training/${node.fields.slug}`,
+            component: trainingPage,
             context: {
                 slug: node.fields.slug
             }

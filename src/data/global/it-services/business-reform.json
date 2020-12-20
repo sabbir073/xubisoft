@@ -10,7 +10,8 @@
     },
     "is_featured": true,
     "banner_image": "../../images/banner/banner-01.jpg",
-    "introTitle": "Learn More About Our <span> Success <br /> Stories</span>",
+    "introTitle": "Learn More About Our",
+    "coloredTitle": "success stories",
     "introText": {
         "heading": "Mitech specializes in <span>technological and IT-related services</span> such as product engineering, warranty management, building cloud, infrastructure, network, etc.",
         "text": "We’re available for 8 hours a day! <br/>Contact to require a detailed analysis and assessment of your plan."

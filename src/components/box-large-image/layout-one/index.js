@@ -35,18 +35,17 @@ const BoxLargeImage = ({imageSrc, title, desc, path, ...boxStyles}) => {
                         {boxImage}
                         <BoxLargeImgBtnWrap>
                             <BoxLargeImgBtnInner>
-                                <Button {...buttonStyle} to={path}>Learn more</Button>
+                                <BoxLargeImgContent>
+                                    {desc && <TextWrap style={{"color": "#ffffff","text-align":"justify"}} {...descStyle}>{parse(desc)}</TextWrap>}
+                                </BoxLargeImgContent>
                             </BoxLargeImgBtnInner>
                         </BoxLargeImgBtnWrap>
                         <BoxLargeImgHeading>
                             {title && <HeadingWrap as="h5" {...headingStyle}>{title}</HeadingWrap>}
                         </BoxLargeImgHeading>
-                        <BoxLargeImgLink path={path}>{title}</BoxLargeImgLink>
+                        <BoxLargeImgLink>{title}</BoxLargeImgLink>
                     </BoxLargeImgMedia>
                 )}
-                <BoxLargeImgContent>
-                    {desc && <TextWrap {...descStyle}>{parse(desc)}</TextWrap>}
-                </BoxLargeImgContent>
             </BoxLargeImgInner>
         </BoxLargeImgWrap>
     )

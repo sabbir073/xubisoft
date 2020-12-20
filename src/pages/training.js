@@ -4,17 +4,17 @@ import Layout from '../containers/layout/layout'
 import Header from '../containers/layout/header/header-two'
 import Footer from '../containers/layout/footer/footer-one'
 import PageHeader from '../components/pageheader'
-import ServicesArea from '../containers/call-center/services-area'
-import ContactArea from '../containers/global/contact-area/contact-three'
+import ServicesArea from '../containers/training/services-area'
+import ContactArea from '../containers/global/contact-area/contact-two'
 
-const callCenterPage = ({ pageContext, location }) => (
+const trainingPage = ({ pageContext, location }) => (
   <Layout location={location}>
-    <SEO title="Call Center" />
+    <SEO title="Training" />
     <Header/>
     <PageHeader 
         pageContext={pageContext} 
         location={location}
-        title="Call Center"
+        title="Training"
     />
     <main className="site-wrapper-reveal">
         <ServicesArea/>
@@ -23,5 +23,5 @@ const callCenterPage = ({ pageContext, location }) => (
   </Layout>
 )
  
-export default callCenterPage
+export default trainingPage
  

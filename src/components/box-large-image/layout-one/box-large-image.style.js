@@ -31,8 +31,10 @@ export const BoxLargeImgMedia = styled.div `
 
 export const BoxLargeImgBtnWrap = styled.div `
     position: absolute;
-    top: 50%;
+    top: 40%;
     left: 50%;
+    padding: 0 50px;
+    width:100%;
     transform: translate(-50%, -50%);
     border-radius: 5px;
     overflow: hidden;
@@ -40,8 +42,8 @@ export const BoxLargeImgBtnWrap = styled.div `
 `;
  
 export const BoxLargeImgBtnInner = styled.div `
-    background: #fff;
-    color: #086ad8;
+    background: transparent;
+    color: #ffffff;
     transform: translateY(100%);
     opacity: 0;
     transition: all 0.4s ease-in-out;
@@ -64,7 +66,7 @@ export const BoxLargeImgContent = styled.div `
 `;
 
 export const HeadingWrap = styled(Heading) `
-    font-size: ${props => props.fontSize || '24px'};
+    font-size: ${props => props.fontSize || '18px'};
     line-height: ${props => props.lineHeight || 1.5};
     color: ${props => props.color || '#fff'};
     font-weight: ${props => props.fontweight || 500};

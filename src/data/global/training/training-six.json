@@ -1,15 +1,15 @@
 {
-    "id": "data-security-service",
-    "title": "SKILL DEVELOPMENT TRAINING",
-    "excerpt": "We not only work but also try to train peoples to be sucessful in IT sector. we resolving unemployment.",
+    "id": "linuxnetwork",
+    "title": "LINUX NETWORK",
+    "excerpt": "A needs assessment is a part of planning processes, often used for improvement in businesses.",
     "icon": {
-        "svg": "../../images/icons/linea-music-headphones.svg",
-        "img": "../../images/icons/icon-03-100x108.png",
-        "img_two": "../../images/icons/icon-06-100x98.png",
-        "img_hover": "../../images/icons/icon-06-hover-100x98.png"
+        "svg": "../../images/icons/linea-basic-gear.svg",
+        "img": "../../images/icons/icon-04-100x108.png",
+        "img_two": "../../images/icons/icon-01-100x98.png",
+        "img_hover": "../../images/icons/icon-01-hover-100x98.png"
     },
     "is_featured": true,
-    "banner_image": "../../images/banner/banner-02.jpg",
+    "banner_image": "../../images/banner/banner-01.jpg",
     "introTitle": "Learn More About Our",
     "coloredTitle": "success stories",
     "introText": {

@@ -47,6 +47,7 @@ export const HeadingWrap = styled(Heading) `
     line-height: ${props => props.lineHeight || 1.25};
     margin-bottom: ${props => props.mb || '12px'};
     color: ${props => props.color};
+    font-size: 16px;
 `;
 
 export const TextWrap = styled(Text) `
