@@ -60,6 +60,18 @@
             {
                 "text": "NEED ASSESMENT & ANALYSIS",
                 "link": "/service/need-assesment-analysis"
+            },
+            {
+                "text": "CLIPPING PATH SERVICE",
+                "link": "/clipping-path"
+            },
+            {
+                "text": "BACK OFFICE SERVICE",
+                "link": "/service/back-office-service"
+            },
+            {
+                "text": "IT CONSULTANCY",
+                "link": "/service/it-consultancy"
             }
         ]
     },

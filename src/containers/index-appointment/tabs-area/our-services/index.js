@@ -38,6 +38,13 @@ const OurServices = ({serviceBoxStyle}) => {
         <OurServicesWrap>
             <Row>
                 {servicesData.map((service, i) => {
+                     let customPath;
+                     if(service.node.id === "quality-assurance-service"){
+                         customPath = `/clipping-path`;
+                     }
+                     else{
+                         customPath = `/service/${service.node.fields.slug}`;
+                     }
                     return(
                         <Col key={service.node.id} lg={4} md={6}>
                             <ServiceBox
@@ -45,7 +52,7 @@ const OurServices = ({serviceBoxStyle}) => {
                                 title={service.node.title}
                                 desc={service.node.excerpt}
                                 imageSrc={service.node.image.childImageSharp}
-                                path={`/service/${service.node.fields.slug}`}
+                                path={customPath}
                             />
                         </Col>
                     )

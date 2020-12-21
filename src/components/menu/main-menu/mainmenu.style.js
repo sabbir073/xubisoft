@@ -143,7 +143,7 @@ export const MainMenuWrap = styled.nav`
                     display: block;
                     color: #333333;
                     border-bottom:1px solid #000;
-                    padding: 15px 30px;
+                    padding: 10px 30px;
                     font-weight: 600;
                     font-size:14px;
                     span{
