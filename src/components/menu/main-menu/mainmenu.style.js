@@ -36,7 +36,7 @@ export const MainMenuWrap = styled.nav`
                     color: ${props => props.hoverColor || props.theme.colors.themeColor};
                     span{
                         &:before{
-                            width: 100%;
+                            width: 0%;
                             left: 0;
                         }
                     }
@@ -124,11 +124,7 @@ export const MainMenuWrap = styled.nav`
                                 color: #ababab;
                             }
                         `}
-                        span{
-                            &:before{
-                                right: auto;
-                            }
-                        }
+                        
                     }
                 }
                 & > ul{
@@ -149,7 +145,7 @@ export const MainMenuWrap = styled.nav`
                     span{
                         padding: 0px;
                         &:before{
-                            height: 1px;
+                            
                         }
                     }
                 }

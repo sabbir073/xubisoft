@@ -16,7 +16,6 @@ export const NavLinkStyled = css`
     
     &:before{
         position: absolute;
-        content: '';
         left: 0;
         top: 0%;
         width: 100%;
@@ -30,7 +29,6 @@ export const NavLinkStyled = css`
         position: relative;
         padding: 31px 0;
         &:before{
-            content: '';
             width: 0;
             height: 3px;
             bottom: 0;
