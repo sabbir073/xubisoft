@@ -11,7 +11,7 @@ import {SectionWrap, SectionBottom} from './services-area.style';
 const ServicesArea = (props) => {
     const servicesDataQuery = useStaticQuery(graphql `
         query CallCentersQueryData {
-            allCallCenterJson(sort: {order: DESC, fields: id}, limit: 6) {
+            allCallCenterJson(sort: {order: DESC, fields: id}, limit: 3) {
                 edges {
                     node {
                         title

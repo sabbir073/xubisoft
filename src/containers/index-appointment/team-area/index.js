@@ -105,7 +105,8 @@ TeamsSection.defaultProps = {
         }
     },
     textStyle: {
-        mt: '30px'
+        mt: '30px',
+        align: 'justify'
     },
     buttonOneStyle: {
         mr: '15px',

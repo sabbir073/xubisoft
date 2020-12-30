@@ -60,9 +60,6 @@ const TabsSection = ({ sectionStyles, sectionTitleStyle }) => {
                                 <TabPane eventKey={tab_header[2].id}>
                                     <Partners />
                                 </TabPane>
-                                <TabPane eventKey={tab_header[3].id}>
-                                    <Awards />
-                                </TabPane>
                             </TabContent>
                         </Tabs>
                     </Col>

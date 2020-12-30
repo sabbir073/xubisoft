@@ -96,10 +96,10 @@ ContactSection.defaultProps = {
             mb: '20px'
         },
         phoneAnchorStyle: {
-            color: '#002fa6',
+            color: '#00aeef',
             hover: {
                 layout: 2,
-                color: '#002fa6'
+                color: '#00aeef'
             }
         },
         btnStyle: {

@@ -27,10 +27,6 @@
             {
                 "id": "teachonology-partners-tab",
                 "title": "Technology Partners"
-            },
-            {
-                "id": "our-awards-tab",
-                "title": "Our Awards"
             }
         ],
         "about_content": {
@@ -63,7 +59,7 @@
     },
     {
         "id": "appointment-contact-section",
-        "title": "Need to Talk?",
+        "title": "GET IN TOUCH",
         "subtitle": "We are here 24/7 active to talk with you.",
         "bgImage": "./images/bg/contact-section-bg.png",
         "contact_info": {

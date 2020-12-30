@@ -57,7 +57,7 @@ export const TestimonialRating = styled.div `
     margin-bottom: 10px;
     .rating{
         font-size: 16px;
-        color: ${props => props.theme.colors.yellow};
+        color: ${props => props.theme.colors.themeColor};
         &.disable{
             color: ${props => props.theme.colors.silver};
         }

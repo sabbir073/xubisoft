@@ -51,7 +51,6 @@ const TestimonialSection = ({sectionTitleStyle, slider, sliderStyle}) => {
                                 <div className="item" key={testimonial.node.id}>
                                     <Testimonial
                                         authorName={testimonial.node.author_name}
-                                        authroRole={testimonial.node.author_designation}
                                         authorImg={testimonial.node.author_image.childImageSharp}
                                         rating={testimonial.node.rating}
                                         review={testimonial.node.review}

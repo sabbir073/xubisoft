@@ -25,7 +25,7 @@ export const TeamMemberSocialWrap = styled.div `
     opacity: 0;
     visibility: hidden;
     text-align: center;
-    background-color: #002FA6;
+    background-color: ${props => props.theme.colors.themeColor};
     transition: ${props => props.theme.transition};
 `;
 

@@ -18,13 +18,13 @@ export const LocationBtnText = styled.button `
         margin-right: 14px;
         display: inline-block;
         .icon{
-            color: #086AD8;
+            color: ${props => props.theme.colors.themeColor};
             font-size: 18px;
         }
     }
     .button-text{
         font-weight: 500;
-        color: #086AD8;
+        color: ${props => props.theme.colors.themeColor};
         position: relative;
         &:after{
             content: '';

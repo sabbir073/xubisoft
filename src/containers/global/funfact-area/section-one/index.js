@@ -44,7 +44,7 @@ FunFactArea.defaultProps = {
     sectionStyle: {
         pt: '59px',
         pb: '29px',
-        bgColor: '#086AD8'
+        bgColor: '#00aeef'
     },
     counterStyle: {
         wrapperStyle: {

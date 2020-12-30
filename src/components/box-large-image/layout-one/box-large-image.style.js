@@ -25,7 +25,7 @@ export const BoxLargeImgMedia = styled.div `
         bottom: 0;
         z-index: 1;
         opacity: .5;
-        background-image: linear-gradient(-180deg, transparent 39%, #1c0f69 100%);
+        background-image: linear-gradient(-180deg, transparent 39%, #00aeef 100%);
     }
 `;
 
@@ -66,10 +66,10 @@ export const BoxLargeImgContent = styled.div `
 `;
 
 export const HeadingWrap = styled(Heading) `
-    font-size: ${props => props.fontSize || '18px'};
+    font-size: ${props => props.fontSize || '20px'};
     line-height: ${props => props.lineHeight || 1.5};
     color: ${props => props.color || '#fff'};
-    font-weight: ${props => props.fontweight || 500};
+    font-weight: ${props => props.fontweight || 600};
 `;
 
 export const TextWrap = styled(Text) `
@@ -107,7 +107,7 @@ export const BoxLargeImgWrap = styled.div `
         }
         ${BoxLargeImgMedia}{
             &:after{
-                background: #002fa6;
+                background: #000;
                 opacity: .8;
             }
         }

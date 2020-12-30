@@ -302,7 +302,7 @@ Header.defaultProps = {
     },
     menuStyle: {
         alignment: "left",
-        color: "#ffffffb3",
+        color: "#ffffff",
         hoverColor: "#fff",
         barColor: "#fff",
         vSpace: 42,

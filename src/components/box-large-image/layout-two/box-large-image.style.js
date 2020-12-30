@@ -58,7 +58,7 @@ export const BoxLargeImgBtnWrap = styled.div `
     border-top: 1px solid #eee;
     color: #086AD8;
     &:before{
-        background-color: #086AD8;
+        background-color: ${props => props.theme.colors.themeColor};
         content: '';
         position: absolute;
         top: 0;

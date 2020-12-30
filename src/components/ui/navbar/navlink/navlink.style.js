@@ -6,7 +6,7 @@ export const NavLinkStyled = css`
     display: inline-block;
     position: relative;
     color: ${props => props.theme.colors.black};
-    font-size: 15px;
+    font-size: 14px;
     font-weight: 500;
     line-height: 1.18;
     padding-right: 21px;

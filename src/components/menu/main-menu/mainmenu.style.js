@@ -107,11 +107,11 @@ export const MainMenuWrap = styled.nav`
                         ${props => props.submenu && css`
                             ${props => props.submenu.hoverColor === 'primary' && css`
                                 color: #fff; /*${props => props.theme.colors.themeColor}**/
-                                background-color:#1c1c1c;
+                                background-color:${props => props.theme.colors.themeColor};
                             `}
                             ${props => props.submenu.hoverColor !== 'primary' && css`
                                 color: #fff; /*${props => props.submenu.hoverColor};**/
-                                background-color:#1c1c1c;
+                                background-color:${props => props.theme.colors.themeColor};
                             `}
                             
                             & > .icon{
@@ -137,11 +137,11 @@ export const MainMenuWrap = styled.nav`
                 & > ${AnchorTag},
                 & > ${SmoothScroll}{
                     display: block;
-                    color: #333333;
-                    border-bottom:1px solid #000;
+                    color: #fff;
+                    border-bottom:1px solid rgb(171, 171, 171);
                     padding: 10px 30px;
-                    font-weight: 600;
-                    font-size:14px;
+                    font-weight: 400;
+                    font-size:13px;
                     span{
                         padding: 0px;
                         &:before{
