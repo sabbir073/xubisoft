@@ -31,7 +31,7 @@ const CTASection = ({
             <Container>
                 <Row className="align-items-center text-lg-left text-center">
                     <Col xl={8} lg={7}>
-                        <Heading {...heading}>Assess your business potentials and find opportunities <span>for bigger success </span> </Heading> 
+                        <Heading {...heading}>Grab this great oppurtunity and book your sit <span>for better future! </span> </Heading> 
                     </Col> 
                     <Col xl ={4} lg={5} className="text-center">
                         <Button 
@@ -41,7 +41,7 @@ const CTASection = ({
                             iconposition="left"
                             icondistance="4px"
                             iconsize="16px">
-                            Let 's talk 
+                            Registration 
                         </Button> 
                         <Button 
                             to="/" 

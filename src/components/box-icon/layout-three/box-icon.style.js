@@ -2,7 +2,7 @@ import styled from 'styled-components';
 import { device } from '../../../theme'
 
 export const BoxIconInner = styled.div`
-    padding: 30px;
+    padding: 10px;
     border-radius: 5px;
     transition: all 0.3s ease-in-out;
     @media ${device.medium}{
@@ -21,13 +21,14 @@ export const IconWrap = styled.div`
     font-size: 48px;
     min-width: 60px;
     margin-right: 10px;
-    color: ${props => props.theme.colors.secondary};
+    color: ${props => props.theme.colors.primary};
     height: 60px;
     display: inherit;
 `;
 
 export const Heading = styled.h5`
-    color: ${props => props.theme.colors.themeColor};
+    color: ${props => props.theme.colors.black};
+    font-size: 22px;
 `;
 
 export const BoxIconBottom = styled.div``;

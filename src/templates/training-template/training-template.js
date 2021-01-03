@@ -79,7 +79,7 @@ const TrainingTemplate = ({ data, location, ...restProps }) => {
                                 {pageData.introText && (
                                     <Col lg={{ span: 7, offset: 1 }}>
                                         <Box>
-                                            {pageData.introText.heading && <Heading {...rightHeading}>{parse(pageData.introText.heading)}</Heading>}
+                                            {pageData.introText.heading && <Heading {...rightHeading} style={{'text-align': 'justify'}}>{parse(pageData.introText.heading)}</Heading>}
                                             {pageData.introText.text && <Text {...rightText}>{parse(pageData.introText.text)}</Text>}
                                         </Box>
                                     </Col>
@@ -88,48 +88,7 @@ const TrainingTemplate = ({ data, location, ...restProps }) => {
                         </Container>
                     </IntroArea>
                 )}
-                {(pageData.faq || pageData.video) && (
-                    <FaqArea>
-                        <Container>
-                            <Row>
-                                {pageData.faq && (
-                                    <Col lg={6} pr="3rem">
-                                        <AccordionWrap layout="two">
-                                            <Accordion allowZeroExpanded preExpanded={[pageData.faq[0].id]}>
-                                                {
-                                                    pageData.faq.map((el, index) => {
-                                                        return (
-                                                            <AccordionItem id={el.id} key={el.id}>
-                                                                <AccordionItemHeading>
-                                                                    <AccordionItemButton>
-                                                                        {el.title}
-                                                                    </AccordionItemButton>
-                                                                </AccordionItemHeading>
-                                                                <AccordionItemPanel>
-                                                                    <p>{el.desc}</p>
-                                                                </AccordionItemPanel>
-                                                            </AccordionItem>
-                                                        )
-                                                    })
-                                                }
-                                            </Accordion>
-                                        </AccordionWrap>
-                                    </Col>
-                                )}
-                                {pageData.video && (
-                                    <Col lg={6}>
-                                        <VideoBoxWrap>
-                                            {pageData.video.preview_image && <Image fluid={pageData.video.preview_image.childImageSharp.fluid} alt="Video preview" align="left" />}
-                                            <VideoBtnWrap>
-                                                <VideoButton skin="primary" onClick={modalVideoOpen} />
-                                            </VideoBtnWrap>
-                                        </VideoBoxWrap>
-                                    </Col>
-                                )}
-                            </Row>
-                        </Container>
-                    </FaqArea>
-                )}
+                
                 {pageData.features && (
                     <FeatureArea>
                         <Container>
@@ -147,7 +106,6 @@ const TrainingTemplate = ({ data, location, ...restProps }) => {
                                             <BoxIcon
                                                 title={feature.title}
                                                 icon={feature.icon}
-                                                desc={feature.desc}
                                             />
                                         </Col>
                                     ))}
@@ -188,11 +146,6 @@ export const query = graphql`
             introText{
                 heading
                 text
-            }
-            faq{
-                id
-                title
-                desc
             }
             video{
                 preview_image{
@@ -248,7 +201,7 @@ TrainingTemplate.defaultProps = {
         leftHeading: {
             as: 'h3',
             mt: '25px',
-            fontSize: '38px',
+            fontSize: '30px',
             child: {
                 color: 'primary'
             },
@@ -259,10 +212,10 @@ TrainingTemplate.defaultProps = {
                 medium: {
                     mt: 0,
                     mb: '20px',
-                    fontSize: '28px'
+                    fontSize: '24px'
                 },
                 small: {
-                    fontSize: '24px'
+                    fontSize: '22px'
                 }
             }
         },
@@ -272,6 +225,7 @@ TrainingTemplate.defaultProps = {
             pl: '34px',
             lineheight: 1.67,
             fontweight: 800,
+            fontSize: '20px',
             layout: 'quote',
             child: {
                 color: 'primary'
@@ -288,7 +242,8 @@ TrainingTemplate.defaultProps = {
         featureTitle: {
             as: 'h3',
             textalign: 'center',
-            mb: '20px'
+            mb: '20px',
+            color: 'primary'
         }
     }
 }

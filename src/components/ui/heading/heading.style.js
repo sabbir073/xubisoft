@@ -109,7 +109,7 @@ export const HeadingWrapper = styled.h2 `
             width: 4px;
             height: 94%;
             transform: translateY(-50%);
-            background-color: ${props => props.theme.colors.secondary};
+            background-color: ${props => props.theme.colors.themeColor};
         }
     `}
 

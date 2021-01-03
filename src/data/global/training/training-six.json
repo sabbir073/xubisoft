@@ -1,7 +1,7 @@
 {
-    "id": "linuxnetwork",
-    "title": "LINUX NETWORK",
-    "excerpt": "A needs assessment is a part of planning processes, often used for improvement in businesses.",
+    "id": "cissp-new",
+    "title": "CISSP",
+    "excerpt": "",
     "icon": {
         "svg": "../../images/icons/linea-basic-gear.svg",
         "img": "../../images/icons/icon-04-100x108.png",
@@ -10,61 +10,64 @@
     },
     "is_featured": true,
     "banner_image": "../../images/banner/banner-01.jpg",
-    "introTitle": "Learn More About Our",
-    "coloredTitle": "success stories",
+    "introTitle": "Become a ",
+    "coloredTitle": "Certified Information Systems Security Professional",
     "introText": {
-        "heading": "Mitech specializes in <span>technological and IT-related services</span> such as product engineering, warranty management, building cloud, infrastructure, network, etc.",
-        "text": "We’re available for 8 hours a day! <br/>Contact to require a detailed analysis and assessment of your plan."
+        "heading": "<span>Certified Information Systems Security Professional (CISSP)</span> is one of the gold standard and most sought information security certification for proving knowledge in Cybersecurity. CISSP Common Body of Knowledge (CBK) is a collection of 8 domains that covers all the comprehensive aspects of information security and CISSP domains explained. An applicant needs to show their expertise in each of the domains to gain the certification.",
+        "text": "<b>Training Duration:</b> 84 Hours <br/><b>Class:</b> Twice in a week (Friday | Saturday)"
     },
-    "faq": [{
-            "id": "highly-service-faq-1",
-            "title": "New multiple site connectivity",
-            "desc": "We use a newly developed technology to connect sites that are based on different types of servers and networks, SiteConnect, which helps to reduce the misinterpretation of signals as well as the loss of data during transfering."
-        },
-        {
-            "id": "highly-service-faq-2",
-            "title": "IT Security & Software",
-            "desc": "To keep your systems, your devices, and network stay secure, we have developed a new program that limits the access of suspicious objects or people and authenticate all logins to the system."
-        },
-        {
-            "id": "highly-service-faq-3",
-            "title": "Weak hosted capability",
-            "desc": "Some hosts are unaware of the potential risks as well as security loopholes in their system. By detecting these errors and taking prompt actions on improving firewalls, we can upgrade the system security."
-        },
-        {
-            "id": "highly-service-faq-4",
-            "title": "Build internal network",
-            "desc": "The internal network is essential for all companies and corporations, especially for those working in IT sector. To avoid possible risks when sharing internal confidential files and documentation to an external receiver, internal network must be strong."
-        }
-    ],
     "video": {
         "preview_image": "../../images/about-us/video-01-image-01-570x350.jpg",
         "video_link": "https://www.youtube.com/watch?v=9No-FiEInLA"
     },
     "features": {
-        "title": "Prominent IT Security Services",
+        "title": "List of Eight CISSP Domains Module",
         "items": [{
                 "id": "highly-professional-features-1",
-                "icon": "../../images/icons/icon-07-60x60.png",
-                "title": "Mitech Management Systems",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Security and Risk Management",
                 "desc": "Our service offerings enhance customer experience throughout secure & highly functional end-to-end warranty management."
             },
             {
                 "id": "highly-professional-features-2",
                 "icon": "../../images/icons/icon-08-60x60.png",
-                "title": "Reliable Multi-function Technology",
+                "title": "Asset Security",
                 "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
             },
             {
                 "id": "highly-professional-features-3",
-                "icon": "../../images/icons/icon-09-60x60.png",
-                "title": "Highly Professional Staffs",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Security Architecture and Engineering",
                 "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
             },
             {
                 "id": "highly-professional-features-4",
-                "icon": "../../images/icons/icon-10-60x60.png",
-                "title": "Infrastructure Integration Technology",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Communications and Network Security",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-5",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Identity and Access Management",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-6",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Security Assessment and Testing",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-7",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Security Operations",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-8",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Software Development Security",
                 "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
             }
         ]

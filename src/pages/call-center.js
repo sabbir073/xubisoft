@@ -6,6 +6,7 @@ import Footer from '../containers/layout/footer/footer-one'
 import PageHeader from '../components/pageheader'
 import ServicesArea from '../containers/call-center/services-area'
 import ContactArea from '../containers/global/contact-area/contact-three'
+import CTAArea from '../containers/global/cta-area/section-two'
 
 const callCenterPage = ({ pageContext, location }) => (
   <Layout location={location}>
@@ -16,8 +17,9 @@ const callCenterPage = ({ pageContext, location }) => (
         location={location}
         title="Call Center"
     />
-    <main className="site-wrapper-reveal">
+    <main style={{'margin-bottom': '70px'}} className="site-wrapper-reveal">
         <ServicesArea/>
+        <CTAArea/>
     </main>
     <Footer/>
   </Layout>

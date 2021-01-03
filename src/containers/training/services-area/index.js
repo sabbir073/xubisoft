@@ -10,7 +10,7 @@ import {ServicesWrapper} from './services-area.style'
 const Services = ({serviceBoxStyle, linkStyle, headingStyle}) => {
     const featuredDataQuery = useStaticQuery(graphql `
         query TrainingQueryData {
-            allTrainingJson(sort: {order: DESC, fields: id}, filter: {is_featured: {eq: true}}, limit: 10) {
+            allTrainingJson(sort: {order: DESC, fields: id}, filter: {is_featured: {eq: true}}, limit: 12) {
                 edges {
                   node {
                     fields {

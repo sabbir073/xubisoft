@@ -1,10 +1,10 @@
 {
     "id": "web-development",
-    "title": "WEB DEVELOPMENT",
+    "title": "WEB DESIGN",
     "excerpt": "A needs assessment is a part of planning processes, often used for improvement in businesses.",
     "icon": {
         "svg": "../../images/icons/linea-basic-gear.svg",
-        "img": "../../images/icons/icon-04-100x108.png",
+        "img": "../../images/icons/webdesign.jpg",
         "img_two": "../../images/icons/icon-01-100x98.png",
         "img_hover": "../../images/icons/icon-01-hover-100x98.png"
     },

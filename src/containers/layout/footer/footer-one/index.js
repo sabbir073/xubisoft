@@ -94,8 +94,8 @@ const Footer = ({ copyrightStyle, ...props }) => {
                         </Col>
                         <Col lg={2} md={4} sm={6}>
                             <FooterWidget>
-                                <center><Heading as="h6" mt="-3px" mb="20px" style={{color:'#13CCFD'}}>CERTIFICATION</Heading></center>
-                                <center><img src={ISO} alt="Logo" /></center>
+                                <Heading as="h6" mt="-3px" mb="20px" style={{color:'#13CCFD'}}>CERTIFICATION</Heading>
+                                <img src={ISO} alt="Logo" />
                             </FooterWidget>
                         </Col>
                         <Col lg={2} md={4} sm={6}>
