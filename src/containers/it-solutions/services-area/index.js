@@ -5,13 +5,13 @@ import Heading from '../../../components/ui/heading'
 import Anchor from '../../../components/ui/anchor'
 import {Container, Row, Col} from '../../../components/ui/wrapper'
 import SectionTitle from '../../../components/ui/section-title'
-import ServiceBox from '../../../components/box-large-image/layout-one'
+import ServiceBox from '../../../components/box-large-image/layout-five'
 import {SectionWrap, SectionBottom} from './services-area.style';
 
 const ServicesArea = (props) => {
     const servicesDataQuery = useStaticQuery(graphql `
         query ITSolutionsQueryData {
-            allItSolutionsJson(sort: {order: DESC, fields: id}, limit: 6) {
+            allItSolutionsJson(sort: {order: ASC, fields: id}, limit: 6) {
                 edges {
                     node {
                         title
@@ -42,8 +42,8 @@ const ServicesArea = (props) => {
                 <Row>
                     <Col lg={12}>
                         <SectionTitle
-                            subtitle="Our Services"
-                            title="For your very specific industry, <br/> we have <span>highly-tailored IT solutions.</span>"
+                            subtitle="Our Products"
+                            title="For your very specific industry, <br/> we have <span>highly-tailored products.</span>"
                         />
                     </Col>
                 </Row>
@@ -55,17 +55,10 @@ const ServicesArea = (props) => {
                                 title={service.node.title}
                                 desc={service.node.excerpt}
                                 imageSrc={service.node.image.childImageSharp}
-                                path={`/it-solution/${service.node.fields.slug}`}
+                                path={`/products/${service.node.fields.slug}`}
                             />
                         </Col>
                     ))}
-                </Row>
-                <Row>
-                    <Col lg={12}>
-                        <SectionBottom>
-                            <Heading {...headingStyle}>Challenges are just opportunities in disguise. <Anchor {...linkStyle} path="/">Take the challenge!</Anchor></Heading>
-                        </SectionBottom>
-                    </Col>
                 </Row>
             </Container>
         </SectionWrap>
@@ -81,7 +74,7 @@ ServicesArea.propTypes = {
 ServicesArea.defaultProps = {
     headingStyle: {
         as: 'h3',
-        fontSize: '18px',
+        fontSize: '16px',
         fontweight: 500,
         lineHeight: 1.40,
         color: '#333333'

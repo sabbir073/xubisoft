@@ -1,14 +1,15 @@
 {
-    "id": "managed-it-services",
-    "title": "Managed IT Services",
-    "excerpt": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution.",
-    "image": "../../images/box-image/image-05-370x370.jpg",
+    "id": "product-1",
+    "title": "SAPTARSHI-THE COMPLETE ERP SOLUTION",
+    "tagline": "Reach out to the world’s most reliable IT services.",
+    "excerpt": "Having obtained the official & formal training in IT technology and technical fields, our staffs know best.",
+    "image": "../../images/box-image/image-06-370x370.jpg",
     "icon": {
         "svg": "../../images/icons/linea-basic-spread-text-bookmark.svg",
-        "img": "../../images/icons/icon-17-80x83.png"
+        "img": "../../images/icons/icon-16-80x83.png"
     },
     "is_featured": true,
-    "banner_image": "../../images/banner/banner-05.jpg",
+    "banner_image": "../../images/banner/banner-04.jpg",
     "introText": {
         "heading": "Mitech specializes in <span>technological and IT-related services</span> such as product engineering, warranty management, building cloud, infrastructure, network, etc.",
         "text": "We’re available for 8 hours a day! <br/>Contact to require a detailed analysis and assessment of your plan."

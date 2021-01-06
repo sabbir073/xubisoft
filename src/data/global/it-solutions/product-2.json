@@ -1,14 +1,14 @@
 {
-    "id": "it-consultancy",
-    "title": "IT Consultancy",
-    "excerpt": "We provide the most responsive and functional IT design for companies and businesses worldwide.",
-    "image": "../../images/box-image/image-09-370x370.jpg",
+    "id": "product-2",
+    "title": "HOSPITAL E-TOKEN MANAGEMENT",
+    "excerpt": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution.",
+    "image": "../../images/box-image/image-05-370x370.jpg",
     "icon": {
-        "svg": "../../images/icons/linea-ecommerce-money.svg",
-        "img": "../../images/icons/icon-18-80x83.png"
+        "svg": "../../images/icons/linea-basic-spread-text-bookmark.svg",
+        "img": "../../images/icons/icon-17-80x83.png"
     },
     "is_featured": true,
-    "banner_image": "../../images/banner/banner-06.jpg",
+    "banner_image": "../../images/banner/banner-05.jpg",
     "introText": {
         "heading": "Mitech specializes in <span>technological and IT-related services</span> such as product engineering, warranty management, building cloud, infrastructure, network, etc.",
         "text": "We’re available for 8 hours a day! <br/>Contact to require a detailed analysis and assessment of your plan."

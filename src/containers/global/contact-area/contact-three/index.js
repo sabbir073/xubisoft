@@ -45,7 +45,7 @@ const ContactArea = ({
                     <Col lg={6}>
                         <Box>
                             <Heading {...headingStyle}>Obtaining further information by <span>make a contact</span> with our experienced IT staffs.</Heading>
-                            <Text {...descStyle}>We’re available for 8 hours a day! <br/> Contact to require a detailed analysis and assessment of your plan</Text>
+                            <Text {...descStyle}>We’re available for 8 hours a day! <br/> To get a detailed analysis of your plan, Let us know.</Text>
                         </Box>
                     </Col>
                     <Col lg={6}>

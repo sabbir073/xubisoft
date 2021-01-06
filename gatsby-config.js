@@ -199,7 +199,7 @@ module.exports = {
           `/index-resolutions/`,
           `/index-services/`,
           `/it-services/`,
-          `/it-solutions/`,
+          `/products/`,
           `/leadership/`,
           `/it-service/*`,
           `/training/*`,

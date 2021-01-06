@@ -40,7 +40,7 @@ const PricingTable = ({ title, price, period, isFeatured, path, features }) => {
 
                 </PricingTableBody>
                 <PricingTableFooter>
-                    {path && <Button skin="secondary" to={path}>Learn More</Button>}
+                    {path && <Button skin="primary" to={path}>ORDER NOW</Button>}
                 </PricingTableFooter>
             </PricingTableInner>
         </PricingTableWrap>

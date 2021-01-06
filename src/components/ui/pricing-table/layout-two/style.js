@@ -62,6 +62,12 @@ export const PricingTableList = styled.ul`
 export const PricingTableFooter = styled.footer`
     margin-top: 30px;
     padding-top: 8px;
+    &:hover{
+        a{
+            background-color: #00aeef !important;
+            color: #fff !important;
+        }
+    }
 `;
 
 export const PricingTableWrap = styled.div`
@@ -79,7 +85,7 @@ export const PricingTableWrap = styled.div`
             box-shadow: 0 2px 30px rgba(89, 69, 230, 0.12);
             border: 0 solid transparent;
             padding: 35px 21px 41px;
-            background: #002FA6;
+            background: #1c1c1c;
         }
         ${PricingTableTitle}{
             color: #fff;
@@ -103,7 +109,7 @@ export const PricingTableFeatureMark = styled.div`
     right: -1px;
     width: 0;
     height: 0;
-    border-top: 88px solid ${props => props.theme.colors.secondary};
+    border-top: 88px solid ${props => props.theme.colors.themeColor};
     border-bottom: 88px solid transparent;
     border-left: 88px solid transparent;
     span{

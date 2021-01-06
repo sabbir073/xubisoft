@@ -7,35 +7,34 @@ import { SectionWrap } from './style'
 const PricingTableSection = () => {
     const pricingItems = [
         {
-            id: "pricing-free",
-            title: "Free",
+            id: "friendship",
+            title: "FRIENDSHIP",
             price: 0,
             path: "/contact-us",
             features: [
                 {
                     id: "free-feature-1",
-                    text: "03 projects"
+                    text: "01 Image"
                 },
                 {
                     id: "free-feature-2",
-                    text: "Power And Predictive Dialing"
+                    text: "Delivery in a day"
                 },
                 {
                     id: "free-feature-3",
-                    text: "Quality & Customer Experience"
+                    text: "Starter quality"
                 },
                 {
                     id: "free-feature-4",
-                    text: "Try for free, forever!"
+                    text: "1 Review"
                 }
             ]
         },
         {
-            id: "pricing-personal",
-            title: "Personal",
+            id: "silver",
+            title: "SILVER",
             price: 19,
             path: "/contact-us",
-            is_featured: true,
             features: [
                 {
                     id: "personal-feature-1",
@@ -56,10 +55,11 @@ const PricingTableSection = () => {
             ]
         },
         {
-            id: "pricing-group",
-            title: "Group",
+            id: "gold",
+            title: "GOLD",
             price: 29,
             path: "/contact-us",
+            is_featured: true,
             features: [
                 {
                     id: "group-feature-1",
@@ -80,8 +80,8 @@ const PricingTableSection = () => {
             ]
         },
         {
-            id: "pricing-enterprise",
-            title: "Enterprise",
+            id: "plutinum",
+            title: "PLUTINUM",
             price: 49,
             path: "/contact-us",
             features: [

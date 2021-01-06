@@ -11,7 +11,7 @@ import {SectionWrap, SectionBottom} from './services-area.style';
 const ServicesArea = (props) => {
     const servicesDataQuery = useStaticQuery(graphql `
         query ClippingPthQueryData {
-            allClippingPathJson(sort: {order: DESC, fields: id}, limit: 6) {
+            allClippingPathJson(sort: {order: DESC, fields: id}, limit: 8) {
                 edges {
                     node {
                         title

@@ -1,15 +1,14 @@
 {
-    "id": "clipping-path-one",
-    "title": "PHOTO RETOUCHING",
+    "id": "product-5",
+    "title": "POINT OF SALE",
     "excerpt": "We provide the most responsive and functional IT design for companies and businesses worldwide.",
-    "image": "../../images/box-image/one-before.jpg",
-    "image2": "../../images/box-image/one-after.jpg",
+    "image": "../../images/box-image/image-03-370x370.jpg",
     "icon": {
-        "svg": "../../images/icons/linea-basic-geolocalize-05.svg",
-        "img": "../../images/icons/icon-13-80x83.png"
+        "svg": "../../images/icons/linea-basic-spread-text-bookmark.svg",
+        "img": "../../images/icons/icon-15-80x83.png"
     },
     "is_featured": true,
-    "banner_image": "../../images/banner/banner-01.jpg",
+    "banner_image": "../../images/banner/banner-03.jpg",
     "introText": {
         "heading": "Mitech specializes in <span>technological and IT-related services</span> such as product engineering, warranty management, building cloud, infrastructure, network, etc.",
         "text": "We’re available for 8 hours a day! <br/>Contact to require a detailed analysis and assessment of your plan."

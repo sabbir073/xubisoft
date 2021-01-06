@@ -77,31 +77,31 @@
     },
     {
         "text": "PRODUCTS",
-        "link": "/it-services",
+        "link": "/products",
         "isSubmenu": true,
         "submenu": [{
-                "text": "SOFTWARE DEVELOPMENT",
-                "link": "/service/software-development"
+                "text": "ERP SOLUTION",
+                "link": "/products/saptarshi-the-complete-erp-solution"
             },
             {
-                "text": "APP DEVELOPMENT",
-                "link": "/service/mobile-applications"
+                "text": "HOSPITAL E-TOKEN MANAGEMENT",
+                "link": "/products/hospital-e-token-management"
             },
             {
-                "text": "WEBSITE DEVELOPMENT",
-                "link": "/service/website-development"
+                "text": "EDUCATION MANAGEMENT SYSTEM",
+                "link": "/products/education-management-system"
             },
             {
-                "text": "CALL CENTER SERVICES",
-                "link": "/service/call-center-services"
+                "text": "ACCOUNTING & INVENTORY",
+                "link": "/products/accounting-inventory"
             },
             {
-                "text": "TRAINING",
-                "link": "/service/skill-development-training"
+                "text": "POINT OF SALE",
+                "link": "/products/point-of-sale"
             },
             {
-                "text": "NEED ASSESMENT & ANALYSIS",
-                "link": "/service/need-assesment-analysis"
+                "text": "CALL CENTER SOLUTION",
+                "link": "/products/call-center-solution"
             }
         ]
     },

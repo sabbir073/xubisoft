@@ -238,7 +238,7 @@ exports.createPages = async ({ graphql, actions }) => {
     const itsolutions = result.data.allItSolutionsJson.edges;
     itsolutions.forEach(({ node }) => {
         createPage({
-            path: `it-solution/${node.fields.slug}`,
+            path: `products/${node.fields.slug}`,
             component: solutionPage,
             context: {
                 slug: node.fields.slug
