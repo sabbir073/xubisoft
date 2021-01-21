@@ -22,13 +22,13 @@ export const IconWrap = styled.div`
     min-width: 60px;
     margin-right: 10px;
     color: ${props => props.theme.colors.primary};
-    height: 60px;
+    height: 35px;
     display: inherit;
 `;
 
 export const Heading = styled.h5`
     color: ${props => props.theme.colors.black};
-    font-size: 22px;
+    font-size: 21px;
 `;
 
 export const BoxIconBottom = styled.div``;
