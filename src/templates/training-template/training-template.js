@@ -32,6 +32,7 @@ const TrainingTemplate = ({ data, location, ...restProps }) => {
     }
     const {
         titleStyle,
+        bottomStyle,
         taglineStyle,
         introTextStyles: { leftHeading, rightHeading, rightText },
         featureStyels: { featureTitle } } = restProps;
@@ -114,6 +115,14 @@ const TrainingTemplate = ({ data, location, ...restProps }) => {
                         </Container>
                     </FeatureArea>
                 )}
+                {pageData.excerpt && (
+                    <Row>
+                        <Col col="12">
+                            <Heading {...featureTitle}>More About The Course</Heading>
+                            <Container><Heading {...bottomStyle}>{parse(pageData.excerpt)}</Heading></Container>
+                        </Col>
+                    </Row>
+                )}
                 <CTA />
             </main>
             <ModalVideo
@@ -132,6 +141,7 @@ export const query = graphql`
         trainingJson(fields: {slug: {eq: $slug}}){
             title
             id
+            excerpt
             banner_image{
                 childImageSharp{
                   fluid(maxWidth: 1920, maxHeight: 570, quality: 100){
@@ -191,6 +201,11 @@ TrainingTemplate.defaultProps = {
         as: 'h1',
         color: '#fff',
         mb: '15px'
+    },
+    bottomStyle: {
+        as: 'h6',
+        color: '#000',
+        mb: '30px'
     },
     taglineStyle: {
         as: 'h5',

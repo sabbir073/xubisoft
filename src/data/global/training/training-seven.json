@@ -1,7 +1,7 @@
 {
     "id": "ccna",
     "title": "PROFESSIONAL DIGITAL CONTENT MANAGEMENT",
-    "excerpt": "A needs assessment is a part of planning processes, often used for improvement in businesses.",
+    "excerpt": "<b>Who can Join:</b> Any Fresh Graduate (or 4 Years Diploma) who intends to make well-plying career in Customer Service. Graduate degree holders (or 4 Years Diploma) wanting to make a career in marketing and customer care. <br/><br/><b>Expected Benefits to this Sector:</b> Interpret the concept of professional digital content management (PDCM). Produce Digital content. Develop mobile value-added services (VAS) content. Interpret digital content marketing. <br/></br><b>Career Opportunity:</b> Digital Content professional can work in e-commerce project as a content expert. Can track and analyze sell and work back on strategies. They can work as a freelancer and in outsourcing marketing place.",
     "icon": {
         "svg": "../../images/icons/linea-basic-gear.svg",
         "img": "../../images/icons/icon-04-100x108.png",
@@ -10,11 +10,11 @@
     },
     "is_featured": true,
     "banner_image": "../../images/banner/banner-01.jpg",
-    "introTitle": "Learn More About Our",
-    "coloredTitle": "success stories",
+    "introTitle": "Get a certification on",
+    "coloredTitle": "Professional Digital Content Management",
     "introText": {
-        "heading": "Mitech specializes in <span>technological and IT-related services</span> such as product engineering, warranty management, building cloud, infrastructure, network, etc.",
-        "text": "We’re available for 8 hours a day! <br/>Contact to require a detailed analysis and assessment of your plan."
+        "heading": "As a <span>leading Business Process outsourcing (BPO)</span> Organization (Xubisoft Ltd.) is providing extensive training program on “Skill Development” with an authorized certification under the supervision Skill for Employment Investment Program (SEIP) & Bangladesh Association of Call Center & Outsourcing (BACCO). As more companies look to enter the e-commerce field. They will need highly organized individuals to manage content across platform. Digital content management is a robust, versatile discipline. But with so many techniques, formats and platforms at your disposal, figuring out how to get started can be a bit intimidating.",
+        "text": "<b>Course Duration:</b> 160 Hours (2 Months) <br/><b>Classes:</b> Five days in a week <br/><b>Course Fee:</b> Full Free <br/><b>Note:</b> Get 7500 TK after Successfully completion the Course."
     },
     "faq": [{
             "id": "highly-service-faq-1",
@@ -42,29 +42,101 @@
         "video_link": "https://www.youtube.com/watch?v=9No-FiEInLA"
     },
     "features": {
-        "title": "Prominent IT Security Services",
+        "title": "Course Module",
         "items": [{
                 "id": "highly-professional-features-1",
-                "icon": "../../images/icons/icon-07-60x60.png",
-                "title": "Mitech Management Systems",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Apply basic IT skills",
                 "desc": "Our service offerings enhance customer experience throughout secure & highly functional end-to-end warranty management."
             },
             {
                 "id": "highly-professional-features-2",
                 "icon": "../../images/icons/icon-08-60x60.png",
-                "title": "Reliable Multi-function Technology",
+                "title": "Type Documents in Bangla & English",
                 "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
             },
             {
                 "id": "highly-professional-features-3",
-                "icon": "../../images/icons/icon-09-60x60.png",
-                "title": "Highly Professional Staffs",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Use internet and social network",
                 "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
             },
             {
                 "id": "highly-professional-features-4",
-                "icon": "../../images/icons/icon-10-60x60.png",
-                "title": "Infrastructure Integration Technology",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Apply OHS Practices in the Workplace",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-5",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Apply soft skills in customer service",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-6",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Carryout Workplace Interaction",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-7",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Advance Office Program Solutions",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-8",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "English Fluency Development With WSDA (New Zealand) ",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-9",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Operate in a Team Environment",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-10",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Comply with ethical standards in IT workplace",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-11",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Interview Technic & E-Mail Courtesy",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-12",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Make a Presentation",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-13",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Interpret the concept of professional digital content management (PDCM) ",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-14",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Produce contents ",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-15",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Interpret digital services",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-16",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Interpret digital content marketing ",
                 "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
             }
         ]
