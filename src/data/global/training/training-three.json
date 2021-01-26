@@ -1,7 +1,7 @@
 {
     "id": "professional-backoffice-services",
     "title": "LINUX NETWORK",
-    "excerpt": "A needs assessment is a part of planning processes, often used for improvement in businesses.",
+    "excerpt": "Linux Networking training develops all the essential skills required to become an expert in this domain. You will master all the key fundamentals of Linux Networking from basics to advanced level with real-time projects and use case examples, and this knowledge helps you in clearing the Linux Networking certification exam.",
     "icon": {
         "svg": "../../images/icons/linea-basic-gear.svg",
         "img": "../../images/icons/icon-04-100x108.png",
@@ -13,8 +13,8 @@
     "introTitle": "Learn More About Our",
     "coloredTitle": "success stories",
     "introText": {
-        "heading": "Mitech specializes in <span>technological and IT-related services</span> such as product engineering, warranty management, building cloud, infrastructure, network, etc.",
-        "text": "We’re available for 8 hours a day! <br/>Contact to require a detailed analysis and assessment of your plan."
+        "heading": "Computers are connected in a network to <span>exchange information or resources</span> each other. Two or more computer connected through network media called computer network. There are number of network devices or media are involved to form computer network. Computer loaded with Linux Operating System can also be a part of network whether it is small or large network by its multitasking and multiuser natures. Maintaining of system and network up and running is a task of System / Network Administrator’s job. In this article we are going to review frequently used network configuration and troubleshoot commands in Linux.",
+        "text": "<b>Course Duration:</b> 72 Hours (2.5 Month). </br><b>Class:</b> Three days in a week."
     },
     "faq": [{
             "id": "highly-service-faq-1",
@@ -45,26 +45,74 @@
         "title": "Prominent IT Security Services",
         "items": [{
                 "id": "highly-professional-features-1",
-                "icon": "../../images/icons/icon-07-60x60.png",
-                "title": "Mitech Management Systems",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Introduction to Networking",
                 "desc": "Our service offerings enhance customer experience throughout secure & highly functional end-to-end warranty management."
             },
             {
                 "id": "highly-professional-features-2",
                 "icon": "../../images/icons/icon-08-60x60.png",
-                "title": "Reliable Multi-function Technology",
+                "title": "TCP/IP Basics",
                 "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
             },
             {
                 "id": "highly-professional-features-3",
-                "icon": "../../images/icons/icon-09-60x60.png",
-                "title": "Highly Professional Staffs",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Setting Up Linux Networking",
                 "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
             },
             {
                 "id": "highly-professional-features-4",
-                "icon": "../../images/icons/icon-10-60x60.png",
-                "title": "Infrastructure Integration Technology",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Standalone Services",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-5",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "inetd and xinetd",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-6",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Remote Access – secure shell",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-7",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "DHCP Server",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-8",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Bind DNS Server",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-9",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Remote Procedure Calls",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-10",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "The Network Information Service",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-11",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "The network File System",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-12",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Modems, ISDN, and PPP",
                 "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
             }
         ]

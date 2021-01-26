@@ -1,7 +1,7 @@
 {
     "id": "back-services",
     "title": "PROFESSIONAL BACKOFFICE SERVICES",
-    "excerpt": "A needs assessment is a part of planning processes, often used for improvement in businesses.",
+    "excerpt": "<b>Who can Join:</b> Any Fresh Graduate (or 4 Years Diploma) who intends to make well-plying career in Customer Service. Graduate degree holders (or 4 Years Diploma) wanting to make a career in marketing and customer care. <br/><br/><b>Expected Benefits to this Sector:</b> Apply Effective business data management skill. Perform business development activities. Perform clipping path activities Perform Digital Marketing. <br/></br><b>Career Opportunity:</b> Data processing, data conversion, processing project, managing database, market research, analyzing consumer trends & handling accounting and finance tasks. Customer handling in Travel & Ticketing companies, shopping malls, hyper-store etc. Loan recoveries & Collection center , forms reconciliation.",
     "icon": {
         "svg": "../../images/icons/linea-basic-gear.svg",
         "img": "../../images/icons/icon-04-100x108.png",
@@ -13,8 +13,8 @@
     "introTitle": "Learn More About Our",
     "coloredTitle": "success stories",
     "introText": {
-        "heading": "Mitech specializes in <span>technological and IT-related services</span> such as product engineering, warranty management, building cloud, infrastructure, network, etc.",
-        "text": "We’re available for 8 hours a day! <br/>Contact to require a detailed analysis and assessment of your plan."
+        "heading": "As a <span>leading Business Process outsourcing (BPO) Organization (Xubisoft Ltd.)</span> is providing extensive training program on “Skill Development” with an authorized certification under the supervision Skill for Employment Investment Program (SEIP) & Bangladesh Association of Call Center & Outsourcing (BACCO) The efficiency and competitiveness of BPO organizations or BPO- like organizations are increasingly becoming dependents on the quality of supervision and back office managerial leadership. PBS graduates established credential demonstrating highest caliber supervisory competence for BPO- or process based set-ups. And of course he can choose his profession as a freelancer and can work in outsourcing market place.",
+        "text": "<b>Course Duration:</b> 220 Hours (2.5 Months)</br><b>Classes:</b> Five days in a week </br><b>Course Fee:</b> Full Free </br><b>Note:</b> Get 7500 TK after Successfully completion the Course."
     },
     "faq": [{
             "id": "highly-service-faq-1",
@@ -45,26 +45,110 @@
         "title": "Prominent IT Security Services",
         "items": [{
                 "id": "highly-professional-features-1",
-                "icon": "../../images/icons/icon-07-60x60.png",
-                "title": "Mitech Management Systems",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Apply basic IT skills",
                 "desc": "Our service offerings enhance customer experience throughout secure & highly functional end-to-end warranty management."
             },
             {
                 "id": "highly-professional-features-2",
                 "icon": "../../images/icons/icon-08-60x60.png",
-                "title": "Reliable Multi-function Technology",
+                "title": "Type Documents in Bangla & English",
                 "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
             },
             {
                 "id": "highly-professional-features-3",
-                "icon": "../../images/icons/icon-09-60x60.png",
-                "title": "Highly Professional Staffs",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Use internet and social network.",
                 "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
             },
             {
                 "id": "highly-professional-features-4",
-                "icon": "../../images/icons/icon-10-60x60.png",
-                "title": "Infrastructure Integration Technology",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Apply OHS Practices in the Workplace",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-5",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Apply soft skills in customer service",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-6",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Carryout Workplace Interaction",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-7",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Advance Office Program Solutions",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-8",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "English Fluency Development With WSDA (New Zealand) ",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-9",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Operate in a Team Environment",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-10",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Comply with ethical standards in IT workplace",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-11",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Interview Technic & E-Mail Courtesy",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-12",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Make a Presentation",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-13",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Interpret professional back-office services (PBS)",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-14",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Apply spreadsheet for business data management",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-15",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Perform business development activities",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-16",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Data Entry Skill ",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-17",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Perform digital marketing",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-18",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Basic Adobe Photoshop",
                 "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
             }
         ]

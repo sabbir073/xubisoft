@@ -1,7 +1,7 @@
 {
     "id": "grapphics-design",
     "title": "GRAPHICS DESIGN",
-    "excerpt": "A needs assessment is a part of planning processes, often used for improvement in businesses.",
+    "excerpt": "",
     "icon": {
         "svg": "../../images/icons/linea-basic-gear.svg",
         "img": "../../images/icons/icon-04-100x108.png",
@@ -13,8 +13,8 @@
     "introTitle": "Learn More About Our",
     "coloredTitle": "success stories",
     "introText": {
-        "heading": "Mitech specializes in <span>technological and IT-related services</span> such as product engineering, warranty management, building cloud, infrastructure, network, etc.",
-        "text": "We’re available for 8 hours a day! <br/>Contact to require a detailed analysis and assessment of your plan."
+        "heading": "The main purpose is to make you able to use the <span>Graphic design</span> tools and techniques in a professional way. In this course, you’ll learn the industry standard soft & practical skills of Graphic Design. This course is more focused on freelancing oriented marketplace works like Fiverr, Freelancer.com, 99 Designs, Behance etc. Also this module is designed to cover all aspects of Graphic Design and it is mostly helpful for a fresher who can start a fresh. The module and get insights of how we are conducting the course.",
+        "text": ""
     },
     "faq": [{
             "id": "highly-service-faq-1",
@@ -45,26 +45,110 @@
         "title": "Prominent IT Security Services",
         "items": [{
                 "id": "highly-professional-features-1",
-                "icon": "../../images/icons/icon-07-60x60.png",
-                "title": "Mitech Management Systems",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "A clear understanding of how to work with BOTH print and web projects in Photoshop, Illustrator, and InDesign",
                 "desc": "Our service offerings enhance customer experience throughout secure & highly functional end-to-end warranty management."
             },
             {
                 "id": "highly-professional-features-2",
                 "icon": "../../images/icons/icon-08-60x60.png",
-                "title": "Reliable Multi-function Technology",
+                "title": "Pattee Composition, Facebook Cover Photo Resize",
                 "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
             },
             {
                 "id": "highly-professional-features-3",
-                "icon": "../../images/icons/icon-09-60x60.png",
-                "title": "Highly Professional Staffs",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Landscape Design",
                 "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
             },
             {
                 "id": "highly-professional-features-4",
-                "icon": "../../images/icons/icon-10-60x60.png",
-                "title": "Infrastructure Integration Technology",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Image Retouch",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-5",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Clipping Alphabet & Image Clipping Path",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-6",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "mage Adjustments",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-7",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Login Page",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-8",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Design Business Card Design with Mockup",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-9",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Hair Masking using Alpha Chanel",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-10",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Vector Character Design",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-11",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "XYZ Company  Logo and Wall Clock Design",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-12",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Sketch and Illustration",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-13",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Mesh, Film & Map Creation",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-14",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Google Chrome Logo and masking project",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-15",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Understand the basics of logo design, including typography and color usage. (master Class)",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-16",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Office Identity with mockup",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-17",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Desk and Wall Calendar, Flyer, Brochure",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-18",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Product Packaging with Mockup",
                 "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
             }
         ]
