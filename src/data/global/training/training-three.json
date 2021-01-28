@@ -10,8 +10,8 @@
     },
     "is_featured": true,
     "banner_image": "../../images/banner/banner-01.jpg",
-    "introTitle": "Learn More About Our",
-    "coloredTitle": "success stories",
+    "introTitle": "Get a certification on",
+    "coloredTitle": "Linux Networking",
     "introText": {
         "heading": "Computers are connected in a network to <span>exchange information or resources</span> each other. Two or more computer connected through network media called computer network. There are number of network devices or media are involved to form computer network. Computer loaded with Linux Operating System can also be a part of network whether it is small or large network by its multitasking and multiuser natures. Maintaining of system and network up and running is a task of System / Network Administrator’s job. In this article we are going to review frequently used network configuration and troubleshoot commands in Linux.",
         "text": "<b>Course Duration:</b> 72 Hours (2.5 Month). </br><b>Class:</b> Three days in a week."
@@ -42,7 +42,7 @@
         "video_link": "https://www.youtube.com/watch?v=9No-FiEInLA"
     },
     "features": {
-        "title": "Prominent IT Security Services",
+        "title": "What you will cover in this course",
         "items": [{
                 "id": "highly-professional-features-1",
                 "icon": "../../images/icons/icon-08-60x60.png",

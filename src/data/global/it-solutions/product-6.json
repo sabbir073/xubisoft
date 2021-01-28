@@ -1,7 +1,7 @@
 {
     "id": "product-6",
     "title": "CALL CENTER SOLUTION",
-    "excerpt": "We provide the most responsive and functional IT design for companies and businesses worldwide.",
+    "excerpt": "Module of xDialer",
     "image": "../../images/box-image/image-07-370x370.jpg",
     "icon": {
         "svg": "../../images/icons/linea-basic-geolocalize-05.svg",
@@ -10,29 +10,84 @@
     "is_featured": true,
     "banner_image": "../../images/banner/banner-01.jpg",
     "introText": {
-        "heading": "Mitech specializes in <span>technological and IT-related services</span> such as product engineering, warranty management, building cloud, infrastructure, network, etc.",
-        "text": "We’re available for 8 hours a day! <br/>Contact to require a detailed analysis and assessment of your plan."
+        "heading": "xDialer <span>A complete solutions of Call Center</span> is an exclusive product/ software of <span>Xubisoft Ltd.</span> with complete functionality for inbound, outbound and blended campaigns. <span>xDialer call center solution</span> is built directly into their multi-channel help desk, Experience on the fly integrations with Agent toolbars & pre-built connectors for leading third-party CRM.The all-inclusive solutions for contact centers are ideal for different business processes such as Customer support, Telemarketing and Sales, Collections, Technical support, Marketing research and Helpdesk.",
+        "text": ""
     },
     "faq": [
         {
             "id": "highly-service-faq-1",
-            "title": "New multiple site connectivity",
-            "desc": "We use a newly developed technology to connect sites that are based on different types of servers and networks, SiteConnect, which helps to reduce the misinterpretation of signals as well as the loss of data during transfering."
+            "title": "Automatic Call Distributor (ACD)",
+            "desc": ""
         },
         {
             "id": "highly-service-faq-2",
-            "title": "IT Security & Software",
-            "desc": "To keep your systems, your devices, and network stay secure, we have developed a new program that limits the access of suspicious objects or people and authenticate all logins to the system."
+            "title": "Interective Voice Response System",
+            "desc": ""
         },
         {
             "id": "highly-service-faq-3",
-            "title": "Weak hosted capability",
-            "desc": "Some hosts are unaware of the potential risks as well as security loopholes in their system. By detecting these errors and taking prompt actions on improving firewalls, we can upgrade the system security."
+            "title": "Skills Based Routing",
+            "desc": ""
         },
         {
             "id": "highly-service-faq-4",
-            "title": "Build internal network",
-            "desc": "The internal network is essential for all companies and corporations, especially for those working in IT sector. To avoid possible risks when sharing internal confidential files and documentation to an external receiver, internal network must be strong."
+            "title": "Forword To Phone",
+            "desc": ""
+        },
+        {
+            "id": "highly-service-faq-5",
+            "title": "Ring Groups",
+            "desc": ""
+        },
+        {
+            "id": "highly-service-faq-6",
+            "title": "No Answer Call Forwarding",
+            "desc": ""
+        },
+        {
+            "id": "highly-service-faq-7",
+            "title": "Intelligent Reconnect",
+            "desc": ""
+        },
+        {
+            "id": "highly-service-faq-8",
+            "title": "Make and Receive Calls",
+            "desc": "Call Control, Call Transfer When Not Online, Call Forward on No Answer, Call Routing and Queuing, Call Forward on Busy, Call Detail Records Call Logs, Caller ID, Unlimited Concurrent Calls, Personalized Greetings, Business Hours, Agent To Agent Calling"
+        },
+        {
+            "id": "highly-service-faq-9",
+            "title": "Monitoring and Reporting",
+            "desc": "Call Monitoring, Call Barging, Historical Reporting, Agent Reporting, Custom Reporting, Prebuilt Reports"
+        },
+        {
+            "id": "highly-service-faq-10",
+            "title": "Advance Lead Management",
+            "desc": ""
+        },
+        {
+            "id": "highly-service-faq-11",
+            "title": "Voicemail",
+            "desc": ""
+        },
+        {
+            "id": "highly-service-faq-12",
+            "title": "Web Chat",
+            "desc": ""
+        },
+        {
+            "id": "highly-service-faq-13",
+            "title": "Quality Monitoring and Analytics",
+            "desc": ""
+        },
+        {
+            "id": "highly-service-faq-14",
+            "title": "CRM Integration",
+            "desc": ""
+        },
+        {
+            "id": "highly-service-faq-15",
+            "title": "Back-up Data and Security",
+            "desc": ""
         }
     ],
     "video": {
@@ -40,31 +95,31 @@
         "video_link": "https://www.youtube.com/watch?v=9No-FiEInLA"
     },
     "features": {
-        "title": "Prominent IT Security Services",
+        "title": "What are we promising to you",
         "items": [
             {
-                "id": "highly-professional-features-1",
-                "icon": "../../images/icons/icon-07-60x60.png",
-                "title": "Mitech Management Systems",
-                "desc": "Our service offerings enhance customer experience throughout secure & highly functional end-to-end warranty management."
+                "id": "highly-professional-features-2",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Ensuring the security of the product",
+                "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
             },
             {
                 "id": "highly-professional-features-2",
                 "icon": "../../images/icons/icon-08-60x60.png",
-                "title": "Reliable Multi-function Technology",
+                "title": "Highly scaled and optimized for speed",
                 "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
             },
             {
-                "id": "highly-professional-features-3",
-                "icon": "../../images/icons/icon-09-60x60.png",
-                "title": "Highly Professional Staffs",
+                "id": "highly-professional-features-2",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Responsive and Well Organized",
                 "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
             },
             {
-                "id": "highly-professional-features-4",
-                "icon": "../../images/icons/icon-10-60x60.png",
-                "title": "Infrastructure Integration Technology",
-                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+                "id": "highly-professional-features-2",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Maintaining version and features for future",
+                "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
             }
         ]
     }

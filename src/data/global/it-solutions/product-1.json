@@ -1,8 +1,8 @@
 {
     "id": "product-1",
     "title": "SAPTARSHI-THE COMPLETE ERP SOLUTION",
-    "tagline": "Reach out to the world’s most reliable IT services.",
-    "excerpt": "Having obtained the official & formal training in IT technology and technical fields, our staffs know best.",
+    "tagline": "Get the world’s best ERP system for your business.",
+    "excerpt": "Modules of our “SAPTARSHI™” ERP",
     "image": "../../images/box-image/image-06-370x370.jpg",
     "icon": {
         "svg": "../../images/icons/linea-basic-spread-text-bookmark.svg",
@@ -11,29 +11,44 @@
     "is_featured": true,
     "banner_image": "../../images/banner/banner-04.jpg",
     "introText": {
-        "heading": "Mitech specializes in <span>technological and IT-related services</span> such as product engineering, warranty management, building cloud, infrastructure, network, etc.",
-        "text": "We’re available for 8 hours a day! <br/>Contact to require a detailed analysis and assessment of your plan."
+        "heading": "Xubisoft Ltd. is a software development company that has been successfully present on the <span>offshore software development</span> market for few years and since that time has grown to become a well-regarded player in this industry and has proven to be a reliable, efficient and trustworthy service provider to the businesses from all over the nation. Xubisoft Ltd. is <span>ISO Certified Company</span> and we are also member of <span>BASIS</span> and <span>BACCO</span>.",
+        "text": "Since 2016 Xubisoft Ltd. has emerged as the leading solution vendor in the apparel industry, agro industry, Flour Mills & Plastic container manufacturing companies. With its flagship software solution “SAPTARSHI™” (The Complete ERP Solutions). Xubisoft Ltd. has been continuously upgrading the modules to accommodate the changing needs of the industry. The current version of the solution has been enriched in many folds:"
     },
     "faq": [
         {
             "id": "highly-service-faq-1",
-            "title": "New multiple site connectivity",
-            "desc": "We use a newly developed technology to connect sites that are based on different types of servers and networks, SiteConnect, which helps to reduce the misinterpretation of signals as well as the loss of data during transfering."
+            "title": "Sales and Marketing Management",
+            "desc": "It is a fully integrated ERP software for import & export businesses as well as wholesale distributors. The system allows all departments to share the same information from one central location offering a logical next step up from stand-alone QuickBooks and the series of reports to manage the business. The entire sales team will immediately recognize the benefits of this software. E-mail Alerts when orders shipments are delayed, Tools to manage customer inquiries, supplier quotes and quotes to custom, Real-time access to order history, Real-time access to customer order status, Real-time access to inventory availability (including inventory “at source” and “in transit”), Enter orders and access history remotely etc."
         },
         {
             "id": "highly-service-faq-2",
-            "title": "IT Security & Software",
-            "desc": "To keep your systems, your devices, and network stay secure, we have developed a new program that limits the access of suspicious objects or people and authenticate all logins to the system."
+            "title": "Procurement Management",
+            "desc": "ERP Purchasing module aims at making available the required materials of the right quality, in the right quantity, at the right time and at the right price, for the smooth functioning of the organization. All purchasing and subcontracting activities such as inviting quotations, supplier evaluation, placing purchase-order, order scheduling and billing are covered in this module. Import of goods is also handled by the system."
         },
         {
             "id": "highly-service-faq-3",
-            "title": "Weak hosted capability",
-            "desc": "Some hosts are unaware of the potential risks as well as security loopholes in their system. By detecting these errors and taking prompt actions on improving firewalls, we can upgrade the system security."
+            "title": "Inventory Management",
+            "desc": "ERP inventory module covers all stock related functions of an organization. Stock management and valuation activities, which form the backbone of any organization generally, take a lot of time and resources. M-wan Inventory handles all the store activities of issues, dispatches, receipts and quality control. The lot wise stock of each item is maintained and various MIS are provided for tracking stock movement."
         },
         {
             "id": "highly-service-faq-4",
-            "title": "Build internal network",
-            "desc": "The internal network is essential for all companies and corporations, especially for those working in IT sector. To avoid possible risks when sharing internal confidential files and documentation to an external receiver, internal network must be strong."
+            "title": "HR Module",
+            "desc": "The HR management module is a component covering many other HR aspects from application to retirement. The system records basic demographic and address data, selection, training and development, capabilities and skills management, compensation planning records and other related activities. Leading edge systems provide the ability to “read” applications and enter relevant data to applicable database fields, notify employers and provide position management and position control. Human resource management function involves the recruitment, placement, evaluation, compensation and development of the employees of an organization."
+        },
+        {
+            "id": "highly-service-faq-5",
+            "title": "Production Planning & Control",
+            "desc": "ERP Purchasing module aims at making available the required materials of the right quality, in the right quantity, at the right time and at the right price, for the smooth functioning of the organization. All purchasing and subcontracting activities such as inviting quotations, supplier evaluation, placing purchase-order, order scheduling and billing are covered in this module. Import of goods is also handled by the system."
+        },
+        {
+            "id": "highly-service-faq-6",
+            "title": "Financial Accounting",
+            "desc": "The function of this module starts with accounts creation. External departments like marketing or purchase will create some of those accounts. Apart from regular voucher entries this module will help the authority as well as other departments by providing financial figures. Final accounts will be generated from this module. Documents like Receivable and Payable statements are generated from this module. This module bridges between Sales & Procurement processes. All figures will be protected under password. Only authorized person will be eligible to access information from this module."
+        },
+        {
+            "id": "highly-service-faq-7",
+            "title": "Commercial Management",
+            "desc": "This module enables you to manage LC information effectively and easily. Vendor’s documents, goods receive and payment related information easily are management easily. It has an extensive feature than you can add all expenses as cost with imported items. User can easily grouping your LCs by tagging each LC. It shows group wise total LC amount, payable amount, receivable amount etc. User can also mention currency for same group. LC group basically helps management to take important decision relating to the operation. You can manage your customer LC information through Export LC management system. It’s also enabling you to track customer bank, your receiving bank and others basic information. LC module enables you to manage Back to Back LC with your Customer LC."
         }
     ],
     "video": {
@@ -41,31 +56,31 @@
         "video_link": "https://www.youtube.com/watch?v=9No-FiEInLA"
     },
     "features": {
-        "title": "Prominent IT Security Services",
+        "title": "What are we promising to you",
         "items": [
             {
-                "id": "highly-professional-features-1",
-                "icon": "../../images/icons/icon-07-60x60.png",
-                "title": "Mitech Management Systems",
-                "desc": "Our service offerings enhance customer experience throughout secure & highly functional end-to-end warranty management."
+                "id": "highly-professional-features-2",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Ensuring the security of the product",
+                "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
             },
             {
                 "id": "highly-professional-features-2",
                 "icon": "../../images/icons/icon-08-60x60.png",
-                "title": "Reliable Multi-function Technology",
+                "title": "Highly scaled and optimized for speed",
                 "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
             },
             {
-                "id": "highly-professional-features-3",
-                "icon": "../../images/icons/icon-09-60x60.png",
-                "title": "Highly Professional Staffs",
+                "id": "highly-professional-features-2",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Responsive and Well Organized",
                 "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
             },
             {
-                "id": "highly-professional-features-4",
-                "icon": "../../images/icons/icon-10-60x60.png",
-                "title": "Infrastructure Integration Technology",
-                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+                "id": "highly-professional-features-2",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Maintaining version and features for future",
+                "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
             }
         ]
     }

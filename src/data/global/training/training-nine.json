@@ -1,7 +1,7 @@
 {
     "id": "web-design",
     "title": "WEB DEVELOPMENT",
-    "excerpt": "A needs assessment is a part of planning processes, often used for improvement in businesses.",
+    "excerpt": "",
     "icon": {
         "svg": "../../images/icons/linea-basic-gear.svg",
         "img": "../../images/icons/icon-04-100x108.png",
@@ -10,11 +10,11 @@
     },
     "is_featured": true,
     "banner_image": "../../images/banner/banner-01.jpg",
-    "introTitle": "Learn More About Our",
-    "coloredTitle": "success stories",
+    "introTitle": "Become a certified",
+    "coloredTitle": "Web Developer",
     "introText": {
-        "heading": "Mitech specializes in <span>technological and IT-related services</span> such as product engineering, warranty management, building cloud, infrastructure, network, etc.",
-        "text": "We’re available for 8 hours a day! <br/>Contact to require a detailed analysis and assessment of your plan."
+        "heading": "Once successful competition of <span>Web Development course</span> we will provide real world client project if you are capable doing so. Also we will help you to create your freelancer career on marketplace. For outstanding performer we will provide few initial projects from real client and you will be able to communicate directly with those client (this is for outstanding performer those will prove themselves to us and can take pressure to complete real project)",
+        "text": "<b>Course Duration:</b> 72 Hours </br><b>Classes:</b> Twice in a week (2 Hours)"
     },
     "faq": [{
             "id": "highly-service-faq-1",
@@ -42,29 +42,77 @@
         "video_link": "https://www.youtube.com/watch?v=9No-FiEInLA"
     },
     "features": {
-        "title": "Prominent IT Security Services",
+        "title": "What you will cover in this course",
         "items": [{
                 "id": "highly-professional-features-1",
-                "icon": "../../images/icons/icon-07-60x60.png",
-                "title": "Mitech Management Systems",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Web Development Basic",
                 "desc": "Our service offerings enhance customer experience throughout secure & highly functional end-to-end warranty management."
             },
             {
                 "id": "highly-professional-features-2",
                 "icon": "../../images/icons/icon-08-60x60.png",
-                "title": "Reliable Multi-function Technology",
+                "title": "HTML, CSS, Javascript Basic",
                 "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
             },
             {
                 "id": "highly-professional-features-3",
-                "icon": "../../images/icons/icon-09-60x60.png",
-                "title": "Highly Professional Staffs",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Indrotuction to Bootstrap",
                 "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
             },
             {
                 "id": "highly-professional-features-4",
-                "icon": "../../images/icons/icon-10-60x60.png",
-                "title": "Infrastructure Integration Technology",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Writing PHP Code",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-5",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "PHP Framework (Laravel)",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-6",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Introduction to Sql And MySql",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-7",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Jquery, Ajax and calling method",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-8",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Making a Dynamic Website",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-9",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Introduction to Hosting Server",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-10",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Domain and Hosting details",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-11",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Live Practice",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-12",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Conclusion",
                 "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
             }
         ]

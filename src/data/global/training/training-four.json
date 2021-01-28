@@ -10,8 +10,8 @@
     },
     "is_featured": true,
     "banner_image": "../../images/banner/banner-01.jpg",
-    "introTitle": "Learn More About Our",
-    "coloredTitle": "success stories",
+    "introTitle": "Become a",
+    "coloredTitle": "Cisco Certified Network Associate",
     "introText": {
         "heading": "<span>CCNA (Cisco Certified Network Associate)</span> is an information technology (IT) certification from Cisco Systems. CCNA certification is an associate-level Cisco Career certification. Achieving CCNA certification is the first step in preparing for a career in IT technologies. To earn CCNA certification, you pass one exam that covers a broad range of fundamentals for IT careers, based on the latest networking technologies, software development skills, and job roles. So why to certify in this particular networking environment? The answer is, as Enterprises migrate toward controller-based architectures, the role and skills required of a core network engineer are evolving and more vital than ever. To prepare for this network transition, the CCNA Routing and Switching certification will not only prepare you with the knowledge of foundational technologies, but ensure you stay relevant with skill sets needed for the adoption of next generation technologies.",
         "text": "<b>Course Duration:</b> 72 Hours (2.5 Month). </br><b>Class:</b> Three days in a week."
@@ -42,7 +42,7 @@
         "video_link": "https://www.youtube.com/watch?v=9No-FiEInLA"
     },
     "features": {
-        "title": "Prominent IT Security Services",
+        "title": "What you will cover in this course",
         "items": [{
                 "id": "highly-professional-features-1",
                 "icon": "../../images/icons/icon-08-60x60.png",

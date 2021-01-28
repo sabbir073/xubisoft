@@ -81,11 +81,8 @@ const ServiceTemplate = ({ data, location, ...restProps }) => {
                     <IntroArea>
                         <Container>
                             <Row>
-                                <Col lg={4}>
-                                    <Heading {...leftHeading}>Learn More About Our <span> Success <br /> Stories</span></Heading>
-                                </Col>
                                 {pageData.introText && (
-                                    <Col lg={{ span: 7, offset: 1 }}>
+                                    <Col lg={12}>
                                         <Box>
                                             {pageData.introText.heading && <Heading {...rightHeading}>{parse(pageData.introText.heading)}</Heading>}
                                             {pageData.introText.text && <Text {...rightText}>{parse(pageData.introText.text)}</Text>}
@@ -96,12 +93,17 @@ const ServiceTemplate = ({ data, location, ...restProps }) => {
                         </Container>
                     </IntroArea>
                 )}
-                {(pageData.faq || pageData.video) && (
+                {(pageData.faq) && (
                     <FaqArea>
                         <Container>
                             <Row>
+                                <Col col="12">
+                                    <Heading {...featureTitle}>{pageData.excerpt}</Heading>
+                                </Col>
+                            </Row>
+                            <Row>
                                 {pageData.faq && (
-                                    <Col lg={6} pr="3rem">
+                                    <Col lg={12} pr="3rem">
                                         <AccordionWrap layout="two">
                                             <Accordion allowZeroExpanded preExpanded={[pageData.faq[0].id]}>
                                                 {
@@ -122,16 +124,6 @@ const ServiceTemplate = ({ data, location, ...restProps }) => {
                                                 }
                                             </Accordion>
                                         </AccordionWrap>
-                                    </Col>
-                                )}
-                                {pageData.video && (
-                                    <Col lg={6}>
-                                        <VideoBoxWrap>
-                                            {pageData.video.preview_image && <Image fluid={pageData.video.preview_image.childImageSharp.fluid} alt="Video preview" align="left" />}
-                                            <VideoBtnWrap>
-                                                <VideoButton skin="primary" onClick={modalVideoOpen} />
-                                            </VideoBtnWrap>
-                                        </VideoBoxWrap>
                                     </Col>
                                 )}
                             </Row>
@@ -155,7 +147,6 @@ const ServiceTemplate = ({ data, location, ...restProps }) => {
                                             <BoxIcon
                                                 title={feature.title}
                                                 icon={feature.icon}
-                                                desc={feature.desc}
                                             />
                                         </Col>
                                     ))}
@@ -182,6 +173,7 @@ export const query = graphql`
         itSolutionsJson(fields: {slug: {eq: $slug}}){
             title
             id
+            excerpt
             tagline
             banner_image{
                 childImageSharp{

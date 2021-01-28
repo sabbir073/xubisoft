@@ -10,11 +10,11 @@
     },
     "is_featured": true,
     "banner_image": "../../images/banner/banner-01.jpg",
-    "introTitle": "Learn More About Our",
-    "coloredTitle": "success stories",
+    "introTitle": "Become a certified",
+    "coloredTitle": "Graphics Designer",
     "introText": {
         "heading": "The main purpose is to make you able to use the <span>Graphic design</span> tools and techniques in a professional way. In this course, you’ll learn the industry standard soft & practical skills of Graphic Design. This course is more focused on freelancing oriented marketplace works like Fiverr, Freelancer.com, 99 Designs, Behance etc. Also this module is designed to cover all aspects of Graphic Design and it is mostly helpful for a fresher who can start a fresh. The module and get insights of how we are conducting the course.",
-        "text": ""
+        "text": "<b>Course Duration:</b> 72 Hours </br><b>Classes:</b> Twice in a week (2 Hours)"
     },
     "faq": [{
             "id": "highly-service-faq-1",
@@ -42,7 +42,7 @@
         "video_link": "https://www.youtube.com/watch?v=9No-FiEInLA"
     },
     "features": {
-        "title": "Prominent IT Security Services",
+        "title": "What you will cover in this course",
         "items": [{
                 "id": "highly-professional-features-1",
                 "icon": "../../images/icons/icon-08-60x60.png",

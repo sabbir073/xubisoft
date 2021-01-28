@@ -1,7 +1,7 @@
 {
     "id": "microsoft-office",
     "title": "SSCP",
-    "excerpt": "A needs assessment is a part of planning processes, often used for improvement in businesses.",
+    "excerpt": "Candidates must have a minimum of 1 year cumulative work experience in 1 or more of the 7 domains of the SSCP CBK. A 1 year prerequisite pathway will be granted for candidates who received a degree (bachelors or masters) in a cyber-security program. A candidate that doesn’t have the required experience to become an SSCP may become an Associate of (ISC) ² by successfully passing the SSCP examination. The Associate of (ISC) ² will then have 2 years to earn the 1 year required experience. ",
     "icon": {
         "svg": "../../images/icons/linea-basic-gear.svg",
         "img": "../../images/icons/icon-04-100x108.png",
@@ -10,11 +10,11 @@
     },
     "is_featured": true,
     "banner_image": "../../images/banner/banner-01.jpg",
-    "introTitle": "Learn More About Our",
-    "coloredTitle": "success stories",
+    "introTitle": "Become a",
+    "coloredTitle": "Systems Security Certified Practitioner.",
     "introText": {
-        "heading": "Mitech specializes in <span>technological and IT-related services</span> such as product engineering, warranty management, building cloud, infrastructure, network, etc.",
-        "text": "We’re available for 8 hours a day! <br/>Contact to require a detailed analysis and assessment of your plan."
+        "heading": "The <span>Systems Security Certified Practitioner (SSCP)</span> is the ideal certification for those with proven technical skills and practical, hands-on security knowledge in operational IT roles. It provides confirmation of a practitioner’s ability to implement, monitor and administer IT infrastructure in accordance with information security policies and procedures that ensure data confidentiality, integrity and availability. The broad spectrum of topics included in the SSCP Common Body of Knowledge (CBK) ensure its relevancy across all disciplines in the field of information security.",
+        "text": "<b>Course Duration:</b> 84 Hours </br><b>Classes:</b> Twice in a week (Friday | Saturday)"
     },
     "faq": [{
             "id": "highly-service-faq-1",
@@ -42,29 +42,47 @@
         "video_link": "https://www.youtube.com/watch?v=9No-FiEInLA"
     },
     "features": {
-        "title": "Prominent IT Security Services",
+        "title": "What you will cover in this course",
         "items": [{
                 "id": "highly-professional-features-1",
-                "icon": "../../images/icons/icon-07-60x60.png",
-                "title": "Mitech Management Systems",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Access Controls",
                 "desc": "Our service offerings enhance customer experience throughout secure & highly functional end-to-end warranty management."
             },
             {
                 "id": "highly-professional-features-2",
                 "icon": "../../images/icons/icon-08-60x60.png",
-                "title": "Reliable Multi-function Technology",
+                "title": "Security Operations and Administration ",
                 "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
             },
             {
                 "id": "highly-professional-features-3",
-                "icon": "../../images/icons/icon-09-60x60.png",
-                "title": "Highly Professional Staffs",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Risk Identification, Monitoring, and Analysis",
                 "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
             },
             {
                 "id": "highly-professional-features-4",
-                "icon": "../../images/icons/icon-10-60x60.png",
-                "title": "Infrastructure Integration Technology",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Incident Response and Recovery",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-5",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Cryptography",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-6",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Network and Communications Security",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-7",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Systems and Application Security",
                 "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
             }
         ]

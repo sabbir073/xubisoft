@@ -10,8 +10,8 @@
     },
     "is_featured": true,
     "banner_image": "../../images/banner/banner-01.jpg",
-    "introTitle": "Learn More About Our",
-    "coloredTitle": "success stories",
+    "introTitle": "Get a certification on",
+    "coloredTitle": "Professional Customer Service",
     "introText": {
         "heading": "As a <span>leading Business Process outsourcing (BPO) Organization (Xubisoft Ltd.)</span> is providing extensive training program on “Skill Development” with an authorized certification under the supervision Skill for Employment Investment Program (SEIP) & Bangladesh Association of Call Center & Outsourcing (BACCO) Want to sound more confident? Wont to sound more powerful? This course will help you to identify how you sound and to help your business confidence even in solutions where you may not to be confident like public speaking, presenting ideas to your client, and of course interaction with the customer etc. This course is for everyone- from frontline to execute. It’s designed to help you think and act positive and to change the way people around you see you.",
         "text": "<b>Course Duration:</b> 220 Hours (2.5 Months)</br><b>Classes:</b> Five days in a week </br><b>Course Fee:</b> Full Free </br><b>Note:</b> Get 7500 TK after Successfully completion the Course."
@@ -42,7 +42,7 @@
         "video_link": "https://www.youtube.com/watch?v=9No-FiEInLA"
     },
     "features": {
-        "title": "Prominent IT Security Services",
+        "title": "What you will cover in this course",
         "items": [{
                 "id": "highly-professional-features-1",
                 "icon": "../../images/icons/icon-08-60x60.png",

@@ -10,8 +10,8 @@
     },
     "is_featured": true,
     "banner_image": "../../images/banner/banner-01.jpg",
-    "introTitle": "Learn More About Our",
-    "coloredTitle": "success stories",
+    "introTitle": "Become a certified",
+    "coloredTitle": "Web Designer",
     "introText": {
         "heading": "A <span>Web Design Course</span> on how to use the rules and concepts to create unique websites. Learn web design with confidence and make a impact!",
         "text": "<b>Classes:</b> Weekly 2 days (36 Classes)"
@@ -42,7 +42,7 @@
         "video_link": "https://www.youtube.com/watch?v=9No-FiEInLA"
     },
     "features": {
-        "title": "Prominent IT Security Services",
+        "title": "What you will cover in this course",
         "items": [{
                 "id": "highly-professional-features-1",
                 "icon": "../../images/icons/icon-08-60x60.png",

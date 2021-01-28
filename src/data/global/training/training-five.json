@@ -10,11 +10,11 @@
     },
     "is_featured": true,
     "banner_image": "../../images/banner/banner-01.jpg",
-    "introTitle": "Learn More About Our",
-    "coloredTitle": "success stories",
+    "introTitle": "Become a certified",
+    "coloredTitle": "Mobile App Developer",
     "introText": {
         "heading": "Learn to build a <span>cloud-connected Android app</span>, and learn the tools, principles, and best practices of mobile and Android development that you'll apply to your own projects.",
-        "text": "Duration: 4 Months </br> Classes: Total 36 Class (Weekly 2 days)"
+        "text": "<b>Course Duration:</b> 72 Hours </br><b>Classes:</b> Twice in a week (2 Hours)"
     },
     "faq": [{
             "id": "highly-service-faq-1",
@@ -42,7 +42,7 @@
         "video_link": "https://www.youtube.com/watch?v=9No-FiEInLA"
     },
     "features": {
-        "title": "Prominent IT Security Services",
+        "title": "What you will cover in this course",
         "items": [{
                 "id": "highly-professional-features-1",
                 "icon": "../../images/icons/icon-08-60x60.png",

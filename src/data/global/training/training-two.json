@@ -1,7 +1,7 @@
 {
     "id": "professional-digital",
     "title": "SEO",
-    "excerpt": "A needs assessment is a part of planning processes, often used for improvement in businesses.",
+    "excerpt": "",
     "icon": {
         "svg": "../../images/icons/linea-basic-gear.svg",
         "img": "../../images/icons/icon-04-100x108.png",
@@ -10,11 +10,11 @@
     },
     "is_featured": true,
     "banner_image": "../../images/banner/banner-01.jpg",
-    "introTitle": "Learn More About Our",
-    "coloredTitle": "success stories",
+    "introTitle": "Become a Certified",
+    "coloredTitle": "SEO Expert",
     "introText": {
-        "heading": "Mitech specializes in <span>technological and IT-related services</span> such as product engineering, warranty management, building cloud, infrastructure, network, etc.",
-        "text": "We’re available for 8 hours a day! <br/>Contact to require a detailed analysis and assessment of your plan."
+        "heading": "Search Engine Optimization (SEO) is the process of enhancing the visibility of an individual website or webpage. This is done for popular search engines, mainly Google. The process is comprised of organic search results for targeted keywords. To simply state, the natural and unpaid method of pursuing this is referred to as organic.",
+        "text": "<b>Course Duration:</b> 72 Hours </br><b>Classes:</b> Twice in a week (2 Hours)"
     },
     "faq": [{
             "id": "highly-service-faq-1",
@@ -42,29 +42,101 @@
         "video_link": "https://www.youtube.com/watch?v=9No-FiEInLA"
     },
     "features": {
-        "title": "Prominent IT Security Services",
+        "title": "What you will cover in this course",
         "items": [{
                 "id": "highly-professional-features-1",
-                "icon": "../../images/icons/icon-07-60x60.png",
-                "title": "Mitech Management Systems",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Foundation of SEO",
                 "desc": "Our service offerings enhance customer experience throughout secure & highly functional end-to-end warranty management."
             },
             {
                 "id": "highly-professional-features-2",
                 "icon": "../../images/icons/icon-08-60x60.png",
-                "title": "Reliable Multi-function Technology",
+                "title": "Search Engine basic",
                 "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
             },
             {
                 "id": "highly-professional-features-3",
-                "icon": "../../images/icons/icon-09-60x60.png",
-                "title": "Highly Professional Staffs",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "On page SEO",
                 "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
             },
             {
                 "id": "highly-professional-features-4",
-                "icon": "../../images/icons/icon-10-60x60.png",
-                "title": "Infrastructure Integration Technology",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Kwyword Research and hierarchy",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-5",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Site optimization",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-6",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Speed and indexing",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-7",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Sitemap",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-8",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Off Page SEO",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-9",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Link building and submission",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-10",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Content Marketing",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-11",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Advance SEO Tools",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-12",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Wordpress SEO",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-13",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Ecommerce SEO",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-14",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Youtube SEO",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-15",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "What's right and wrong",
+                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+            },
+            {
+                "id": "highly-professional-features-16",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "The end - Security And SEO",
                 "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
             }
         ]
