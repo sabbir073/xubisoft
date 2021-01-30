@@ -1,7 +1,7 @@
 {
     "id": "product-5",
     "title": "POINT OF SALE",
-    "excerpt": "We provide the most responsive and functional IT design for companies and businesses worldwide.",
+    "excerpt": "Fetures of X-POS",
     "image": "../../images/box-image/image-03-370x370.jpg",
     "icon": {
         "svg": "../../images/icons/linea-basic-spread-text-bookmark.svg",
@@ -10,29 +10,64 @@
     "is_featured": true,
     "banner_image": "../../images/banner/banner-03.jpg",
     "introText": {
-        "heading": "Mitech specializes in <span>technological and IT-related services</span> such as product engineering, warranty management, building cloud, infrastructure, network, etc.",
-        "text": "We’re available for 8 hours a day! <br/>Contact to require a detailed analysis and assessment of your plan."
+        "heading": "X-POS is a <span>Point of sale (POS)</span> software with a critical piece of a point of purchase, refers to the place where a customer executes the payment for goods or services and where sales taxes may become payable. It can be in a physical store, where POS terminals and systems are used to process card payments or a virtual sales point such as a computer or mobile electronic device.",
+        "text": "However, varying POS locations can give retailers more opportunities to micro-market specific product categories and influence consumers at earlier points in the sales funnel. For example, department stores often have POSs for individual product groups, such as appliances, electronics, and apparel. The designated staff can actively promote products and guide consumers through purchase decisions rather than simply processing transactions. Similarly, the format of a POS can affect profit or buying behavior, as this gives consumers flexible options for making a purchase. X-POS software was specially developed for superstore, mega shop, distributors, and retailers in Bangladesh."
     },
     "faq": [
         {
             "id": "highly-service-faq-1",
-            "title": "New multiple site connectivity",
-            "desc": "We use a newly developed technology to connect sites that are based on different types of servers and networks, SiteConnect, which helps to reduce the misinterpretation of signals as well as the loss of data during transfering."
+            "title": "Product & Inventory",
+            "desc": ""
         },
         {
             "id": "highly-service-faq-2",
-            "title": "IT Security & Software",
-            "desc": "To keep your systems, your devices, and network stay secure, we have developed a new program that limits the access of suspicious objects or people and authenticate all logins to the system."
+            "title": "Sales with Bar-code/ easy searching",
+            "desc": ""
         },
         {
             "id": "highly-service-faq-3",
-            "title": "Weak hosted capability",
-            "desc": "Some hosts are unaware of the potential risks as well as security loopholes in their system. By detecting these errors and taking prompt actions on improving firewalls, we can upgrade the system security."
+            "title": "Multi-stock/ warehouses",
+            "desc": ""
         },
         {
             "id": "highly-service-faq-4",
-            "title": "Build internal network",
-            "desc": "The internal network is essential for all companies and corporations, especially for those working in IT sector. To avoid possible risks when sharing internal confidential files and documentation to an external receiver, internal network must be strong."
+            "title": "Customer Management System",
+            "desc": ""
+        },
+        {
+            "id": "highly-service-faq-5",
+            "title": "Supplier Management System",
+            "desc": ""
+        },
+        {
+            "id": "highly-service-faq-6",
+            "title": "Purchase Total History (Daily/ Weekly/ Monthly)",
+            "desc": ""
+        },
+        {
+            "id": "highly-service-faq-7",
+            "title": "Core Accounting with Balance Sheet",
+            "desc": ""
+        },
+        {
+            "id": "highly-service-faq-8",
+            "title": "Cash & Bank Management System",
+            "desc": ""
+        },
+        {
+            "id": "highly-service-faq-9",
+            "title": "User Security & Access Control",
+            "desc": ""
+        },
+        {
+            "id": "highly-service-faq-10",
+            "title": "Reports with ledger / Register",
+            "desc": ""
+        },
+        {
+            "id": "highly-service-faq-11",
+            "title": "All Transaction history",
+            "desc": ""
         }
     ],
     "video": {
@@ -40,31 +75,31 @@
         "video_link": "https://www.youtube.com/watch?v=9No-FiEInLA"
     },
     "features": {
-        "title": "Prominent IT Security Services",
+        "title": "What we are promising to you",
         "items": [
             {
-                "id": "highly-professional-features-1",
-                "icon": "../../images/icons/icon-07-60x60.png",
-                "title": "Mitech Management Systems",
-                "desc": "Our service offerings enhance customer experience throughout secure & highly functional end-to-end warranty management."
+                "id": "highly-professional-features-2",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Ensuring the security of the product",
+                "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
             },
             {
                 "id": "highly-professional-features-2",
                 "icon": "../../images/icons/icon-08-60x60.png",
-                "title": "Reliable Multi-function Technology",
+                "title": "Highly scaled and optimized for speed",
                 "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
             },
             {
-                "id": "highly-professional-features-3",
-                "icon": "../../images/icons/icon-09-60x60.png",
-                "title": "Highly Professional Staffs",
+                "id": "highly-professional-features-2",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Responsive and Well Organized",
                 "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
             },
             {
-                "id": "highly-professional-features-4",
-                "icon": "../../images/icons/icon-10-60x60.png",
-                "title": "Infrastructure Integration Technology",
-                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+                "id": "highly-professional-features-2",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Maintaining version and features for future",
+                "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
             }
         ]
     }

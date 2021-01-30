@@ -1,7 +1,7 @@
 {
     "id": "product-3",
     "title": "EDUCATION MANAGEMENT SYSTEM",
-    "excerpt": "We provide the most responsive and functional IT design for companies and businesses worldwide.",
+    "excerpt": "The key features of X-Digital Education",
     "image": "../../images/box-image/image-08-370x370.jpg",
     "icon": {
         "svg": "../../images/icons/linea-basic-alarm.svg",
@@ -10,61 +10,142 @@
     "is_featured": true,
     "banner_image": "../../images/banner/banner-02.jpg",
     "introText": {
-        "heading": "Mitech specializes in <span>technological and IT-related services</span> such as product engineering, warranty management, building cloud, infrastructure, network, etc.",
-        "text": "We’re available for 8 hours a day! <br/>Contact to require a detailed analysis and assessment of your plan."
+        "heading": "<span>X-Digital Education</span> is software with a paperless student management system for today's modern educational institutes. <span>X-Digital Education</span> helps you to operate your institute/ Organizations like automation system. The effective modules of <span>X-Digital Education</span> entitle the managing authority with great value. X-Digital Education can be defined as ‘a system for the collection, integration, processing, maintenance and dissemination of data and information to support decision-making, policy-analysis and formulation, planning, monitoring and management at all levels of an education system.",
+        "text": "It is one of the best school management software in Bangladesh with student’s attendance, auto SMS sending, exam, academic & accounting information management system. It is a system of people, technology, models, methods, processes, procedures, rules and regulations that function together to provide education leaders, decision-makers and managers at all levels with a comprehensive, integrated set of relevant, reliable, unambiguous and timely data and information to support them in completion of their responsibilities. This software provides the facility to carry out students, academic and accounting activities (School, College, University and Madrasa) and making them fast, easy, efficient and properly. It is a simple yet powerful software platform that connects all the departments of an institution / Organization along with office administration, student subscription, examination, certification, reports generation, result generation, fee counter, library, payroll system and many more. This software helps educators to manage, analyze and get reports of extensive data, while saving time by sort out repeated data entry."
     },
     "faq": [
         {
             "id": "highly-service-faq-1",
-            "title": "New multiple site connectivity",
-            "desc": "We use a newly developed technology to connect sites that are based on different types of servers and networks, SiteConnect, which helps to reduce the misinterpretation of signals as well as the loss of data during transfering."
+            "title": "Teacher Management",
+            "desc": ""
         },
         {
             "id": "highly-service-faq-2",
-            "title": "IT Security & Software",
-            "desc": "To keep your systems, your devices, and network stay secure, we have developed a new program that limits the access of suspicious objects or people and authenticate all logins to the system."
+            "title": "Student Management",
+            "desc": ""
         },
         {
             "id": "highly-service-faq-3",
-            "title": "Weak hosted capability",
-            "desc": "Some hosts are unaware of the potential risks as well as security loopholes in their system. By detecting these errors and taking prompt actions on improving firewalls, we can upgrade the system security."
+            "title": "Guardins Management",
+            "desc": ""
         },
         {
             "id": "highly-service-faq-4",
-            "title": "Build internal network",
-            "desc": "The internal network is essential for all companies and corporations, especially for those working in IT sector. To avoid possible risks when sharing internal confidential files and documentation to an external receiver, internal network must be strong."
+            "title": "HRM ( Human Resources Management)",
+            "desc": ""
+        },
+        {
+            "id": "highly-service-faq-5",
+            "title": "Class Management",
+            "desc": ""
+        },
+        {
+            "id": "highly-service-faq-6",
+            "title": "Digital Attendance Management",
+            "desc": ""
+        },
+        {
+            "id": "highly-service-faq-7",
+            "title": "Student Subject Configuration",
+            "desc": ""
+        },
+        {
+            "id": "highly-service-faq-8",
+            "title": "Automated Messaging",
+            "desc": ""
+        },
+        {
+            "id": "highly-service-faq-9",
+            "title": "Student Fees Management",
+            "desc": ""
+        },
+        {
+            "id": "highly-service-faq-10",
+            "title": "Payroll and Accounts Management",
+            "desc": ""
+        },
+        {
+            "id": "highly-service-faq-11",
+            "title": "Online Payment System",
+            "desc": ""
+        },
+        {
+            "id": "highly-service-faq-12",
+            "title": "Exam Management",
+            "desc": ""
+        },
+        {
+            "id": "highly-service-faq-13",
+            "title": "Result Management",
+            "desc": ""
+        },
+        {
+            "id": "highly-service-faq-14",
+            "title": "Notice board Management",
+            "desc": ""
+        },
+        {
+            "id": "highly-service-faq-15",
+            "title": "Inventory Management",
+            "desc": ""
+        },
+        {
+            "id": "highly-service-faq-16",
+            "title": "Easy Admission System",
+            "desc": ""
+        },
+        {
+            "id": "highly-service-faq-17",
+            "title": "Report Management",
+            "desc": ""
+        },
+        {
+            "id": "highly-service-faq-18",
+            "title": "User Management",
+            "desc": ""
+        },
+        {
+            "id": "highly-service-faq-19",
+            "title": "Library Management",
+            "desc": ""
+        },
+        {
+            "id": "highly-service-faq-20",
+            "title": "Online examination & assignment, Result",
+            "desc": ""
         }
+        
     ],
     "video": {
         "preview_image": "../../images/about-us/video-01-image-01-570x350.jpg",
         "video_link": "https://www.youtube.com/watch?v=9No-FiEInLA"
     },
     "features": {
-        "title": "Prominent IT Security Services",
+        "title": "What we are promising to you",
         "items": [
             {
-                "id": "highly-professional-features-1",
-                "icon": "../../images/icons/icon-07-60x60.png",
-                "title": "Mitech Management Systems",
-                "desc": "Our service offerings enhance customer experience throughout secure & highly functional end-to-end warranty management."
+                "id": "highly-professional-features-2",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Ensuring the security of the product",
+                "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
             },
             {
                 "id": "highly-professional-features-2",
                 "icon": "../../images/icons/icon-08-60x60.png",
-                "title": "Reliable Multi-function Technology",
+                "title": "Highly scaled and optimized for speed",
                 "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
             },
             {
-                "id": "highly-professional-features-3",
-                "icon": "../../images/icons/icon-09-60x60.png",
-                "title": "Highly Professional Staffs",
+                "id": "highly-professional-features-2",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Responsive and Well Organized",
                 "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
             },
             {
-                "id": "highly-professional-features-4",
-                "icon": "../../images/icons/icon-10-60x60.png",
-                "title": "Infrastructure Integration Technology",
-                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+                "id": "highly-professional-features-2",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Maintaining version and features for future",
+                "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
             }
         ]
     }
