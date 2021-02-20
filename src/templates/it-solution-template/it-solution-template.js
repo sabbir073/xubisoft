@@ -85,7 +85,7 @@ const ServiceTemplate = ({ data, location, ...restProps }) => {
                                     <Col lg={12}>
                                         <Box>
                                             {pageData.introText.heading && <Heading {...rightHeading}>{parse(pageData.introText.heading)}</Heading>}
-                                            {pageData.introText.text && <Text {...rightText}>{parse(pageData.introText.text)}</Text>}
+                                            {pageData.introText.text && <Text style={{ 'text-align':'justify' }} {...rightText}>{parse(pageData.introText.text)}</Text>}
                                         </Box>
                                     </Col>
                                 )}
@@ -272,6 +272,7 @@ ServiceTemplate.defaultProps = {
             lineheight: 1.67,
             fontweight: 800,
             layout: 'quote',
+            textalign: 'justify',
             child: {
                 color: 'primary'
             },
@@ -280,7 +281,8 @@ ServiceTemplate.defaultProps = {
             mt: '15px',
             fontSize: '18px',
             ml: '34px',
-            color: '#696969'
+            color: '#696969',
+            textalign: 'justify'
         }
     },
     featureStyels: {

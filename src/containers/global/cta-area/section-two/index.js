@@ -16,9 +16,9 @@ const CTASection = ({
 }) => {
     const ctaData = useStaticQuery(graphql `
         query CtaTwoImgQuery {
-            file(relativePath: {eq: "images/bg/sample.png"}) {
+            file(relativePath: {eq: "images/bg/finalbg.png"}) {
                 childImageSharp {
-                    fluid(maxWidth: 779, maxHeight: 746, quality: 100) {
+                    fluid(maxWidth: 2000, maxHeight: 285, quality: 100) {
                         ...GatsbyImageSharpFluid
                     }
                 }
@@ -66,7 +66,7 @@ CTASection.propTypes = {
 CTASection.defaultProps = {
     sectionStyle: {
         bgColor: '#f6f2ed',
-        bgposition: 'top 35% right -68px',
+        bgposition: '',
         bgsize: 'auto',
         pt: '80px',
         pb: '80px',

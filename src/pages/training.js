@@ -3,7 +3,7 @@ import SEO from "../components/seo"
 import Layout from '../containers/layout/layout'
 import Header from '../containers/layout/header/header-two'
 import Footer from '../containers/layout/footer/footer-one'
-import PageHeader from '../components/pageheader'
+import PageHeader from '../components/training-header'
 import ServicesArea from '../containers/training/services-area'
 import ContactArea from '../containers/global/contact-area/contact-two'
 
@@ -14,7 +14,7 @@ const trainingPage = ({ pageContext, location }) => (
     <PageHeader 
         pageContext={pageContext} 
         location={location}
-        title="Training"
+        title="TRAINING"
     />
     <main className="site-wrapper-reveal">
         <ServicesArea/>

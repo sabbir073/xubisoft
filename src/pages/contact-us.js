@@ -3,7 +3,7 @@ import SEO from "../components/seo"
 import Layout from '../containers/layout/layout'
 import Header from '../containers/layout/header/header-two'
 import Footer from '../containers/layout/footer/footer-one'
-import PageHeader from '../components/pageheader'
+import PageHeader from '../components/contact-header'
 import CTAArea from '../containers/global/cta-area/section-one'
 import ContactFormArea from '../containers/contact-us/contact-form-area'
 import ContactInfoArea from '../containers/contact-us/contact-info-area'
@@ -15,12 +15,11 @@ const ContactUsPage = ({ pageContext, location }) => (
         <PageHeader 
             pageContext={pageContext} 
             location={location}
-            title="Contact Us"
+            title="CONTACT US"
         />
         <main className="site-wrapper-reveal">
             <ContactFormArea/>
             <ContactInfoArea/>
-            <CTAArea/>
         </main>
         <Footer/>
     </Layout>

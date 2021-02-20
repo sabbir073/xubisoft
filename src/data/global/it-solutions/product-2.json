@@ -1,7 +1,7 @@
 {
     "id": "product-2",
-    "title": "HOSPITAL E-TOKEN MANAGEMENT",
-    "excerpt": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution.",
+    "title": "E-HEALTH",
+    "excerpt": "Core Features of e-Health:",
     "image": "../../images/box-image/image-05-370x370.jpg",
     "icon": {
         "svg": "../../images/icons/linea-basic-spread-text-bookmark.svg",
@@ -10,29 +10,43 @@
     "is_featured": true,
     "banner_image": "../../images/banner/banner-05.jpg",
     "introText": {
-        "heading": "Mitech specializes in <span>technological and IT-related services</span> such as product engineering, warranty management, building cloud, infrastructure, network, etc.",
-        "text": "We’re available for 8 hours a day! <br/>Contact to require a detailed analysis and assessment of your plan."
+        "heading": "<span>e-Health</span> is widely used as <span>a tool for improving health care delivery and information</span>. Therefore distinct policies and strategies are required for its proper implementation and integration at national and international levels.",
+        "text": "e-Health policy can be defined as “a set of statements, directives, regulations, laws, and judicial interpretations that direct and manage the life cycle of e-Health”. Recognition is growing in both developed and developing countries that e-Health is an important tool to reduce discrimination based on lack of access to information and to provide timely responses to matters affecting both personal and community health. However, the use of e-Health within or between institutions involves several factors that require proper planning, supported by well-defined policies, rules, standards, or guidelines at the institutional, jurisdictional, and global levels. The absence of these policies may cause problems during the cycle of e-Health planning that may lead to failures in achieving the intended goals. As a result, there could be inadvertent widening of gaps in health status and knowledge levels between different sectors of the population, and increasing rather than decreasing health inequity, also termed the digital divide. Experience from the developed world shows that the most common barriers to successful e-Health planning include lack of information on the role of e-Health in the provision of health care, lack of operational and support policies, lack of demonstrated cost effectiveness, and lack of clinical proponents. To complement the need for e-Health policies and strategies within countries, pressure is also developing at the global level for e-Health policies. The World Health Assembly (WHA) resolution of 2005, WHA 58.28, calls on member states to draw up long-term strategic plans for the development and implementation of e-Health. Thus, it is important for the planners of e-Health at different levels to develop policies that could facilitate the adoption of e-Health and prove its success through improvement in services and change in the health status of the population. It is important for global forces, governments, and institutional leadership to understand the range of policy issues that must be addressed at different levels and stages of an e-Health program to facilitate its planning and implementation."
     },
-    "faq": [
-        {
+    "faq": [{
             "id": "highly-service-faq-1",
-            "title": "New multiple site connectivity",
-            "desc": "We use a newly developed technology to connect sites that are based on different types of servers and networks, SiteConnect, which helps to reduce the misinterpretation of signals as well as the loss of data during transfering."
+            "title": "Emergency and OPD",
+            "desc": "Patient database, Ticketing, Queue management service."
         },
         {
             "id": "highly-service-faq-2",
-            "title": "IT Security & Software",
-            "desc": "To keep your systems, your devices, and network stay secure, we have developed a new program that limits the access of suspicious objects or people and authenticate all logins to the system."
+            "title": "IPD",
+            "desc": "Admission, Bed Management, OT, Laboratory and other test, Medicine, Visit, bed transfer, discount, discharge, death and birth certificate"
         },
         {
             "id": "highly-service-faq-3",
-            "title": "Weak hosted capability",
-            "desc": "Some hosts are unaware of the potential risks as well as security loopholes in their system. By detecting these errors and taking prompt actions on improving firewalls, we can upgrade the system security."
+            "title": "Hospital",
+            "desc": "Employee setup, permission, service management, doctor management, bed & ward management, management reports."
         },
         {
             "id": "highly-service-faq-4",
-            "title": "Build internal network",
-            "desc": "The internal network is essential for all companies and corporations, especially for those working in IT sector. To avoid possible risks when sharing internal confidential files and documentation to an external receiver, internal network must be strong."
+            "title": "Pharmacy",
+            "desc": "Requisition, receive, PO, Return, Sales by day ID, OPD sales, various reports."
+        },
+        {
+            "id": "highly-service-faq-5",
+            "title": "Inventory",
+            "desc": "General and internal requisition, approval of requisition, requisition cancel, company select, tendering, PO, Purchase, consumption, receive, return, repair, depreciation."
+        },
+        {
+            "id": "highly-service-faq-6",
+            "title": "HR and Payroll",
+            "desc": "Rostering, Leave, PF, Loan, Advance, Attendance, Salary, Promotion, pension, dismiss."
+        },
+        {
+            "id": "highly-service-faq-7",
+            "title": "Pathology",
+            "desc": "Requisition, Billing, Cancel, Edit, Sample collection, Test, Report, Report delivery."
         }
     ],
     "video": {
@@ -40,31 +54,30 @@
         "video_link": "https://www.youtube.com/watch?v=9No-FiEInLA"
     },
     "features": {
-        "title": "Prominent IT Security Services",
-        "items": [
-            {
-                "id": "highly-professional-features-1",
-                "icon": "../../images/icons/icon-07-60x60.png",
-                "title": "Mitech Management Systems",
-                "desc": "Our service offerings enhance customer experience throughout secure & highly functional end-to-end warranty management."
+        "title": "What are we promising to you",
+        "items": [{
+                "id": "highly-professional-features-2",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Ensuring the security of the product",
+                "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
             },
             {
                 "id": "highly-professional-features-2",
                 "icon": "../../images/icons/icon-08-60x60.png",
-                "title": "Reliable Multi-function Technology",
+                "title": "Highly scaled and optimized for speed",
                 "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
             },
             {
-                "id": "highly-professional-features-3",
-                "icon": "../../images/icons/icon-09-60x60.png",
-                "title": "Highly Professional Staffs",
+                "id": "highly-professional-features-2",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Responsive and Well Organized",
                 "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
             },
             {
-                "id": "highly-professional-features-4",
-                "icon": "../../images/icons/icon-10-60x60.png",
-                "title": "Infrastructure Integration Technology",
-                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+                "id": "highly-professional-features-2",
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Maintaining version and features for future",
+                "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
             }
         ]
     }
