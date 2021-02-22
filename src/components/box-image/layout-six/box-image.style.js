@@ -15,9 +15,9 @@ export const BoxImgInner = styled.div `
 
 export const BoxImgMediaWrap = styled.figure `
     position: relative;
-    width: 162px;
-    height: 162px;
-    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    border-radius: 10%;
     margin: 0 auto 2px;
     text-align: center;
     &:before{
@@ -28,7 +28,7 @@ export const BoxImgMediaWrap = styled.figure `
         right: 0;
         bottom: 0;
         background-image: linear-gradient(160deg, #fbf7f4 0%, #fefdfd 100%);
-        border-radius: 50%;
+        border-radius: 10%;
         transform: translateY(-46px);
     }
 `;

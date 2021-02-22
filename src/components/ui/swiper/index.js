@@ -21,7 +21,7 @@ const SwiperSlider = ({ children, settings, ...props }) => {
 
     const {
         slidesPerView, spaceBetween, arrows = false, pagination = true, loop, lazy,
-        centeredSlides, freeMode, autoplay = false, delay, speed, paginationStyle = {}, breakpoints = {}
+        centeredSlides, freeMode, autoplay = true, delay, speed, paginationStyle = {}, breakpoints = {}
     } = settings || {}
 
     let isSpaceBetween;
@@ -44,8 +44,8 @@ const SwiperSlider = ({ children, settings, ...props }) => {
             clickable: true
         },
         autoplay: autoplay && {
-            delay: delay ? delay : 2500,
-            disableOnInteraction: false
+            delay: delay ? delay : 1000,
+            disableOnInteraction: true
         },
         breakpoints
     }

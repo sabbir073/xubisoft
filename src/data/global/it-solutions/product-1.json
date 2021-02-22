@@ -3,19 +3,18 @@
     "title": "SAPTARSHI-THE COMPLETE ERP SOLUTION",
     "tagline": "Get the world’s best ERP system for your business.",
     "excerpt": "Modules of our “SAPTARSHI™” ERP",
-    "image": "../../images/box-image/image-06-370x370.jpg",
+    "image": "../../images/box-image/saptarshi.jpg",
     "icon": {
         "svg": "../../images/icons/linea-basic-spread-text-bookmark.svg",
         "img": "../../images/icons/icon-16-80x83.png"
     },
     "is_featured": true,
-    "banner_image": "../../images/banner/banner-04.jpg",
+    "banner_image": "../../images/banner/erpcover.jpg",
     "introText": {
         "heading": "Xubisoft Ltd. is a software development company that has been successfully present on the <span>offshore software development</span> market for few years and since that time has grown to become a well-regarded player in this industry and has proven to be a reliable, efficient and trustworthy service provider to the businesses from all over the nation. Xubisoft Ltd. is <span>ISO Certified Company</span> and we are also member of <span>BASIS</span> and <span>BACCO</span>.",
         "text": "Since 2016 Xubisoft Ltd. has emerged as the leading solution vendor in the apparel industry, agro industry, Flour Mills & Plastic container manufacturing companies. With its flagship software solution “SAPTARSHI™” (The Complete ERP Solutions). Xubisoft Ltd. has been continuously upgrading the modules to accommodate the changing needs of the industry. The current version of the solution has been enriched in many folds:"
     },
-    "faq": [
-        {
+    "faq": [{
             "id": "highly-service-faq-1",
             "title": "Sales and Marketing Management",
             "desc": "It is a fully integrated ERP software for import & export businesses as well as wholesale distributors. The system allows all departments to share the same information from one central location offering a logical next step up from stand-alone QuickBooks and the series of reports to manage the business. The entire sales team will immediately recognize the benefits of this software. E-mail Alerts when orders shipments are delayed, Tools to manage customer inquiries, supplier quotes and quotes to custom, Real-time access to order history, Real-time access to customer order status, Real-time access to inventory availability (including inventory “at source” and “in transit”), Enter orders and access history remotely etc."
@@ -57,8 +56,7 @@
     },
     "features": {
         "title": "What are we promising to you",
-        "items": [
-            {
+        "items": [{
                 "id": "highly-professional-features-2",
                 "icon": "../../images/icons/icon-08-60x60.png",
                 "title": "Ensuring the security of the product",

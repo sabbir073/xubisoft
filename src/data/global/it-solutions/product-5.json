@@ -2,19 +2,18 @@
     "id": "product-5",
     "title": "POINT OF SALE",
     "excerpt": "Fetures of X-POS",
-    "image": "../../images/box-image/image-03-370x370.jpg",
+    "image": "../../images/box-image/pointofsale.jpg",
     "icon": {
         "svg": "../../images/icons/linea-basic-spread-text-bookmark.svg",
         "img": "../../images/icons/icon-15-80x83.png"
     },
     "is_featured": true,
-    "banner_image": "../../images/banner/banner-03.jpg",
+    "banner_image": "../../images/banner/pointofsalecover.jpg",
     "introText": {
         "heading": "X-POS is a <span>Point of sale (POS)</span> software with a critical piece of a point of purchase, refers to the place where a customer executes the payment for goods or services and where sales taxes may become payable. It can be in a physical store, where POS terminals and systems are used to process card payments or a virtual sales point such as a computer or mobile electronic device.",
         "text": "However, varying POS locations can give retailers more opportunities to micro-market specific product categories and influence consumers at earlier points in the sales funnel. For example, department stores often have POSs for individual product groups, such as appliances, electronics, and apparel. The designated staff can actively promote products and guide consumers through purchase decisions rather than simply processing transactions. Similarly, the format of a POS can affect profit or buying behavior, as this gives consumers flexible options for making a purchase. X-POS software was specially developed for superstore, mega shop, distributors, and retailers in Bangladesh."
     },
-    "faq": [
-        {
+    "faq": [{
             "id": "highly-service-faq-1",
             "title": "Product & Inventory",
             "desc": ""
@@ -76,8 +75,7 @@
     },
     "features": {
         "title": "What we are promising to you",
-        "items": [
-            {
+        "items": [{
                 "id": "highly-professional-features-2",
                 "icon": "../../images/icons/icon-08-60x60.png",
                 "title": "Ensuring the security of the product",

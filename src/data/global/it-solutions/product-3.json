@@ -2,19 +2,18 @@
     "id": "product-3",
     "title": "EDUCATION MANAGEMENT SYSTEM",
     "excerpt": "The key features of X-Digital Education",
-    "image": "../../images/box-image/image-08-370x370.jpg",
+    "image": "../../images/box-image/education.jpg",
     "icon": {
         "svg": "../../images/icons/linea-basic-alarm.svg",
         "img": "../../images/icons/icon-14-80x83.png"
     },
     "is_featured": true,
-    "banner_image": "../../images/banner/banner-02.jpg",
+    "banner_image": "../../images/banner/educationcover.jpg",
     "introText": {
         "heading": "<span>X-Digital Education</span> is software with a paperless student management system for today's modern educational institutes. <span>X-Digital Education</span> helps you to operate your institute/ Organizations like automation system. The effective modules of <span>X-Digital Education</span> entitle the managing authority with great value. X-Digital Education can be defined as ‘a system for the collection, integration, processing, maintenance and dissemination of data and information to support decision-making, policy-analysis and formulation, planning, monitoring and management at all levels of an education system.",
         "text": "It is one of the best school management software in Bangladesh with student’s attendance, auto SMS sending, exam, academic & accounting information management system. It is a system of people, technology, models, methods, processes, procedures, rules and regulations that function together to provide education leaders, decision-makers and managers at all levels with a comprehensive, integrated set of relevant, reliable, unambiguous and timely data and information to support them in completion of their responsibilities. This software provides the facility to carry out students, academic and accounting activities (School, College, University and Madrasa) and making them fast, easy, efficient and properly. It is a simple yet powerful software platform that connects all the departments of an institution / Organization along with office administration, student subscription, examination, certification, reports generation, result generation, fee counter, library, payroll system and many more. This software helps educators to manage, analyze and get reports of extensive data, while saving time by sort out repeated data entry."
     },
-    "faq": [
-        {
+    "faq": [{
             "id": "highly-service-faq-1",
             "title": "Teacher Management",
             "desc": ""
@@ -114,7 +113,7 @@
             "title": "Online examination & assignment, Result",
             "desc": ""
         }
-        
+
     ],
     "video": {
         "preview_image": "../../images/about-us/video-01-image-01-570x350.jpg",
@@ -122,8 +121,7 @@
     },
     "features": {
         "title": "What we are promising to you",
-        "items": [
-            {
+        "items": [{
                 "id": "highly-professional-features-2",
                 "icon": "../../images/icons/icon-08-60x60.png",
                 "title": "Ensuring the security of the product",

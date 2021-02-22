@@ -2,19 +2,18 @@
     "id": "product-6",
     "title": "CALL CENTER SOLUTION",
     "excerpt": "Module of xDialer",
-    "image": "../../images/box-image/image-07-370x370.jpg",
+    "image": "../../images/box-image/callcenter.jpg",
     "icon": {
         "svg": "../../images/icons/linea-basic-geolocalize-05.svg",
         "img": "../../images/icons/icon-13-80x83.png"
     },
     "is_featured": true,
-    "banner_image": "../../images/banner/banner-01.jpg",
+    "banner_image": "../../images/banner/callcentercover.jpg",
     "introText": {
         "heading": "xDialer <span>A complete solutions of Call Center</span> is an exclusive product/ software of <span>Xubisoft Ltd.</span> with complete functionality for inbound, outbound and blended campaigns. <span>xDialer call center solution</span> is built directly into their multi-channel help desk, Experience on the fly integrations with Agent toolbars & pre-built connectors for leading third-party CRM.The all-inclusive solutions for contact centers are ideal for different business processes such as Customer support, Telemarketing and Sales, Collections, Technical support, Marketing research and Helpdesk.",
         "text": ""
     },
-    "faq": [
-        {
+    "faq": [{
             "id": "highly-service-faq-1",
             "title": "Automatic Call Distributor (ACD)",
             "desc": ""
@@ -96,8 +95,7 @@
     },
     "features": {
         "title": "What are we promising to you",
-        "items": [
-            {
+        "items": [{
                 "id": "highly-professional-features-2",
                 "icon": "../../images/icons/icon-08-60x60.png",
                 "title": "Ensuring the security of the product",

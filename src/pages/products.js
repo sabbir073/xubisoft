@@ -3,7 +3,7 @@ import SEO from "../components/seo"
 import Layout from '../containers/layout/layout'
 import Header from '../containers/layout/header/header-two'
 import Footer from '../containers/layout/footer/footer-one'
-import PageHeader from '../components/pageheader'
+import PageHeader from '../components/productheader'
 import ServicesArea from '../containers/it-solutions/services-area'
 import ContactArea from '../containers/global/contact-area/contact-three'
 
