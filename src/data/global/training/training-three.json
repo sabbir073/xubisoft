@@ -4,12 +4,12 @@
     "excerpt": "Linux Networking training develops all the essential skills required to become an expert in this domain. You will master all the key fundamentals of Linux Networking from basics to advanced level with real-time projects and use case examples, and this knowledge helps you in clearing the Linux Networking certification exam.",
     "icon": {
         "svg": "../../images/icons/linea-basic-gear.svg",
-        "img": "../../images/icons/icon-04-100x108.png",
+        "img": "../../images/icons/linuxtraining.png",
         "img_two": "../../images/icons/icon-01-100x98.png",
         "img_hover": "../../images/icons/icon-01-hover-100x98.png"
     },
     "is_featured": true,
-    "banner_image": "../../images/banner/banner-01.jpg",
+    "banner_image": "../../images/banner/linuxnetwork.jpg",
     "introTitle": "Get a certification on",
     "coloredTitle": "Linux Networking",
     "introText": {

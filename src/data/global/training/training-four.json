@@ -4,12 +4,12 @@
     "excerpt": "The Cisco Certified Network Associate v1.0 (CCNA 200-301) exam is a 120-minute exam associated with the CCNA certification. The course, Implementing and Administering Cisco Solutions (CCNA), helps candidates prepare for this exam.",
     "icon": {
         "svg": "../../images/icons/linea-basic-gear.svg",
-        "img": "../../images/icons/icon-04-100x108.png",
+        "img": "../../images/icons/ccnatraining.png",
         "img_two": "../../images/icons/icon-01-100x98.png",
         "img_hover": "../../images/icons/icon-01-hover-100x98.png"
     },
     "is_featured": true,
-    "banner_image": "../../images/banner/banner-01.jpg",
+    "banner_image": "../../images/banner/ccna.jpeg",
     "introTitle": "Become a",
     "coloredTitle": "Cisco Certified Network Associate",
     "introText": {

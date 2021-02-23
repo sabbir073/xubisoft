@@ -4,12 +4,12 @@
     "excerpt": "Candidates must have a minimum of 1 year cumulative work experience in 1 or more of the 7 domains of the SSCP CBK. A 1 year prerequisite pathway will be granted for candidates who received a degree (bachelors or masters) in a cyber-security program. A candidate that doesn’t have the required experience to become an SSCP may become an Associate of (ISC) ² by successfully passing the SSCP examination. The Associate of (ISC) ² will then have 2 years to earn the 1 year required experience. ",
     "icon": {
         "svg": "../../images/icons/linea-basic-gear.svg",
-        "img": "../../images/icons/icon-04-100x108.png",
+        "img": "../../images/icons/sscptraining.png",
         "img_two": "../../images/icons/icon-01-100x98.png",
         "img_hover": "../../images/icons/icon-01-hover-100x98.png"
     },
     "is_featured": true,
-    "banner_image": "../../images/banner/banner-01.jpg",
+    "banner_image": "../../images/banner/sscp.jpg",
     "introTitle": "Become a",
     "coloredTitle": "Systems Security Certified Practitioner.",
     "introText": {
