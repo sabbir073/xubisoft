@@ -3,7 +3,7 @@ import SEO from "../components/seo"
 import Layout from '../containers/layout/layout'
 import Header from '../containers/layout/header/header-two'
 import Footer from '../containers/layout/footer/footer-one'
-import PageHeader from '../components/pageheader'
+import PageHeader from '../components/teamheader'
 import TeamArea from '../containers/leadership/team-area'
 import TeamListArea from '../containers/leadership/team-list-area'
 import ContactArea from '../containers/global/contact-area/contact-one'

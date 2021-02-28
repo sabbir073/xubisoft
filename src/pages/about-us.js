@@ -20,13 +20,11 @@ const AboutPage = ({ location }) => (
     <main className="site-wrapper-reveal">
       <PageHeader />
       <AboutArea />
-      <ServicesArea />
       <ResourcesArea />
       <SolutionsArea />
       <FunFactArea />
       <TestimonialArea />
       <ClientsArea />
-      <ContactArea />
     </main>
     <Footer />
   </Layout>

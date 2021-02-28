@@ -88,17 +88,17 @@ OurSkills.defaultProps = {
         }
     },
     textStyle: {
-        as: "h4",
-        fontSize: "38px",
+        as: "h",
+        fontSize: "20px",
         child: {
             color: 'primary'
         },
         responsive: {
             medium: {
-                fontSize: "28px"
+                fontSize: "20px"
             },
             small: {
-                fontSize: "24px"
+                fontSize: "20px"
             }
         }
     },

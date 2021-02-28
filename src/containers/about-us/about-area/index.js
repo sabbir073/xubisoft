@@ -46,8 +46,8 @@ const AboutDesc = ({sectionTitleStyle, headingStyle, textStyle, descStyle, btnSt
                     </Col>
                     <Col lg={{span: 5, offset: 1}}>
                         <RightBox>
-                            {desc && <Text {...descStyle}>{parse(desc)}</Text>}
-                            {path && <Button {...btnStyle} to={`/${path}`}>Discover More</Button>}
+                            {desc && <Text style={{ "text-align":"justify" }} {...descStyle}>{parse(desc)}</Text>}
+                            {path && <Button {...btnStyle} to={`/${path}`}>Discover Our Services</Button>}
                         </RightBox>
                     </Col>
                 </Row>

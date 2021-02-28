@@ -1,10 +1,11 @@
 import React from "react"
 import SEO from "../components/seo"
 import Layout from '../containers/layout/layout'
-import Header from '../containers/layout/header/header-one'
+import Header from '../containers/layout/header/header-two'
 import Footer from '../containers/layout/footer/footer-one'
-import PageHeader from '../components/pageheader'
+import PageHeader from '../components/whychooseheader'
 import SkillArea from '../containers/why-choose-us/our-skills'
+import SolutionsArea from '../containers/about-us/why-choose-us'
 import ServicesArea from '../containers/why-choose-us/services-area'
 import ContactArea from '../containers/global/contact-area/contact-two'
 
@@ -19,8 +20,7 @@ const WhyChooseUsPage = ({ pageContext, location }) => (
     />
     <main className="site-wrapper-reveal">
       <SkillArea />
-      <ServicesArea />
-      <ContactArea />
+      <SolutionsArea />
     </main>
     <Footer />
   </Layout>

@@ -38,7 +38,7 @@ const Resources = ({sectionTitleStyle}) => {
     const {title, subtitle, download_link, image} = resources.resource;
     const ImageData = resources.bgImage.childImageSharp.fluid;
     return (
-        <ResourcesWrapper fluid={ImageData}>
+        <ResourcesWrapper style={{ "margin-top":"50px" }} fluid={ImageData}>
             <Container fluid>
                 <Row alignitems="center">
                     <Col lg={{span: 6, order: 1}} xs={{order: 2, span: 12}}>
@@ -50,7 +50,7 @@ const Resources = ({sectionTitleStyle}) => {
                                     subtitle={subtitle}
                                 />
                             )}
-                            {download_link && <Button to={download_link} hover="2">Download now (3MB)</Button>}
+                            {download_link && <Button to={download_link} hover="2">Download now (1MB)</Button>}
                         </LeftBox>
                     </Col>
                     <Col lg={{span: 6, order: 2}} xs={{order: 1, span: 12}}>

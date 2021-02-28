@@ -68,7 +68,7 @@ const TeamArea = ({ sectionStyle, headingStyle, headTeamStyle, headTeamRowStyle,
             <Container>
                 <Row>
                     <Col lg={12}>
-                        <Heading {...headingStyle}>We hire staffs who know more than what they show <br />of <span> IT services</span></Heading>
+                        <Heading {...headingStyle}>We are a strong and experienced team <span>Dedicated to technology</span></Heading>
                     </Col>
                 </Row>
                 <Row {...headTeamRowStyle}>

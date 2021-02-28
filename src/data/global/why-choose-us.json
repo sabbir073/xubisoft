@@ -1,29 +1,64 @@
-[
-    {
+[{
         "id": "why-choose-page-intro",
         "title": "Preparing for your success, <br/> we provide <span>truly prominent IT solutions.</span>",
-        "heading": "<mark>38</mark> YEARS’ EXPERIENCE IN IT",
-        "text": "Learn More About Our <span>Success Stories</span>",
-        "desc": "The IT services that Mitech are running can be segmented by the type of skills employed to deliver the service (design, build, run). Technically, these fall into three main categories: business process services, application services, and infrastructure services."
+        "heading": "<mark>10</mark> Years experienced in Technology",
+        "text": "A PASSION-DRIVEN COMPANY",
+        "desc": "Xubisoft Ltd is striving to bring new dimension in one stop information technology support and training in BPO industry with a view to ensure the optimum satisfaction to our valuable local and international clients. Thus, we want to contribute in our economy."
     },
     {
         "id": "our-skills",
-        "skills": [
-            {
-                "title": "UI/UX",
-                "value": "90%"
-            },
-            {
-                "title": "Ideas",
-                "value": "70%"
-            },
-            {
-                "title": "Marketing",
+        "skills": [{
+                "title": "Design/Develop",
                 "value": "95%"
             },
             {
-                "title": "Consulting",
-                "value": "75%"
+                "title": "Marketing/Consulting",
+                "value": "85%"
+            },
+            {
+                "title": "Software/Mobile",
+                "value": "92%"
+            },
+            {
+                "title": "Client Support",
+                "value": "100%"
+            }
+        ]
+    },
+    {
+        "id": "why-choose-solution",
+        "title": "Why we are best",
+        "solutions": [{
+                "id": "about-focus-1",
+                "title": "We are Friendly, Fast and Knowledgeable"
+            },
+            {
+                "id": "about-focus-2",
+                "title": "We are committed to innovation"
+            },
+            {
+                "id": "about-focus-3",
+                "title": "We are respectable to our customers"
+            },
+            {
+                "id": "about-focus-4",
+                "title": "We work with highest integrity and ethics"
+            },
+            {
+                "id": "about-focus-5",
+                "title": "We are highly technical"
+            },
+            {
+                "id": "about-focus-6",
+                "title": "Approach to build long term relationship"
+            },
+            {
+                "id": "about-focus-7",
+                "title": "We are big on communication"
+            },
+            {
+                "id": "about-focus-8",
+                "title": "We are focused onquality"
             }
         ]
     }
