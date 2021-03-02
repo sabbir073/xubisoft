@@ -1,5 +1,4 @@
-[
-    {
+[{
         "id": "section-one-itro",
         "title": "Frequently asked questions"
     },
@@ -9,32 +8,36 @@
     },
     {
         "id": "faq",
-        "items": [
-            {
+        "items": [{
                 "id": "faq-1",
-                "question": "How can we help your business?",
-                "answer": "Mitech takes into consideration every little detail to make sure the system run smoothly and responsively. Mitech employs a new technique called Minified Technology for securing customers' database & building up highly confidential firewalls."
+                "question": "What benefits can you guarantee?",
+                "answer": "All projects we take up carry the following guarantees: Confidentiality guarantee: All client details will be kept confidential Price guarantee: Minimum 60% cost-saving over on-site development Results guarantee: Progress-linked payments weighted toward the end."
             },
             {
                 "id": "faq-2",
-                "question": "What are the advantages of Mitech?",
-                "answer": "We reduce redundant complex calculations and lengthy erroneous code texts with simpler ones to ensure Mitech would run seamlessly and the design is reserved in its best form when viewed from a wide range of mobile devices & browsers."
+                "question": "What is the quality of people you employ?",
+                "answer": "The quality of a software development company is ultimately the quality of its people. Our people are very strong for software projects. All are graduate/post graduate, English speaker, have enough experience, industry certified and Passed interview in our board."
             },
             {
                 "id": "faq-3",
-                "question": "How working process is simplified?",
-                "answer": "Our service offerings to enhance customer experience throughout the product lifecycle includes – test and repair, service management, and end-to-end warranty management."
+                "question": "How do you assure confidentiality?",
+                "answer": "We sign NDAs and Confidentiality Agreements as required by you. All our employees are full-time employees, and are bound by the company Confidentiality and Non-Disclosure clauses. Additionally, for sensitive projects, we create isolated cells disconnected from any public network."
             },
             {
                 "id": "faq-4",
-                "question": "Product Engineering & Services",
-                "answer": "Our service offerings to enhance customer experience throughout the product lifecycle includes – test and repair, service management, and end-to-end warranty management."
+                "question": "Why should we trust you?",
+                "answer": "We have completed projects for 500+ US/European clients, We have been 10 years in business, dedicated to the off-shore execution model, We are here for the long run; our CEO has global experience with leading technology companies and has started up with a long-term vision, You may see our portfolio and testimonials."
+            },
+            {
+                "id": "faq-5",
+                "question": "Do you provide skill development trainings?",
+                "answer": "Yes we do, For your kind of information, please visit our training page."
             }
         ]
     },
     {
         "id": "faq-video",
-        "image": "../images/box-image/faqs-video-poster.jpg",
-        "video_link": "https://www.youtube.com/watch?v=9No-FiEInLA"
+        "image": "../images/box-image/gaqposter.jpg",
+        "video_link": ""
     }
 ]

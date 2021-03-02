@@ -1,9 +1,9 @@
 import React from "react"
 import SEO from "../components/seo"
 import Layout from '../containers/layout/layout'
-import Header from '../containers/layout/header/header-one'
+import Header from '../containers/layout/header/header-two'
 import Footer from '../containers/layout/footer/footer-one'
-import PageHeader from '../components/pageheader'
+import PageHeader from '../components/historyheader'
 import IntroArea from '../containers/our-history/intro-area'
 import HistoryArea from '../containers/our-history/history-area'
 import ContactArea from '../containers/global/contact-area/contact-two'
@@ -20,7 +20,6 @@ const HistoryPage = ({ pageContext, location }) => (
         <main className="site-wrapper-reveal">
             <IntroArea />
             <HistoryArea />
-            <ContactArea />
         </main>
         <Footer />
     </Layout>

@@ -9,9 +9,9 @@ import {
 } from 'react-accessible-accordion';
 import AccordionWrap from '../../../components/ui/accordion'
 import SectionTitle from '../../../components/ui/section-title'
-import PopupVideo from '../../../components/ui/popup-video/layout-one'
+import Image from '../../../components/image'
 import { Container, Row, Col } from '../../../components/ui/wrapper'
-import { SectionWrap } from './style'
+import { SectionWrap, ImageBox } from './style'
 
 const FaqSection = ({ accordionStyle }) => {
     const getFaqData = useStaticQuery(graphql`
@@ -76,10 +76,11 @@ const FaqSection = ({ accordionStyle }) => {
                         </AccordionWrap>
                     </Col>
                     <Col lg={6}>
-                        <PopupVideo
-                            image={image}
-                            video_link={video_link}
-                        />
+                    {image.childImageSharp.fluid && (
+                            <ImageBox>
+                                <Image fluid={image.childImageSharp.fluid} alt={title}/>
+                            </ImageBox>
+                        )}
                     </Col>
                 </Row>
             </Container>

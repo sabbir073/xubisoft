@@ -1,29 +1,27 @@
-[
-    {
+[{
         "id": "history-page-intro",
         "title": "We create dreams <span>for the future.</span> <br/> We realize them sucessfully.",
         "desc": "You know that you found your dream when you have a desire to achieve a goal, have the gut to pursue it, have the courage to overcome any obstacles on your path and feel blessed when finally realizing it. Dream on, keep up and make it pay off."
     },
     {
         "id": "our-history",
-        "histories": [
-            {
-                "year": "1988",
-                "image": "../images/box-image/timeline-image-01.jpg",
-                "title": "The Foundation of Mitech",
-                "desc": "The beginning of Mitech Co. was laid by three men: Jackie Moodle, Alan Morray and Burrow Kills. Back in 1988, three passionate young pupils, whose major is Information Technology, had discussed with each other about starting a company to deliver technological & digital services in an old rented apartment."
+        "histories": [{
+                "year": "2011",
+                "image": "../images/box-image/history1.jpg",
+                "title": "The Foundation of Xubisoft",
+                "desc": "The beginning of Xubisoft was a plan of 3 people. We started our journey in a rented apartment. We were giving Website development service and graphics design at first to get some trusted clients."
             },
             {
-                "year": "1993",
-                "image": "../images/box-image/timeline-image-02.jpg",
-                "title": "Mitech’s Golden Age",
-                "desc": "Mitech had been operating for 5 years when it reached the golden age in the company’s history. They received two prestigious awards for Dedicated Services & Community Contribution (in 1990), plus three successive award nominations for Best IT Company of the year (respectively in 1991, 1992 & 1993)."
+                "year": "2016",
+                "image": "../images/box-image/history2.jpg",
+                "title": "Became Xubisoft Ltd.",
+                "desc": "We Registered our company and incorporated in Bangladesh. We created new oppurtunities for job seekers and also incresed our service ares. It was like a golden age of Xubisoft Ltd."
             },
             {
-                "year": "1993",
-                "image": "../images/box-image/timeline-image-03.jpg",
-                "title": "Mitech’s Turning Point",
-                "desc": "The company has a turning point in 1995 when one of its founders left the board of the management and established a new company in Healthcare & Assurance – HealSoul. Later on, Mitech and HealSoul have successfully cooperated in several projects to integrate technology into taking care of people’s health. ."
+                "year": "2021",
+                "image": "../images/box-image/accounting.jpg",
+                "title": "Our Turning Point",
+                "desc": "The company has a turning point when we have finished some working deal with government projects. We started to develop manpower in ICT sector and giving full stack services to our customer. We expanded our branch this year."
             }
         ]
     }

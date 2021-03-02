@@ -12,3 +12,6 @@ export const SectionWrap = styled.div`
         padding-bottom: 60px;
     }
 `;
+export const ImageBox = styled.div `
+    text-align: center;
+`;
