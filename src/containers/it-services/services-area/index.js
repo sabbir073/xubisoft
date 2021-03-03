@@ -5,13 +5,13 @@ import Heading from '../../../components/ui/heading'
 import Anchor from '../../../components/ui/anchor'
 import {Container, Row, Col} from '../../../components/ui/wrapper'
 import SectionTitle from '../../../components/ui/section-title'
-import FeatureBox from '../../../components/box-image/layout-one'
+import FeatureBox from '../../../components/box-image/layout-two'
 import {SectionWrap, SectionBottom} from './services-area.style'
 
 const ServicesArea = (props) => {
     const featuredDataQuery = useStaticQuery(graphql `
         query ITServicesQueryData {
-            allItServicesJson(sort: {order: DESC, fields: id}, limit: 6) {
+            allItServicesJson(sort: {order: ASC, fields: id}, limit: 9) {
                 edges {
                   node {
                     fields {
@@ -43,28 +43,36 @@ const ServicesArea = (props) => {
                     <Col lg={12}>
                         <SectionTitle
                             subtitle="Our Services"
-                            title="For your very specific industry, <br/> we have <span>highly-tailored IT solutions.</span>"
+                            title="FOR YOUR DIGITAL SUCCESS <br/> WE MIGHT BE <span>YOUR GREAT PARTNER</span>"
                         />
                     </Col>
                 </Row>
                 <Row>
-                    {featureData.map(feature => (
-                        <Col lg={4} md={6} className="box-item" key={feature.node.id}>
-                            <FeatureBox
-                                title={feature.node.title}
-                                imageSrc={feature.node.icon.img.childImageSharp}
-                                desc={feature.node.excerpt}
-                                path={`/it-service/${feature.node.fields.slug}`}
-                            />
-                        </Col>
-                    ))}
-                </Row>
-                <Row>
-                    <Col lg={12}>
-                        <SectionBottom>
-                            <Heading {...headingStyle}>Challenges are just opportunities in disguise. <Anchor {...linkStyle} path="/">Take the challenge!</Anchor></Heading>
-                        </SectionBottom>
-                    </Col>
+                    {featureData.map((feature, i) =>  {
+                        let customPath;
+                        if(feature.node.id === "service-5"){
+                            customPath = `/training`;
+                        }
+                        else if(feature.node.id === "service-4"){
+                            customPath = `/call-center`;
+                        }
+                        else if(feature.node.id === "service-7"){
+                            customPath = `/clipping-path`;
+                        }
+                        else{
+                            customPath = `/service/${feature.node.fields.slug}`;
+                        }
+                        return (
+                                <Col lg={4} md={6} className="box-item" key={feature.node.id}>
+                                <FeatureBox
+                                    title={feature.node.title}
+                                    imageSrc={feature.node.icon.img.childImageSharp}
+                                    desc={feature.node.excerpt}
+                                    path={customPath}
+                                />
+                            </Col>
+                        )
+                    })}
                 </Row>
             </Container>
         </SectionWrap>

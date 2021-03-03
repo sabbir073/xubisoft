@@ -73,17 +73,10 @@ const ServiceTemplate = ({ data, location, ...restProps }) => {
                     <IntroArea>
                         <Container>
                             <Row>
-                                <Col lg={4}>
-                                   <Heading {...leftHeading}>{pageData.introTitle}<span> {pageData.coloredTitle}</span></Heading>
+                                <Col lg={12}>
+                                <Heading {...leftHeading}>{pageData.introTitle}<span> {pageData.coloredTitle}</span></Heading>
                                 </Col>
-                                {pageData.introText && (
-                                    <Col lg={{ span: 7, offset: 1 }}>
-                                        <Box>
-                                            {pageData.introText.heading && <Heading {...rightHeading}>{parse(pageData.introText.heading)}</Heading>}
-                                            {pageData.introText.text && <Text {...rightText}>{parse(pageData.introText.text)}</Text>}
-                                        </Box>
-                                    </Col>
-                                )}
+                                
                             </Row>
                         </Container>
                     </IntroArea>
@@ -156,7 +149,7 @@ const ServiceTemplate = ({ data, location, ...restProps }) => {
                         </Container>
                     </FeatureArea>
                 )}
-                <CTA />
+                
             </main>
             <ModalVideo
                 channel='youtube'

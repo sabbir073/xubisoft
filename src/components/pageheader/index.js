@@ -23,7 +23,7 @@ const PageHeader = ({pageContext, location, title}) => {
     const labelArr = label.split('-');
     const imageData = useStaticQuery(graphql `
         query breadCrumbImgQuery {
-            file(relativePath: {eq: "images/bg/title-bar-01-bg.jpg"}) {
+            file(relativePath: {eq: "images/bg/servicebg.jpg"}) {
                 childImageSharp {
                     fluid(maxWidth: 1920, maxHeight: 400, quality: 100) {
                         ...GatsbyImageSharpFluid
