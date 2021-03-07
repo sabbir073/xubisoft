@@ -9,63 +9,63 @@
         "img_hover": "../../images/icons/icon-01-hover-100x98.png"
     },
     "is_featured": true,
-    "banner_image": "../../images/banner/banner-07.jpg",
-    "introTitle": "Learn More About Our",
-    "coloredTitle": "success stories",
+    "banner_image": "../../images/banner/mobileapp.jpg",
+    "introTitle": "We create mobile app",
+    "coloredTitle": "That fit your demand!",
     "introText": {
-        "heading": "Mitech specializes in <span>technological and IT-related services</span> such as product engineering, warranty management, building cloud, infrastructure, network, etc.",
+        "heading": "We create <span>Mobile App</span> with modern coding technology that fit your demand!",
         "text": "We’re available for 8 hours a day! <br/>Contact to require a detailed analysis and assessment of your plan."
     },
     "faq": [{
             "id": "highly-service-faq-1",
-            "title": "New multiple site connectivity",
-            "desc": "We use a newly developed technology to connect sites that are based on different types of servers and networks, SiteConnect, which helps to reduce the misinterpretation of signals as well as the loss of data during transfering."
+            "title": "Mobile app consultancy and design",
+            "desc": "We provide professional mobile consulting and business analysis to analyze your needs and elicit requirements, Our mobile UI/UX design specialists create a conversion-driven mobile user experience that makes for high conversion and user retention."
         },
         {
             "id": "highly-service-faq-2",
-            "title": "IT Security & Software",
-            "desc": "To keep your systems, your devices, and network stay secure, we have developed a new program that limits the access of suspicious objects or people and authenticate all logins to the system."
+            "title": "Mobile App Development",
+            "desc": "We offer native mobile development for iOS, Android and cross-platform/hybrid development on Cordova/PhoneGap, Xamarin, and React Native. Our business analysts help you decide on the platforms to target and choose a suitable development framework."
         },
         {
             "id": "highly-service-faq-3",
-            "title": "Weak hosted capability",
-            "desc": "Some hosts are unaware of the potential risks as well as security loopholes in their system. By detecting these errors and taking prompt actions on improving firewalls, we can upgrade the system security."
+            "title": "Mobile App QA and Support",
+            "desc": "Our 4 mobile testing experts perform all types of mobile testing and debugging to ensure the high quality of your mobile solution."
         },
         {
             "id": "highly-service-faq-4",
-            "title": "Build internal network",
-            "desc": "The internal network is essential for all companies and corporations, especially for those working in IT sector. To avoid possible risks when sharing internal confidential files and documentation to an external receiver, internal network must be strong."
+            "title": "Mobile App Evolution",
+            "desc": "Xubisoft is always willing to help your app grow by fine-tuning it, expanding its functionality according to your roadmap, and introducing cutting-edge mobile experiences to keep your users continuously engaged."
         }
     ],
     "video": {
-        "preview_image": "../../images/about-us/video-01-image-01-570x350.jpg",
+        "preview_image": "../../images/about-us/mobileapp.jpg",
         "video_link": "https://www.youtube.com/watch?v=9No-FiEInLA"
     },
     "features": {
         "title": "Prominent IT Security Services",
         "items": [{
                 "id": "highly-professional-features-1",
-                "icon": "../../images/icons/icon-07-60x60.png",
-                "title": "Mitech Management Systems",
-                "desc": "Our service offerings enhance customer experience throughout secure & highly functional end-to-end warranty management."
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Website to mobile app convertion",
+                "desc": "We convert any kind of website to mobile app to exaust your business"
             },
             {
                 "id": "highly-professional-features-2",
                 "icon": "../../images/icons/icon-08-60x60.png",
-                "title": "Reliable Multi-function Technology",
-                "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
+                "title": "Business mobile app",
+                "desc": "Management app, Tracking app, Helpdesk app, Ecommerce app, School/collage/university app, POS app, HRM/CRM app etc"
             },
             {
                 "id": "highly-professional-features-3",
-                "icon": "../../images/icons/icon-09-60x60.png",
-                "title": "Highly Professional Staffs",
-                "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Social mobile app",
+                "desc": "Newspaper app, timeline app, Matrimonial/Dating app, Tourism app, Personal app etc"
             },
             {
                 "id": "highly-professional-features-4",
-                "icon": "../../images/icons/icon-10-60x60.png",
-                "title": "Infrastructure Integration Technology",
-                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Dymanic app with backend",
+                "desc": "We can create any kind of app with a web backend. App could be run with the same data of website and a backend."
             }
         ]
     }
