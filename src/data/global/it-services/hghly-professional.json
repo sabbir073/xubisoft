@@ -1,7 +1,7 @@
 {
     "id": "service-9",
     "title": "IT CONSULTANCY",
-    "tagline": "Reach out to the world’s most reliable IT services.",
+    "tagline": "Xubisoft is here to grow your business by consultacny. Our experts will resolve your business needs.",
     "excerpt": "Xubisoft is here to grow your business by consultacny. Our experts will resolve your business needs.",
     "image": "../../images/box-image/image-06-480x298.jpg",
     "icon": {
@@ -11,63 +11,63 @@
         "img_hover": "../../images/icons/icon-06-hover-100x98.png"
     },
     "is_featured": false,
-    "banner_image": "../../images/banner/banner-04.jpg",
-    "introTitle": "Learn More About Our",
-    "coloredTitle": "success stories",
+    "banner_image": "../../images/banner/itconsultancy.jpg",
+    "introTitle": "The Best",
+    "coloredTitle": "Information Technology Consulting",
     "introText": {
         "heading": "Mitech specializes in <span>technological and IT-related services</span> such as product engineering, warranty management, building cloud, infrastructure, network, etc.",
         "text": "We’re available for 8 hours a day! <br/>Contact to require a detailed analysis and assessment of your plan."
     },
     "faq": [{
             "id": "highly-service-faq-1",
-            "title": "New multiple site connectivity",
-            "desc": "We use a newly developed technology to connect sites that are based on different types of servers and networks, SiteConnect, which helps to reduce the misinterpretation of signals as well as the loss of data during transfering."
+            "title": "Business digitalization consulting",
+            "desc": "Our service offerings enhance customer experience throughout secure & highly functional end-to-end warranty management."
         },
         {
             "id": "highly-service-faq-2",
-            "title": "IT Security & Software",
-            "desc": "To keep your systems, your devices, and network stay secure, we have developed a new program that limits the access of suspicious objects or people and authenticate all logins to the system."
+            "title": "IT strategy consulting",
+            "desc": "We create a strategy that would bring together a diversified IT landscape and make it work towards supporting existing business processes and driving new business initiatives."
         },
         {
             "id": "highly-service-faq-3",
-            "title": "Weak hosted capability",
-            "desc": "Some hosts are unaware of the potential risks as well as security loopholes in their system. By detecting these errors and taking prompt actions on improving firewalls, we can upgrade the system security."
+            "title": "IT Solution consulting",
+            "desc": "We analyze your business needs and help you make strategic decisions on the fast and successful implementation of business-critical solutions."
         },
         {
             "id": "highly-service-faq-4",
-            "title": "Build internal network",
-            "desc": "The internal network is essential for all companies and corporations, especially for those working in IT sector. To avoid possible risks when sharing internal confidential files and documentation to an external receiver, internal network must be strong."
+            "title": "Technology consulting",
+            "desc": "We analyze the existing state of the technology area of your interest and assist in its steady evolution to make it play a more prominent role in your business growth."
         }
     ],
     "video": {
-        "preview_image": "../../images/about-us/video-01-image-01-570x350.jpg",
+        "preview_image": "../../images/about-us/itconsultacy.jpg",
         "video_link": "https://www.youtube.com/watch?v=9No-FiEInLA"
     },
     "features": {
-        "title": "Prominent IT Security Services",
+        "title": "Benefits of IT consulting with us",
         "items": [{
                 "id": "highly-professional-features-1",
-                "icon": "../../images/icons/icon-07-60x60.png",
-                "title": "Mitech Management Systems",
-                "desc": "Our service offerings enhance customer experience throughout secure & highly functional end-to-end warranty management."
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "More than just consultants",
+                "desc": "Xubisoft is a full-service IT company with 30+ employees on board. We can combine IT consulting with end-to-end IT services: implementation, support, managed services."
             },
             {
                 "id": "highly-professional-features-2",
                 "icon": "../../images/icons/icon-08-60x60.png",
-                "title": "Reliable Multi-function Technology",
-                "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
+                "title": "Fast service results",
+                "desc": "We advocate incremental and steady changes to help you get the first positive outcomes within 2-6 months and continue increasing them further."
             },
             {
                 "id": "highly-professional-features-3",
-                "icon": "../../images/icons/icon-09-60x60.png",
-                "title": "Highly Professional Staffs",
-                "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Cost-effective IT optimization",
+                "desc": "We apply our 10-year experience in information technology to achieve substantial results for your business at a reasonable budget."
             },
             {
                 "id": "highly-professional-features-4",
-                "icon": "../../images/icons/icon-10-60x60.png",
-                "title": "Infrastructure Integration Technology",
-                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "KPI-measured IT effectiveness",
+                "desc": "We define target KPIs together with you and build our consulting services around these targets. KPIs may be of 2 types: Business KPIs, IT KPIs."
             }
         ]
     }

@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'gatsby'
 import { useStaticQuery, graphql } from 'gatsby'
 import { Container, Row, Col } from '../../../components/ui/wrapper'
 import SectionTitle from '../../../components/ui/section-title'
@@ -17,6 +18,7 @@ const JobsArea = () => {
                     title
                     type
                     description
+                    url
                 }
             }
         }      
@@ -44,11 +46,11 @@ const JobsArea = () => {
                                                 <JobType>{job.type}</JobType>
                                             </Col>
                                             <Col lg={6}>
-                                                <JobDesc>{job.description}</JobDesc>
+                                                <JobDesc style={{ "text-align":"justify" }}>{job.description}</JobDesc>
                                             </Col>
                                             <Col lg={3}>
                                                 <JobButton>
-                                                    <Button varient="outlined" bordercolor="#ddd">Get Started</Button>
+                                                    <Button to={job.url} varient="outlined" bordercolor="#ddd">Details</Button>
                                                 </JobButton>
                                             </Col>
                                         </Row>

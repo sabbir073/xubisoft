@@ -1,36 +1,16 @@
-[
-    {
+[{
         "id": "careers-section-intro",
         "title": "Become a part of our big family to inspire and get inspired by <span>professional experts.</span>"
     },
     {
         "id": "our-open-jobs",
-        "jobs": [
-            {
-                "id": "job-1",
-                "title": "IT Operations Specialist",
-                "type": "Full time",
-                "description": "We are currently seeking a highly motivated individual to fill an I.T. This position will provide remote and onsite hands-on support to staff, vendors, and customers as well as, proactively identify issues."
-            },
-            {
-                "id": "job-2",
-                "title": "IT Desktop Support",
-                "type": "Part time",
-                "description": "The Mitech IT team believes in full transparency, being flexible, reliable and being great team players. We are problem solvers, always ready to help and support each other and the organization."
-            },
-            {
-                "id": "job-3",
-                "title": "IT Summer Intern",
-                "type": "Internship",
-                "description": "Mitech is looking for a summer intern to work in the Information & Technology Services area. This position is part of a team which supports Microsoft Server Operating Systems, storage systems, and Client device technologies."
-            },
-            {
-                "id": "job-4",
-                "title": "Software Engineer",
-                "type": "Remote",
-                "description": "In partnership with others on the team, you will create enhancements and/or new services and solutions based data acquisition and analytics. You will analyze, design, program, debug and modify software interface for our system."
-            }
-        ]
+        "jobs": [{
+            "id": "job-1",
+            "title": "Telemarketing Executive (Night Shift)",
+            "type": "Vacancy: 07, Type: Fulltime",
+            "description": "1. Candidates have to make outbound calls to the US to sell our products or services 2. Generate new sales or subscriptions to the different services offered 3. Ask questions to understand customer requirements and close sales 4. Required Agent will have to work NIGHT SHIFT (8:15 PM-5: 15 AM) from office 5. Excellent track records on MCA Live Transfer, and Appointment setting 6. HSC, O Level, A-Level, Bachelor degree in any discipline  7. Performance bonus, Weekly 2 holidays 8. Salary Review: First Half Yearly then Every Year 9. Festival Bonus: 2 (Yearly) 10. Attendance Bonus 11. Transportation Allowance after 6 months of employment 12. Free Dinner for Night Shift after 3 months of employment. We suggest every Applicant who are currently looking for an opportunity in International Call Center Industry can aplly, we will review the request and send it to the right Room, and your expected Employer will Contact you.",
+            "url": "http://facebook.com/xubisoft"
+        }]
     },
     {
         "id": "our-office-views",

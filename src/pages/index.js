@@ -15,7 +15,7 @@ import ContactArea from '../containers/index-appointment/contact-area'
  
 const IndexPage = ({location}) => (
   <Layout location={location}>
-    <SEO title="Appointment"/>
+    <SEO title="Home"/>
     <Header/>
     <main className="site-wrapper-reveal">
       <HeroArea/>

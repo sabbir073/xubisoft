@@ -9,63 +9,63 @@
         "img_hover": "../../images/icons/icon-01-hover-100x98.png"
     },
     "is_featured": true,
-    "banner_image": "../../images/banner/banner-01.jpg",
-    "introTitle": "Learn More About Our",
-    "coloredTitle": "success stories",
+    "banner_image": "../../images/banner/needassesment.jpg",
+    "introTitle": "How we can help you to",
+    "coloredTitle": "Grow bigger!",
     "introText": {
         "heading": "Mitech specializes in <span>technological and IT-related services</span> such as product engineering, warranty management, building cloud, infrastructure, network, etc.",
         "text": "We’re available for 8 hours a day! <br/>Contact to require a detailed analysis and assessment of your plan."
     },
     "faq": [{
             "id": "highly-service-faq-1",
-            "title": "New multiple site connectivity",
-            "desc": "We use a newly developed technology to connect sites that are based on different types of servers and networks, SiteConnect, which helps to reduce the misinterpretation of signals as well as the loss of data during transfering."
+            "title": "Identify & analysis",
+            "desc": "Identify gaps in the organization that will affect the execution of your organizations strategy and discover what steps you need to take to create a high-performance organization."
         },
         {
             "id": "highly-service-faq-2",
-            "title": "IT Security & Software",
-            "desc": "To keep your systems, your devices, and network stay secure, we have developed a new program that limits the access of suspicious objects or people and authenticate all logins to the system."
+            "title": "Root assesment",
+            "desc": "Discover the root cause of turnover and how to improve engagement, retention, and commitment of employees. Pinpoint your organizations competitive advantage and ways to leverage it."
         },
         {
             "id": "highly-service-faq-3",
-            "title": "Weak hosted capability",
-            "desc": "Some hosts are unaware of the potential risks as well as security loopholes in their system. By detecting these errors and taking prompt actions on improving firewalls, we can upgrade the system security."
+            "title": "Direction to turnover",
+            "desc": "Provide clear direction for your talent development and educational curriculum. Identify functions and activities that need organization development interventions."
         },
         {
             "id": "highly-service-faq-4",
-            "title": "Build internal network",
-            "desc": "The internal network is essential for all companies and corporations, especially for those working in IT sector. To avoid possible risks when sharing internal confidential files and documentation to an external receiver, internal network must be strong."
+            "title": "Better change",
+            "desc": "Enhance your understanding about the beliefs, attitudes, and perceptions that affect your business, giving you new insight about the way your organization functions. Recognize and identify problem areas and weakness that are inhibiting the creativity, energy, and commitment of your people and your organization’s ability to stay competitive."
         }
     ],
     "video": {
-        "preview_image": "../../images/about-us/video-01-image-01-570x350.jpg",
+        "preview_image": "../../images/about-us/needassessment.jpg",
         "video_link": "https://www.youtube.com/watch?v=9No-FiEInLA"
     },
     "features": {
-        "title": "Prominent IT Security Services",
+        "title": "The Assessment Process",
         "items": [{
                 "id": "highly-professional-features-1",
-                "icon": "../../images/icons/icon-07-60x60.png",
-                "title": "Mitech Management Systems",
-                "desc": "Our service offerings enhance customer experience throughout secure & highly functional end-to-end warranty management."
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Consultancy and explore",
+                "desc": "Consultation to explore the organizations needs and determine if an organizational and culture assessment is right for you"
             },
             {
                 "id": "highly-professional-features-2",
                 "icon": "../../images/icons/icon-08-60x60.png",
-                "title": "Reliable Multi-function Technology",
-                "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
+                "title": "Construction and gathering data",
+                "desc": "Construct a tailored approach to the circumstance and desired outcomes. also, gather information and collect data for processing"
             },
             {
                 "id": "highly-professional-features-3",
-                "icon": "../../images/icons/icon-09-60x60.png",
-                "title": "Highly Professional Staffs",
-                "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Conduction and processing",
+                "desc": "Conduct statistical processing, diagnose and interpret results with a complete summary and detailed report."
             },
             {
                 "id": "highly-professional-features-4",
-                "icon": "../../images/icons/icon-10-60x60.png",
-                "title": "Infrastructure Integration Technology",
-                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Reports and follow up",
+                "desc": "Provide on-site review, give recommendations and suggestions, Offer support through problem-solving skills and follow up."
             }
         ]
     }

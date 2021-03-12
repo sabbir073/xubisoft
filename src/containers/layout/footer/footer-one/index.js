@@ -85,7 +85,7 @@ const Footer = ({ copyrightStyle, ...props }) => {
                                 <Heading as="h6" mt="-3px" mb="20px" style={{color:'#13CCFD'}}>QUICK LINKS</Heading>
                                 <FooterWidgetList>
                                     <li><Anchor path="/about-us" color="#ABABAB" hoverstyle="2">About Us</Anchor></li>
-                                    <li><Anchor path="/it-services" color="#ABABAB" hoverstyle="2">Our Products</Anchor></li>
+                                    <li><Anchor path="/products" color="#ABABAB" hoverstyle="2">Our Products</Anchor></li>
                                     <li><Anchor path="/service/it-consultancy" color="#ABABAB" hoverstyle="2">IT Consultancy</Anchor></li>
                                     <li><Anchor path="/training" color="#ABABAB" hoverstyle="2">Trainings</Anchor></li>
                                     <li><Anchor path="/careers" color="#ABABAB" hoverstyle="2">Career</Anchor></li>

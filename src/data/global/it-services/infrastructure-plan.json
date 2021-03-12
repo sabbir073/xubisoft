@@ -9,63 +9,63 @@
         "img_hover": "../../images/icons/icon-06-hover-100x98.png"
     },
     "is_featured": true,
-    "banner_image": "../../images/banner/banner-06.jpg",
-    "introTitle": "Learn More About Our",
-    "coloredTitle": "success stories",
+    "banner_image": "../../images/banner/websitedev.jpg",
+    "introTitle": "We do full stack",
+    "coloredTitle": "Web development!",
     "introText": {
         "heading": "Mitech specializes in <span>technological and IT-related services</span> such as product engineering, warranty management, building cloud, infrastructure, network, etc.",
         "text": "We’re available for 8 hours a day! <br/>Contact to require a detailed analysis and assessment of your plan."
     },
     "faq": [{
             "id": "highly-service-faq-1",
-            "title": "New multiple site connectivity",
-            "desc": "We use a newly developed technology to connect sites that are based on different types of servers and networks, SiteConnect, which helps to reduce the misinterpretation of signals as well as the loss of data during transfering."
+            "title": "Any kind of cms and frameworks",
+            "desc": "We do web development on your demand. we have experience with any kind cms and frameworks like wordpress, codeigniter, laravel, Yii2, nodejs, reactjs, Django etc"
         },
         {
             "id": "highly-service-faq-2",
-            "title": "IT Security & Software",
-            "desc": "To keep your systems, your devices, and network stay secure, we have developed a new program that limits the access of suspicious objects or people and authenticate all logins to the system."
+            "title": "Realiable and managed websites",
+            "desc": "We create static and dynamic website for you where you won't need to do anything. All will be managed by our experts. You will get a dashboard too with dynamic websites where you can manage website by yourself."
         },
         {
             "id": "highly-service-faq-3",
-            "title": "Weak hosted capability",
-            "desc": "Some hosts are unaware of the potential risks as well as security loopholes in their system. By detecting these errors and taking prompt actions on improving firewalls, we can upgrade the system security."
+            "title": "Security and vulnerability Proved",
+            "desc": "All our works is tested by experienced QA engineer multiple times, so you never going to face any security issue. We look after every website we made before."
         },
         {
             "id": "highly-service-faq-4",
-            "title": "Build internal network",
-            "desc": "The internal network is essential for all companies and corporations, especially for those working in IT sector. To avoid possible risks when sharing internal confidential files and documentation to an external receiver, internal network must be strong."
+            "title": "Classic and modern websites",
+            "desc": "We make custom website that will be classic or modern design based on your demand. We have readymade website, custom made website, and rebuilding service too."
         }
     ],
     "video": {
-        "preview_image": "../../images/about-us/video-01-image-01-570x350.jpg",
+        "preview_image": "../../images/about-us/webdev.jpg",
         "video_link": "https://www.youtube.com/watch?v=9No-FiEInLA"
     },
     "features": {
-        "title": "Prominent IT Security Services",
+        "title": "Types of website development services",
         "items": [{
                 "id": "highly-professional-features-1",
-                "icon": "../../images/icons/icon-07-60x60.png",
-                "title": "Mitech Management Systems",
-                "desc": "Our service offerings enhance customer experience throughout secure & highly functional end-to-end warranty management."
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Business websites",
+                "desc": "Company, tourism, ecommerce, online business, school-collage-university, hospital-clinic, online booking websites etc."
             },
             {
                 "id": "highly-professional-features-2",
                 "icon": "../../images/icons/icon-08-60x60.png",
-                "title": "Reliable Multi-function Technology",
-                "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
+                "title": "Media websites",
+                "desc": "Newspaper, e-paper, online radio, online TV, IPTV, job portal, matrimonial and any kind of online media websites."
             },
             {
                 "id": "highly-professional-features-3",
-                "icon": "../../images/icons/icon-09-60x60.png",
-                "title": "Highly Professional Staffs",
-                "desc": "Develop and propose product improvements through periodical and accurate testing, repairing & refining every version."
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Personal websites",
+                "desc": "Personal portfolio, personal profile, biodata, personal file server, appointment and any kind of personal websites."
             },
             {
                 "id": "highly-professional-features-4",
-                "icon": "../../images/icons/icon-10-60x60.png",
-                "title": "Infrastructure Integration Technology",
-                "desc": "At Mitech, we have a holistic and integrated approach towards core modernization to experience technological evolution."
+                "icon": "../../images/icons/icon-08-60x60.png",
+                "title": "Others custom website",
+                "desc": "Network restricted website, server website, domain hosting selling website, and any kind of custom website we can make."
             }
         ]
     }
