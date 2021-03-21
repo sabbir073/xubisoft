@@ -28,6 +28,7 @@ export const PageHeaderWrap = styled(BackgroundImage) `
         text-transform: uppercase;
         background-color: transparent;
         &__link{
+            color: ${props => props.theme.colors.white};
             position: relative;
             &:after{
                 content: '';
@@ -50,7 +51,7 @@ export const PageHeaderWrap = styled(BackgroundImage) `
                 }
             }
             &__active{
-                color: #6D70A6;
+                color: ${props => props.theme.colors.white};
                 &:after{
                     display: none;
                 }
@@ -59,7 +60,7 @@ export const PageHeaderWrap = styled(BackgroundImage) `
         &__title{
             font-size: 56px;
             font-weight: 700;
-            color: ${props => props.theme.colors.themeColor};
+            color: ${props => props.theme.colors.white};
             display: block;
             margin-bottom: 20px;
             @media ${device.large}{

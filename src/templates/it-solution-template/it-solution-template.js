@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import parse from 'html-react-parser'
+import { MdDone } from "react-icons/md";
 import SEO from "../../components/seo"
 import Layout from '../../containers/layout/layout'
 import Header from '../../containers/layout/header/header-two'
@@ -13,7 +14,9 @@ import Image from '../../components/image'
 import VideoButton from '../../components/ui/video-button'
 import ModalVideo from '../../components/ui/modal-video'
 import BoxIcon from '../../components/box-icon/layout-three'
+import BoxIcon2 from '../../components/box-icon/layout-four'
 import CTA from '../../containers/global/cta-area/section-one'
+import {SolutionsWrapper, SolutionBox, SolutionBoxItem} from './solutions-area.style'
 import {
     Accordion,
     AccordionItem,
@@ -94,41 +97,36 @@ const ServiceTemplate = ({ data, location, ...restProps }) => {
                     </IntroArea>
                 )}
                 {(pageData.faq) && (
-                    <FaqArea>
-                        <Container>
-                            <Row>
-                                <Col col="12">
-                                    <Heading {...featureTitle}>{pageData.excerpt}</Heading>
-                                </Col>
-                            </Row>
-                            <Row>
-                                {pageData.faq && (
-                                    <Col lg={12} pr="3rem">
-                                        <AccordionWrap layout="two">
-                                            <Accordion allowZeroExpanded preExpanded={[pageData.faq[0].id]}>
-                                                {
-                                                    pageData.faq.map((el, index) => {
-                                                        return (
-                                                            <AccordionItem id={el.id} key={el.id}>
-                                                                <AccordionItemHeading>
-                                                                    <AccordionItemButton>
-                                                                        {el.title}
-                                                                    </AccordionItemButton>
-                                                                </AccordionItemHeading>
-                                                                <AccordionItemPanel>
-                                                                    <p>{el.desc}</p>
-                                                                </AccordionItemPanel>
-                                                            </AccordionItem>
-                                                        )
-                                                    })
-                                                }
-                                            </Accordion>
-                                        </AccordionWrap>
-                                    </Col>
-                                )}
-                            </Row>
-                        </Container>
-                    </FaqArea>
+                    <div>
+                    
+
+                    <SolutionsWrapper>
+                    <Container>
+                        <Row>
+                            <Col lg={12}>
+                            <Heading {...featureTitle}>{pageData.excerpt}</Heading>
+                            </Col>
+                        </Row>
+                        <Row>
+                            <Col lg={12}>
+                                <SolutionBox>
+                                    {pageData.faq && pageData.faq.map(solution => (
+                                        <SolutionBoxItem key={solution.id}>
+                                            <BoxIcon2 
+                                                style={{ "text-align":"justify" }}
+                                                icon={<MdDone/>}
+                                                title={solution.title}
+                                                desc={solution.desc}
+                                            />
+                                        </SolutionBoxItem>
+                                    ))}
+                                </SolutionBox>
+                            </Col>
+                        </Row>
+                    </Container>
+                    </SolutionsWrapper>
+                    </div>
+
                 )}
                 {pageData.features && (
                     <FeatureArea>
