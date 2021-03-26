@@ -39,7 +39,7 @@ const OurServices = ({serviceBoxStyle}) => {
             <Row>
                 {servicesData.map((service, i) => {
                      let customPath;
-                     if(service.node.id === "quality-assurance-service"){
+                     if(service.node.id === "service-7"){
                          customPath = `/clipping-path`;
                      }
                      else{

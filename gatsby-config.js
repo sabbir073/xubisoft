@@ -191,21 +191,18 @@ module.exports = {
       options: {
         precachePages: [
           `/about-us/`,
-          `/case-studies/`,
+          `/why-choose-us/`,
+          `/our-history/`,
+          `/faq/`,
+          `/careers/`,
           `/contact-us/`,
-          `/index-appointment/`,
-          `/index-infotechno/`,
-          `/index-processing/`,
-          `/index-resolutions/`,
-          `/index-services/`,
-          `/it-services/`,
-          `/products/`,
-          `/leadership/`,
-          `/it-service/*`,
+          `/products/*`,
+          `/call-center/`,
           `/training/*`,
-          `/case-study/*`,
-          `/case-study/*`,
-          `/blogs/*`
+          `/case-studies/`,
+          `/it-services/`,
+          `/leadership/`,
+          `/service/*`
         ]
       }
     }
