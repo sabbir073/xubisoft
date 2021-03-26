@@ -3,13 +3,13 @@
 module.exports = {
   pathPrefix: `/`,
   siteMetadata: {
-    title: "| We believe in quality",
+    title: "We believe in quality",
     titleTemplate: `Xubisoft Ltd.`,
-    description: `Mitech is a Powerful & flexible Technology And Digital Software Gatsby Template. 06 Stunning Homepages are included in this template. You can use any template or mix content from different home pages for your website.`,
+    description: `Xuisoft is a fast growing software company in Bangladesh, We work worldwide. Softwares, mobile apps, Websites, servers, IT trainings etc are our main focused work, We already got approved by government to run their training projects, Our main strenght is ous honesty in work.`,
     author: `@XUBISOFT`,
     twitterUsername: `@xubisoft`,
     image: 'landing.png',
-    siteUrl: 'http://localhost:9000',
+    siteUrl: 'https://xubisoft.com',
     getform: "https://getform.io/f/2e0d9d07-d062-48a4-b64d-2418d0792119",
     copyright: "Xubisoft Ltd. <a href='https://xubisoft.com/' target='_blank' rel='noopener noreferrer'>All Rights Reserved.</a>",
     social: {
@@ -181,8 +181,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
-        host: 'http://themesmummy.com/mitech',
-        sitemap: 'http://themesmummy.com/mitech/sitemap.xml',
+        host: 'https://xubisoft.com',
+        sitemap: 'https://xubisoft.com/sitemap.xml',
         policy: [{ userAgent: '*', allow: '/' }]
       }
     },

@@ -1,13 +1,13 @@
 {
     "id": "healsoul-technology-health",
-    "title": "Healsoul – Technology & Health",
-    "category": "Cyber Security",
-    "excerpt": "This case study focuses on how Bryant Homes has used information technology. It shows how using both an Intranet and the Internet together with interactive multimedia, places Bryant …",
+    "title": "e-Health management system",
+    "category": "Software",
+    "excerpt": "Best hospital and clinic management system",
     "tagline": "Using IT techniques to energize sales and marketing",
     "logo": "../../images/icons/case-study-04-logo-83x108.png",
-    "image": "../../images/box-image/case-study-06-featured.jpg",
+    "image": "../../images/box-image/portfolio-4.jpg",
     "slide_image": "../../images/box-image/case-study-slide-image-02.png",
-    "is_featured": false,
+    "is_featured": true,
     "banner_image": "../../images/banner/banner-06.jpg",
     "overview": {
         "heading": "Inventions, literary works, music & design are all intangible assets. The legal right to these ‘creations of the mind’ is Intellectual Property (IP).",

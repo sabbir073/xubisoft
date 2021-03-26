@@ -9,20 +9,10 @@ import Footer from '../../containers/layout/footer/footer-one'
 import { Container, Box, Row, Col } from '../../components/ui/wrapper'
 import Heading from '../../components/ui/heading'
 import Text from '../../components/ui/text'
-import Image from '../../components/image'
-import VideoButton from '../../components/ui/video-button'
 import ModalVideo from '../../components/ui/modal-video'
 import BoxIcon from '../../components/box-icon/layout-three'
 import CTA from '../../containers/global/cta-area/section-one'
-import {
-    Accordion,
-    AccordionItem,
-    AccordionItemHeading,
-    AccordionItemButton,
-    AccordionItemPanel,
-} from 'react-accessible-accordion';
-import AccordionWrap from '../../components/ui/accordion'
-import { BannerArea, BannerTextWrap, IntroArea, FaqArea, VideoBoxWrap, VideoBtnWrap, FeatureArea } from './training-template.style'
+import { BannerArea, BannerTextWrap, IntroArea, FeatureArea } from './training-template.style'
 
 const TrainingTemplate = ({ data, location, ...restProps }) => {
     const pageData = data.trainingJson;
@@ -43,9 +33,6 @@ const TrainingTemplate = ({ data, location, ...restProps }) => {
         var { video_link } = pageData.video;
         var video_arr = video_link.split('=', -1);
         var video_id = video_arr[1];
-    }
-    const modalVideoOpen = () => {
-        setVideoOpen(true)
     }
 
     const modalVideoClose = () => {

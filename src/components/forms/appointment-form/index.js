@@ -7,7 +7,7 @@ import Button from '../../ui/button'
 
 const AppointmentForm = () => {
     const formUrl = useFormUrl();
-    const { register, handleSubmit, errors, reset } = useForm({
+    const { register, handleSubmit, errors } = useForm({
         mode: "onBlur"
     })
     const [serverState, setServerState] = useState({

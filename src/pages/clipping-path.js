@@ -5,7 +5,6 @@ import Header from '../containers/layout/header/header-two'
 import Footer from '../containers/layout/footer/footer-one'
 import PageHeader from '../components/pageheader'
 import ServicesArea from '../containers/clipping-path/services-area'
-import ContactArea from '../containers/global/contact-area/contact-three'
 import PricingBoxTwo from '../containers/elements/pricing-table/section-two'
 
 const ITServicePage = ({ pageContext, location }) => (

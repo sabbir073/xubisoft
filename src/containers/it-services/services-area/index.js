@@ -1,12 +1,10 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { useStaticQuery, graphql } from "gatsby"
-import Heading from '../../../components/ui/heading'
-import Anchor from '../../../components/ui/anchor'
 import {Container, Row, Col} from '../../../components/ui/wrapper'
 import SectionTitle from '../../../components/ui/section-title'
 import FeatureBox from '../../../components/box-image/layout-two'
-import {SectionWrap, SectionBottom} from './services-area.style'
+import {SectionWrap} from './services-area.style'
 
 const ServicesArea = (props) => {
     const featuredDataQuery = useStaticQuery(graphql `
@@ -35,7 +33,6 @@ const ServicesArea = (props) => {
         }
     `); 
     const featureData = featuredDataQuery.allItServicesJson.edges;
-    const {linkStyle, headingStyle} = props;
     return (
         <SectionWrap>
             <Container>

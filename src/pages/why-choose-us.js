@@ -6,8 +6,6 @@ import Footer from '../containers/layout/footer/footer-one'
 import PageHeader from '../components/whychooseheader'
 import SkillArea from '../containers/why-choose-us/our-skills'
 import SolutionsArea from '../containers/about-us/why-choose-us'
-import ServicesArea from '../containers/why-choose-us/services-area'
-import ContactArea from '../containers/global/contact-area/contact-two'
 
 const WhyChooseUsPage = ({ pageContext, location }) => (
   <Layout location={location}>

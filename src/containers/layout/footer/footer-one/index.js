@@ -14,6 +14,7 @@ import Text from '../../../../components/ui/text'
 import Anchor from '../../../../components/ui/anchor'
 import Button from '../../../../components/ui/button'
 import Heading from '../../../../components/ui/heading'
+import CustomerChat from '../../../../components/facebook-chat'
 import Social, { SocialLink } from '../../../../components/ui/social'
 import {
     FooterWrap,
@@ -47,7 +48,7 @@ const Footer = ({ copyrightStyle, ...props }) => {
             }
         }      
     `)
-    const { phone, email, address, website } = siteInfo.site.siteMetadata.contact;
+    const { phone, email, address } = siteInfo.site.siteMetadata.contact;
     const { copyright } = siteInfo.site.siteMetadata;
     const { facebook, twitter, instagram, linkedin } = siteInfo.site.siteMetadata.social;
     return (
@@ -58,12 +59,12 @@ const Footer = ({ copyrightStyle, ...props }) => {
                         <Col lg={4} sm={6}>
                             <FooterWidget responsive={{ medium: { mb: '31px' } }}>
                                 <LogoWidget>
-                                    <img style={{"margin-left": "5px"}} src={Logo} alt="Logo" />
+                                    <img style={{marginLeft : 5}} src={Logo} alt="Logo" />
                                 </LogoWidget>
                                 <TextWidget>
-                                    {address && <Text mb="10px"><Anchor style={{color:'#ABABAB', 'cursor': 'text'}} path={'https://www.google.com/maps/place/Xubisoft+Ltd./@23.8586572,90.3984257,15z/data=!4m5!3m4!1s0x0:0xd02f082dce6d913!8m2!3d23.8593506!4d90.4027256'}><MdPlace className="icon" style={{ color: '#13CCFD', 'margin-right': '5px' }}/>{address}</Anchor></Text>}
-                                    {email && <Text mb="10px"><Anchor style={{color:'#ABABAB'}} path={`mailto:${email}`} hoverstyle="2"><MdMailOutline className="icon" style={{ color: '#13CCFD', 'margin-right': '5px' }}/>{email}</Anchor></Text>}
-                                    {phone && <Text mb="10px"><Anchor style={{color:'#ABABAB'}} path={`tel:${phone}`} hoverstyle="2"><MdPhone className="icon" style={{ color: '#13CCFD', 'margin-right': '5px' }}/>{phone}</Anchor></Text>}
+                                    {address && <Text mb="10px"><Anchor style={{color:'#ABABAB', 'cursor': 'text'}} path={'https://www.google.com/maps/place/Xubisoft+Ltd./@23.8586572,90.3984257,15z/data=!4m5!3m4!1s0x0:0xd02f082dce6d913!8m2!3d23.8593506!4d90.4027256'}><MdPlace className="icon" style={{ color: '#13CCFD', marginRight : 5 }}/>{address}</Anchor></Text>}
+                                    {email && <Text mb="10px"><Anchor style={{color:'#ABABAB'}} path={`mailto:${email}`} hoverstyle="2"><MdMailOutline className="icon" style={{ color: '#13CCFD', marginRight : 5 }}/>{email}</Anchor></Text>}
+                                    {phone && <Text mb="10px"><Anchor style={{color:'#ABABAB'}} path={`tel:${phone}`} hoverstyle="2"><MdPhone className="icon" style={{ color: '#13CCFD', marginRight : 5 }}/>{phone}</Anchor></Text>}
                                     
                                 </TextWidget>
                             </FooterWidget>
@@ -114,6 +115,7 @@ const Footer = ({ copyrightStyle, ...props }) => {
                     </Row>
                 </Container>
             </FooterTop>
+            <CustomerChat></CustomerChat>
             <FooterBottom style={{ borderTop:'0.1px solid #ABABAB', paddingTop:'20px'}}>
                 <Container>
                     <Row className="align-items-center">

@@ -7,7 +7,6 @@ import Tabs, { TabHeader, NavItem, TabContent, TabPane } from '../../../componen
 import OurMission from './our-mission'
 import OurServices from './our-services'
 import Partners from './partners'
-import Awards from './awards'
 import { TabWrapper } from './tabs-area.style'
 
 const TabsSection = ({ sectionStyles, sectionTitleStyle }) => {

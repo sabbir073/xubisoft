@@ -1,19 +1,16 @@
 import React, { useState } from 'react';
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
-import parse from 'html-react-parser'
 import SEO from "../../components/seo"
 import Layout from '../../containers/layout/layout'
 import Header from '../../containers/layout/header/header-two'
 import Footer from '../../containers/layout/footer/footer-one'
-import { Container, Box, Row, Col } from '../../components/ui/wrapper'
+import { Container, Row, Col } from '../../components/ui/wrapper'
 import Heading from '../../components/ui/heading'
-import Text from '../../components/ui/text'
 import Image from '../../components/image'
 import VideoButton from '../../components/ui/video-button'
 import ModalVideo from '../../components/ui/modal-video'
 import BoxIcon from '../../components/box-icon/layout-three'
-import CTA from '../../containers/global/cta-area/section-one'
 import {
     Accordion,
     AccordionItem,
@@ -33,7 +30,7 @@ const ServiceTemplate = ({ data, location, ...restProps }) => {
     const {
         titleStyle,
         taglineStyle,
-        introTextStyles: { leftHeading, rightHeading, rightText },
+        introTextStyles: { leftHeading },
         featureStyels: { featureTitle } } = restProps;
 
     const [videoOpen, setVideoOpen] = useState(false);

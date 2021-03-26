@@ -5,7 +5,6 @@ import Header from '../containers/layout/header/header-two'
 import Footer from '../containers/layout/footer/footer-one'
 import PageHeader from '../components/callcenterheader'
 import ServicesArea from '../containers/call-center/services-area'
-import ContactArea from '../containers/global/contact-area/contact-three'
 import CTAArea from '../containers/global/cta-area/section-two'
 
 const callCenterPage = ({ pageContext, location }) => (

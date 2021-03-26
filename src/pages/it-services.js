@@ -5,7 +5,6 @@ import Header from '../containers/layout/header/header-one'
 import Footer from '../containers/layout/footer/footer-one'
 import PageHeader from '../components/pageheader'
 import ServicesArea from '../containers/it-services/services-area'
-import ContactArea from '../containers/global/contact-area/contact-two'
 
 const ITServicePage = ({ pageContext, location }) => (
   <Layout location={location}>

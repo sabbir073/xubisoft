@@ -1,8 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types'
-import parse from 'html-react-parser';
 import Img from 'gatsby-image'
-import Button from '../../ui/button'
 import Image from '../../image'
 import {
     BoxLargeImgWrap, 
@@ -12,7 +10,6 @@ import {
     BoxLargeImgBtnInner,
     BoxLargeImgHeading,
     HeadingWrap,
-    TextWrap,
     BoxLargeImgLink,
     BoxLargeImgContent} from './box-large-image.style'
 

@@ -5,8 +5,6 @@ import Header from '../containers/layout/header/header-two'
 import Footer from '../containers/layout/footer/footer-one'
 import PageHeader from '../components/faqheader'
 import FaqSectionOne from '../containers/faq/section-one'
-import FaqSectionTwo from '../containers/faq/section-two'
-import ContactArea from '../containers/global/contact-area/contact-one'
 
 const FAQPage = ({ pageContext, location }) => (
     <Layout location={location}>

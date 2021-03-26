@@ -6,7 +6,6 @@ import Footer from '../containers/layout/footer/footer-one'
 import PageHeader from '../components/historyheader'
 import IntroArea from '../containers/our-history/intro-area'
 import HistoryArea from '../containers/our-history/history-area'
-import ContactArea from '../containers/global/contact-area/contact-two'
 
 const HistoryPage = ({ pageContext, location }) => (
     <Layout location={location}>

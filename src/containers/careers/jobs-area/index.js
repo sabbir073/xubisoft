@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from 'gatsby'
 import { useStaticQuery, graphql } from 'gatsby'
 import { Container, Row, Col } from '../../../components/ui/wrapper'
 import SectionTitle from '../../../components/ui/section-title'

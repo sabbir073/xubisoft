@@ -4,7 +4,6 @@ import Layout from '../containers/layout/layout'
 import Header from '../containers/layout/header/header-two'
 import Footer from '../containers/layout/footer/footer-one'
 import PageHeader from '../components/contact-header'
-import CTAArea from '../containers/global/cta-area/section-one'
 import ContactFormArea from '../containers/contact-us/contact-form-area'
 import ContactInfoArea from '../containers/contact-us/contact-info-area'
 

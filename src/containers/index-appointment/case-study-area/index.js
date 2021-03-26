@@ -141,6 +141,7 @@ CaseStudySection.defaultProps = {
     slider: {
         slidesPerView: 3,
         loop: true,
+        autoplay: true,
         pagination: {
             el: '.swiper-pagination',
             clickable: true

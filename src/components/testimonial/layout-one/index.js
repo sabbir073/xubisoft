@@ -10,7 +10,6 @@ import {
     TestimonialRating,
     AuthorInfo,
     AuthorName,
-    AuthorRole,
     Review
 } from './testimonial.style'
 

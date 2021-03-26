@@ -40,7 +40,7 @@ const FaqSection = ({ accordionStyle }) => {
             }
         }
     `)
-    const { intro: { title }, faq: { items: faqs }, video: { image, video_link } } = getFaqData
+    const { intro: { title }, faq: { items: faqs }, video: { image } } = getFaqData
     return (
         <SectionWrap>
             <Container>

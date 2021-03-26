@@ -8,7 +8,7 @@ import Button from '../../ui/button'
 
 const ContactForm = () => {
     const formUrl = useFormUrl();
-    const { register, handleSubmit, errors, reset } = useForm({
+    const { register, handleSubmit, errors } = useForm({
         mode: "onBlur"
     })
 

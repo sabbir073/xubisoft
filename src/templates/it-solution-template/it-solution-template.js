@@ -10,28 +10,14 @@ import Footer from '../../containers/layout/footer/footer-one'
 import { Container, Box, Row, Col } from '../../components/ui/wrapper'
 import Heading from '../../components/ui/heading'
 import Text from '../../components/ui/text'
-import Image from '../../components/image'
-import VideoButton from '../../components/ui/video-button'
 import ModalVideo from '../../components/ui/modal-video'
 import BoxIcon from '../../components/box-icon/layout-three'
 import BoxIcon2 from '../../components/box-icon/layout-four'
-import CTA from '../../containers/global/cta-area/section-one'
 import {SolutionsWrapper, SolutionBox, SolutionBoxItem} from './solutions-area.style'
-import {
-    Accordion,
-    AccordionItem,
-    AccordionItemHeading,
-    AccordionItemButton,
-    AccordionItemPanel,
-} from 'react-accessible-accordion';
-import AccordionWrap from '../../components/ui/accordion'
 import {
     BannerArea,
     BannerTextWrap,
     IntroArea,
-    FaqArea,
-    VideoBoxWrap,
-    VideoBtnWrap,
     FeatureArea
 } from './it-solution-template.style'
 
@@ -44,7 +30,7 @@ const ServiceTemplate = ({ data, location, ...restProps }) => {
     const {
         titleStyle,
         taglineStyle,
-        introTextStyles: { leftHeading, rightHeading, rightText },
+        introTextStyles: { rightHeading, rightText },
         featureStyels: { featureTitle } } = restProps;
 
     const [videoOpen, setVideoOpen] = useState(false);
@@ -53,9 +39,6 @@ const ServiceTemplate = ({ data, location, ...restProps }) => {
         var { video_link } = pageData.video;
         var video_arr = video_link.split('=', -1);
         var video_id = video_arr[1];
-    }
-    const modalVideoOpen = () => {
-        setVideoOpen(true)
     }
 
     const modalVideoClose = () => {

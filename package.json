@@ -9,6 +9,7 @@
     "axios": "^0.21.1",
     "babel-plugin-styled-components": "^1.10.7",
     "bootstrap": "^4.4.1",
+    "core-js": "^2.6.12",
     "disqus-react": "^1.0.7",
     "gatsby": "^2.31.0",
     "gatsby-background-image": "^0.9.12",
