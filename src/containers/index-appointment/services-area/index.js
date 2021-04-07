@@ -19,7 +19,7 @@ const Services = ({
             subtitle
             path
         }
-        allItServicesJson(sort: {order: DESC, fields: id}, filter: {is_featured: {eq: true}}) {
+        allItServicesJson(sort: {order: ASC, fields: id}, filter: {is_featured: {eq: true}}) {
           edges {
             node {
               fields {
@@ -55,6 +55,19 @@ const Services = ({
         </Row>
         <Row>
           {serviceData.map(feature => {
+            let customPath;
+            if(feature.node.id === "service-5"){
+                customPath = `/training`;
+            }
+            else if(feature.node.id === "service-4"){
+                customPath = `/call-center`;
+            }
+            else if(feature.node.id === "service-7"){
+                customPath = `/clipping-path`;
+            }
+            else{
+                customPath = `/service/${feature.node.fields.slug}`;
+            }
             return (
               <Col lg={4} md={6} key={feature.node.id}>
                 <BoxIcon
@@ -62,7 +75,7 @@ const Services = ({
                   title={feature.node.title}
                   desc={feature.node.excerpt}
                   icon={feature.node.icon}
-                  path={`/service/${feature.node.fields.slug}`}
+                  path={customPath}
                 />
               </Col>
             )

@@ -82,7 +82,7 @@ exports.createPages = async ({ graphql, actions }) => {
     const categoryPage = path.resolve("./src/templates/category-template/category-template.js");
     const authorPage = path.resolve("./src/templates/author-template/author-template.js");
     const datePage = path.resolve("./src/templates/date-template/date-template.js");
-    const searchPage = path.resolve("./src/templates/search-template/search-template.js");
+    const searchPage = path.resolve("./src/pages/404.js");
 
 
     const result = await graphql(`

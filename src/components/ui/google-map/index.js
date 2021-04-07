@@ -23,11 +23,11 @@ const GoogleMap = (props) => {
 
 GoogleMap.defaultProps = {
     center: {
-        lat: 23.7808875,
-        lng: 90.2792371
+        lat: 23.8593562,
+        lng: 90.4005381
     },
-    APIKey: "AIzaSyD79MY72taVRlZVX2DU6L5PXOh3ezUUKMc",
-    zoom: 11
+    APIKey: "AIzaSyAFWDc91pRYRHeBy7Ktu3120fx30Tg60n8",
+    zoom: 15
 }
 
 export default GoogleMap;

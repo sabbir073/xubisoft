@@ -14,7 +14,6 @@ import Text from '../../../../components/ui/text'
 import Anchor from '../../../../components/ui/anchor'
 import Button from '../../../../components/ui/button'
 import Heading from '../../../../components/ui/heading'
-import CustomerChat from '../../../../components/facebook-chat'
 import Social, { SocialLink } from '../../../../components/ui/social'
 import {
     FooterWrap,
@@ -115,7 +114,6 @@ const Footer = ({ copyrightStyle, ...props }) => {
                     </Row>
                 </Container>
             </FooterTop>
-            <CustomerChat></CustomerChat>
             <FooterBottom style={{ borderTop:'0.1px solid #ABABAB', paddingTop:'20px'}}>
                 <Container>
                     <Row className="align-items-center">

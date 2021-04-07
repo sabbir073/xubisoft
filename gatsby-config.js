@@ -28,25 +28,18 @@ module.exports = {
       clients: "3200",
       addressInfos: [
         {
-          "id": "san-francisco",
-          "state": "San Francisco",
-          "address": "58 Howard Street #2 San Francisco, CA 941",
-          "email": "contact.sanfrancisco@mitech.com",
-          "phone": "(+68)1221 09876"
+          "id": "head-office",
+          "state": "Head Office",
+          "address": "House-19(GF), Road-04, Sector-04, Uttara, Dhaka-1230.",
+          "email": "info@xubisoft.com",
+          "phone": "+8801714-028710"
         },
         {
-          "id": "new-york",
-          "state": "New York",
-          "address": "58 Howard Street #14 New York",
-          "email": "contact.newyork@mitech.com",
-          "phone": "(+68)1221 09878"
-        },
-        {
-          "id": "russia",
-          "state": "Russia",
-          "address": "The Courtyard Building 11 Curtain Road, Russia",
-          "email": "contact.russia@mitech.com",
-          "phone": "(+68)1221 09877"
+          "id": "branch-office",
+          "state": "Branch Office",
+          "address": "Robertson Gonj, Alam Nagar, Rangpur-5402.",
+          "email": "xubisoftltd@gmail.com",
+          "phone": "+8801722-139426"
         }
       ]
     }
