@@ -20,7 +20,7 @@ module.exports = {
     },
     contact: {
       phone: '+880 241090373 | +8801611609372',
-      address: "House-19, Road-4, Sector-4, Uttara, Dhaka 1230.",
+      address: "House-45, Road-7, Sector-4, Uttara, Dhaka 1230.",
       email: 'info@xubisoft.com',
       website: "https://xubisoft.com/",
       rating: "4.9",
@@ -30,14 +30,14 @@ module.exports = {
         {
           "id": "head-office",
           "state": "Head Office",
-          "address": "House-19(GF), Road-04, Sector-04, Uttara, Dhaka-1230.",
+          "address": "House-45(8th Floor), Road-07, Sector-04, Uttara, Dhaka-1230.",
           "email": "info@xubisoft.com",
           "phone": "+8801714-028710"
         },
         {
           "id": "branch-office",
           "state": "Branch Office",
-          "address": "Robertson Gonj, Alam Nagar, Rangpur-5402.",
+          "address": "EDB Trade Centre, 14th Floor, 93, Kazi Nazrul Islam Avenue, Kawran Bazar, Dhaka-1215.",
           "email": "xubisoftltd@gmail.com",
           "phone": "+8801722-139426"
         }

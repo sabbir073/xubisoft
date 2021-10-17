@@ -1,9 +1,9 @@
 [{
         "id": "appointment-hero-content",
         "bgImage": "./images/hero/test1.png",
-        "subtitle": "Xubioft Ltd.",
+        "subtitle": "Xubisoft Ltd.",
         "title": "We Provide Solutions That Brings JOY!",
-        "video": "https://www.youtube.com/watch?v=9No-FiEInLA",
+        "video": "https://www.youtube.com/watch?v=eoa0PcVwU0A",
         "buttonText": "How we work"
     },
     {
@@ -37,7 +37,7 @@
                 "Skill Development Training"
             ],
             "link": "/about-us",
-            "video_link": "https://www.youtube.com/watch?v=9No-FiEInLA",
+            "video_link": "https://www.youtube.com/watch?v=eoa0PcVwU0A",
             "video_preview": "./images/about-us/aboutusimage.jpg"
         }
     },

@@ -124,7 +124,7 @@ const Header = (props) => {
                                                                 <MdPlace className="icon" />
                                                             </InfoIcon>
                                                             <InfoContent>
-                                                                <Heading {...infoHeading}>H-19, Road-4, Sector-4</Heading>
+                                                                <Heading {...infoHeading}>H-45, Road-7, Sector-4</Heading>
                                                                 <Text {...infoText}>Uttara, Dhaka-1230</Text>
                                                             </InfoContent>
                                                         </InfoItem>
