@@ -6,7 +6,7 @@ import { MdPlace, MdMailOutline, MdPhone } from "react-icons/md";
 import parse from 'html-react-parser'
 import { Container } from 'react-bootstrap'
 import Logo from '../../../../assets/images/logo/newslogo.jpg'
-import ISO from '../../../../assets/images/logo/ISO.jpg'
+import ISO from '../../../../assets/images/logo/ISO.png'
 import gplayImage from '../../../../assets//images/icons/basislogo.png'
 import appImage from '../../../../assets//images/icons/baccologo.png'
 import { Row, Col } from '../../../../components/ui/wrapper'
@@ -84,7 +84,7 @@ const Footer = ({ copyrightStyle, ...props }) => {
                             <FooterWidget responsive={{ medium: { mb: '27px' } }}>
                                 <Heading as="h6" mt="-3px" mb="20px" style={{color:'#13CCFD'}}>QUICK LINKS</Heading>
                                 <FooterWidgetList>
-                                    <li><Anchor path="/about-us" color="#ABABAB" hoverstyle="2">About Us</Anchor></li>
+                                    <li><Anchor path="/quality-policy" color="#ABABAB" hoverstyle="2">Quality Policy</Anchor></li>
                                     <li><Anchor path="/products" color="#ABABAB" hoverstyle="2">Our Products</Anchor></li>
                                     <li><Anchor path="/service/it-consultancy" color="#ABABAB" hoverstyle="2">IT Consultancy</Anchor></li>
                                     <li><Anchor path="/training" color="#ABABAB" hoverstyle="2">Trainings</Anchor></li>
