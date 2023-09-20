@@ -1,8 +1,8 @@
 [
     {
         "id": "fahad-hasan",
-        "name": "Fahad Hasan",
-        "designation": "Managing Director & CEO",
+        "name": "Farhad Hossain",
+        "designation": "Managing Director",
         "position": "head",
         "images": {
             "large": "../images/team/fahadlarge.png",
@@ -12,6 +12,22 @@
             "facebook": "https://www.facebook.com/getfahad",
             "linkedin": "https://www.linkedin.com/in/get-fahad/",
             "twitter": "https://twitter.com/Fahad_Hasan1"
+        },
+        "is_featured": true
+    },
+    {
+        "id": "rabeya-bossri",
+        "name": "Rabeya Bossri",
+        "designation": "Chairman",
+        "position": "head",
+        "images": {
+            "large": "../images/team/roksanalarge.png",
+            "medium": "../images/team/roksana.png"
+        },
+        "socials": {
+            "facebook": "https://www.facebook.com/Xubisoft",
+            "linkedin": "https://www.linkedin.com/company/xubisoft/",
+            "twitter": "https://twitter.com/xubisoft"
         },
         "is_featured": true
     },
@@ -35,7 +51,7 @@
         "id": "rb-rokhsana",
         "name": "R. Roksana",
         "designation": "Chief Financial Officer",
-        "position": "head",
+        "position": "executive",
         "images": {
             "large": "../images/team/roksanalarge.png",
             "medium": "../images/team/roksana.png"
@@ -61,7 +77,7 @@
             "linkedin": "https://www.linkedin.com/company/xubisoft/",
             "twitter": "https://twitter.com/xubisoft"
         },
-        "is_featured": true
+        "is_featured": false
     },
     {
         "id": "ms-ashrafuzzman",
@@ -112,6 +128,54 @@
         "is_featured": false
     },
     {
+        "id": "sazzadul-alam",
+        "name": "Sazzadul Alam",
+        "designation": "Technical Project Manager",
+        "position": "executive",
+        "images": {
+            "large": "../images/team/tanvir.png",
+            "medium": "../images/team/tanvir.png"
+        },
+        "socials": {
+            "facebook": "https://www.facebook.com/Xubisoft",
+            "linkedin": "https://www.linkedin.com/company/xubisoft/",
+            "twitter": "https://twitter.com/xubisoft"
+        },
+        "is_featured": false
+    },
+    {
+        "id": "sabbir-ahmed",
+        "name": "Md Sabbir Ahmed",
+        "designation": "Senior Software Engineer & Trainer",
+        "position": "executive",
+        "images": {
+            "large": "../images/team/tanvir.png",
+            "medium": "../images/team/tanvir.png"
+        },
+        "socials": {
+            "facebook": "https://www.facebook.com/Xubisoft",
+            "linkedin": "https://www.linkedin.com/company/xubisoft/",
+            "twitter": "https://twitter.com/xubisoft"
+        },
+        "is_featured": false
+    },
+    {
+        "id": "md-kawcher",
+        "name": "Md Kawcher ul Islam",
+        "designation": "Business Development Officer",
+        "position": "executive",
+        "images": {
+            "large": "../images/team/tanvir.png",
+            "medium": "../images/team/tanvir.png"
+        },
+        "socials": {
+            "facebook": "https://www.facebook.com/Xubisoft",
+            "linkedin": "https://www.linkedin.com/company/xubisoft/",
+            "twitter": "https://twitter.com/xubisoft"
+        },
+        "is_featured": false
+    },
+    {
         "id": "fazle-elahi-shikder",
         "name": "Md. Fajley Alahe Sikder",
         "designation": "Sr. Executive (T&D)",
@@ -143,26 +207,11 @@
         },
         "is_featured": false
     },
-    {
-        "id": "mehedi-hasan",
-        "name": "Mehedi Hasan",
-        "designation": "Lead Software Engineer",
-        "position": "executive",
-        "images": {
-            "large": "../images/team/mehedihasan.png",
-            "medium": "../images/team/mehedihasan.png"
-        },
-        "socials": {
-            "facebook": "https://www.facebook.com/Xubisoft",
-            "linkedin": "https://www.linkedin.com/company/xubisoft/",
-            "twitter": "https://twitter.com/xubisoft"
-        },
-        "is_featured": false
-    },
+    
     {
         "id": "moinuddin-razu",
         "name": "Md. Mostofa Moinuddin Razu",
-        "designation": "Lead Trainer",
+        "designation": "Business Development Officer",
         "position": "executive",
         "images": {
             "large": "../images/team/razu.png",
@@ -191,22 +240,7 @@
         },
         "is_featured": false
     },
-    {
-        "id": "syeed-abdullah",
-        "name": "Syeed Abdullah",
-        "designation": "Trainer",
-        "position": "executive",
-        "images": {
-            "large": "../images/team/syeedabdullah.png",
-            "medium": "../images/team/syeedabdullah.png"
-        },
-        "socials": {
-            "facebook": "https://www.facebook.com/Xubisoft",
-            "linkedin": "https://www.linkedin.com/company/xubisoft/",
-            "twitter": "https://twitter.com/xubisoft"
-        },
-        "is_featured": false
-    },
+    
     {
         "id": "nasheen-tabassum",
         "name": "Nashin Tabassum Purba",
@@ -223,22 +257,7 @@
         },
         "is_featured": false
     },
-    {
-        "id": "masud-morshed",
-        "name": "Masud Morshed",
-        "designation": "Database Officer",
-        "position": "executive",
-        "images": {
-            "large": "../images/team/morshed.png",
-            "medium": "../images/team/morshed.png"
-        },
-        "socials": {
-            "facebook": "https://www.facebook.com/Xubisoft",
-            "linkedin": "https://www.linkedin.com/company/xubisoft/",
-            "twitter": "https://twitter.com/xubisoft"
-        },
-        "is_featured": false
-    },
+    
     {
         "id": "gene-moreno",
         "name": "Gene Moreno",

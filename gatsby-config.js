@@ -37,10 +37,10 @@ module.exports = {
         {
           "id": "branch-office",
           "state": "Branch Office",
-          "address": "EDB Trade Centre, 14th Floor, 93, Kazi Nazrul Islam Avenue, Kawran Bazar, Dhaka-1215.",
+          "address": "House-53 (Level-3), Road - 1/1, East Guptapara, Rangpur 5402",
           "email": "xubisoftltd@gmail.com",
           "phone": "+8801722-139426"
-        }
+        },
       ]
     }
   },
